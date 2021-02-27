@@ -7,3 +7,5 @@ I working as Senior IT Infrastructure Specialist, Senior IT Consultant, IT Archi
 ## About me
 
 [About Me](https://about.me/michalzobec)
+
+[My LinkedIn profile](https://www.linkedin.com/in/michalzobec/)
