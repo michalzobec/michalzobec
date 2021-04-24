@@ -9,3 +9,7 @@ I working as Senior IT Infrastructure Specialist, Senior IT Consultant, IT Archi
 [About Me](https://about.me/michalzobec)
 
 [My LinkedIn profile](https://www.linkedin.com/in/michalzobec/)
+
+<!-- Here are my GitHub [stats](https://github-readme-stats.vercel.app/api?username=michalzobec): -->
+
+![My State](https://github-readme-stats.vercel.app/api?username=michalzobec)
