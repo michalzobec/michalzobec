@@ -17,7 +17,7 @@ Vyvíjím aplikace v PowerShell, nebo C#. Vyvíjím aplikace (desktopové aplika
 
 Občas přeložím nějakou aplikaci, nebo hru z angličtiny do češtiny. Vytvořil jsem následující překlady: Microsoft Baseline Security Analyzer, The Elder Scrolls III: Morrowind (a datadisky), The Elder Scrolls IV: Oblivion (a datadisky), Far Manager (pouze nápověda), Far Manager pluginy, Inno Setup, Wordpress pluginy.
 
-Pokud mne budete [sponzorovat](https://github.com/sponsors/michalzobec){:target="_blank"}, pomůžete mi se více soustředit na komunitní projekty.
+Pokud mne budete [sponzorovat](https://github.com/sponsors/michalzobec), pomůžete mi se více soustředit na komunitní projekty.
 
 [*Zpět nahoru*](#documenttitle "Na začátek dokumentu")
 
@@ -38,14 +38,14 @@ I write applications in PowerShell and C#. I developing applications (desktop ap
 
 Sometimes I translate applications or games from English to Czech. I worked on following translations: Microsoft Baseline Security Analyzer, The Elder Scrolls III: Morrowind (and datadisks), The Elder Scrolls IV: Oblivion (and datadisks), Far Manager (help only), Far Manager PlugIns, Inno Setup, Wordpress PlugIns.
 
-[Sponsorship](https://github.com/sponsors/michalzobec){:target="_blank"} helps me more focusing from commercial projects to open-source community projects.
+[Sponsorship](https://github.com/sponsors/michalzobec) helps me more focusing from commercial projects to open-source community projects.
 
 [*Back to top*](#documenttitle "Top of the document")
 
 ## Odkazy / Links
 
-[O mě / About Me](https://about.me/michalzobec){:target="_blank"}
+[O mě / About Me](https://about.me/michalzobec)
 
-[Můj profil na Linkedin / My LinkedIn profile](https://www.linkedin.com/in/michalzobec/){:target="_blank"}
+[Můj profil na Linkedin / My LinkedIn profile](https://www.linkedin.com/in/michalzobec/)
 
 ![My State](https://github-readme-stats.vercel.app/api?username=michalzobec)
