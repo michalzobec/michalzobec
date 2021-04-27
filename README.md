@@ -19,6 +19,8 @@ Občas přeložím nějakou aplikaci, nebo hru z angličtiny do češtiny. Vytvo
 
 Pokud mne budete sponzorovat, pomůžete mi se více soustředit na komunitní projekty.
 
+[Více podrobností](MichalZobec-About.md)
+
 [*Zpět nahoru*](#documenttitle "Na začátek dokumentu")
 
 # Hello
