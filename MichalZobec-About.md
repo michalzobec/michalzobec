@@ -4,7 +4,7 @@
 
 ([*For English scroll below*](#english "For English scroll below"))
 
-Jmenuji se Michal Zobec. Bydlím v Praze, v České republice.
+Jmenuji se **Michal Zobec**. Bydlím v Praze, v České republice.
 
 Pracuji jako kontraktor na pozicích Senior IT Infrastructure Specialist, Senior IT Consultant, IT Architect, či IT Project Manager. Mám více než 20 let praxi v oboru ICT.
 
@@ -21,11 +21,11 @@ Pokud mne budete [sponzorovat](https://github.com/sponsors/michalzobec), pomůž
 
 [*Zpět nahoru*](#documenttitle "Na začátek dokumentu")
 
-# Hello
-
 <a name="english"></a>
 
-My name is Michal Zobec. I am live at Prague, Czech Republic.
+# Hello
+
+My name is **Michal Zobec**. I am live at Prague, Czech Republic.
 
 I working as Senior IT Infrastructure Specialist, Senior IT Consultant, IT Architect and IT Project Manager with 20+ years experience.
 
