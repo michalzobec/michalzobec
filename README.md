@@ -8,19 +8,26 @@ Jmenuji se **Michal Zobec**. Bydlím v Praze, v České republice.
 
 Pracuji jako kontraktor na pozicích Senior IT Infrastructure Specialist, Senior IT Consultant, IT Architect, či IT Project Manager. Mám více než 20 let praxi v oboru ICT. [Více podrobností](MichalZobec-About.md).
 
-[:heart: Sponsor] [Vaše pomoc (sponzorství)](https://github.com/sponsors/michalzobec) mi pomůže se více zaměřit z komerčních projektů na komunitní projekty.
+[Vaše pomoc :heart: (sponzorství)](https://github.com/sponsors/michalzobec) mi pomůže se více zaměřit z komerčních projektů na komunitní projekty.
 
 ## Vybrané projekty
 
 Zde jsou některé mé projekty. Pokud chcete, můžete kouknout na [všechny repozitáře na mém profilu](https://github.com/michalzobec?tab=repositories).
 
 | Název | Repozitář | Popis |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | **The Elder Scrolls III: Morrowind Czech** | [TES3 Morrowind Czech](https://github.com/michalzobec/tes3-morrowind-cesky) | Čeština pro hru The Elder Scrolls III: Morrowind. |
 | **The Elder Scrolls IV: Oblivion Czech** | [TES4 Oblivion Czech](https://github.com/michalzobec/tes4-oblivion-cesky) | Čeština pro hru The Elder Scrolls IV: Oblivion. |
 | **Get System Report** | [Get-SystemReport](https://github.com/michalzobec/Get-SystemReport) | PowerShell skript pro sběr diagnostických informací o Windows a pro jednoduchý monitoring stavu serverů. |
 | **PowerShell** | [PowerShell](https://github.com/michalzobec/PowerShell) | Sbírka mých PowerShell skriptů. |
 | **Microsoft Azure** | [Microsoft Azure](https://github.com/michalzobec/microsoft-azure) | Sbírka mých skriptů pro Microsoft Azure. |
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 
 <a name="english"></a>
 
@@ -30,7 +37,7 @@ My name is **Michal Zobec**. I am live at Prague, Czech Republic.
 
 I working as Senior IT Infrastructure Specialist, Senior IT Consultant, IT Architect and IT Project Manager with 20+ years experience. [More details](MichalZobec-About.md#english).
 
-[:heart: Sponsor] [Your help (sponsorship)](https://github.com/sponsors/michalzobec) helps me more focusing from commercial projects to community projects.
+[Your help :heart: (sponsorship)](https://github.com/sponsors/michalzobec) helps me more focusing from commercial projects to community projects.
 
 ## Selected projects
 
