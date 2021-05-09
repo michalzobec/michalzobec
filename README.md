@@ -22,13 +22,6 @@ Zde jsou některé mé projekty. Pokud chcete, můžete kouknout na [všechny re
 | **PowerShell** | [PowerShell](https://github.com/michalzobec/PowerShell) | Sbírka mých PowerShell skriptů. |
 | **Microsoft Azure** | [Microsoft Azure](https://github.com/michalzobec/microsoft-azure) | Sbírka mých skriptů pro Microsoft Azure. |
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-
 <a name="english"></a>
 
 # Hello
@@ -44,7 +37,7 @@ I working as Senior IT Infrastructure Specialist, Senior IT Consultant, IT Archi
 Here are some of my projects. If you want, you can look at [all repositories on my profile](https://github.com/michalzobec?tab=repositories).
 
 | Name | Repository | Description |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | **The Elder Scrolls III: Morrowind Czech** | [TES3 Morrowind Czech](https://github.com/michalzobec/tes3-morrowind-cesky) | Czech translation for game The Elder Scrolls III: Morrowind. |
 | **The Elder Scrolls IV: Oblivion Czech** | [TES4 Oblivion Czech](https://github.com/michalzobec/tes4-oblivion-cesky) | Czech translation for game The Elder Scrolls IV: Oblivion. |
 | **Get System Report** | [Get-SystemReport](https://github.com/michalzobec/Get-SystemReport) | PowerShell skript pro sběr diagnostických informací o Windows a pro jednoduchý monitoring stavu serverů. |
