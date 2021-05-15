@@ -14,13 +14,13 @@ Pracuji jako kontraktor na pozicích Senior IT Infrastructure Specialist, Senior
 
 Zde jsou některé mé projekty. Pokud chcete, můžete kouknout na [všechny repozitáře na mém profilu](https://github.com/michalzobec?tab=repositories).
 
-| Název | Repozitář | Popis |
-| --- | --- | --- |
-| **The Elder Scrolls III: Morrowind Czech** | [TES3-Morrowind-cesky](https://github.com/michalzobec/TES3-Morrowind-cesky) | Čeština pro hru The Elder Scrolls III: Morrowind. |
-| **The Elder Scrolls IV: Oblivion Czech** | [TES4-Oblivion-cesky](https://github.com/michalzobec/TES4-Oblivion-cesky) | Čeština pro hru The Elder Scrolls IV: Oblivion. |
-| **Get System Report** | [Get-SystemReport](https://github.com/michalzobec/Get-SystemReport) | PowerShell skript pro sběr diagnostických informací o Windows a pro jednoduchý monitoring stavu serverů. |
-| **PowerShell** | [PowerShell](https://github.com/michalzobec/PowerShell) | Sbírka mých PowerShell skriptů. |
-| **Microsoft Azure** | [Microsoft Azure](https://github.com/michalzobec/microsoft-azure) | Sbírka mých skriptů pro Microsoft Azure. |
+| Projekt | Popis |
+| --- | --- |
+| **[The Elder Scrolls III: Morrowind Czech](https://github.com/michalzobec/TES3-Morrowind-cesky)** | Čeština pro hru The Elder Scrolls III: Morrowind. |
+| **[The Elder Scrolls IV: Oblivion Czech](https://github.com/michalzobec/TES4-Oblivion-cesky)** | Čeština pro hru The Elder Scrolls IV: Oblivion. |
+| **[Get System Report](https://github.com/michalzobec/Get-SystemReport)** | PowerShell skript pro sběr diagnostických informací o Windows a pro jednoduchý monitoring stavu serverů. |
+| **[PowerShell](https://github.com/michalzobec/PowerShell)** | Sbírka mých PowerShell skriptů. |
+| **[Microsoft Azure](https://github.com/michalzobec/microsoft-azure)** | Sbírka mých skriptů pro Microsoft Azure. |
 
 <a name="english"></a>
 
@@ -36,13 +36,13 @@ I working as Senior IT Infrastructure Specialist, Senior IT Consultant, IT Archi
 
 Here are some of my projects. If you want, you can look at [all repositories on my profile](https://github.com/michalzobec?tab=repositories).
 
-| Name | Repository | Description |
-| --- | --- | --- |
-| **The Elder Scrolls III: Morrowind Czech** | [TES3-Morrowind-cesky](https://github.com/michalzobec/TES3-Morrowind-cesky) | Czech translation for game The Elder Scrolls III: Morrowind. |
-| **The Elder Scrolls IV: Oblivion Czech** | [TES4-Oblivion-cesky](https://github.com/michalzobec/TES4-Oblivion-cesky) | Czech translation for game The Elder Scrolls IV: Oblivion. |
-| **Get System Report** | [Get-SystemReport](https://github.com/michalzobec/Get-SystemReport) | PowerShell skript pro sběr diagnostických informací o Windows a pro jednoduchý monitoring stavu serverů. |
-| **PowerShell** | [PowerShell](https://github.com/michalzobec/PowerShell) | Sbírka mých PowerShell skriptů. |
-| **Microsoft Azure** | [Microsoft Azure](https://github.com/michalzobec/microsoft-azure) | Sbírka mých skriptů pro Microsoft Azure. |
+| Project | Description |
+| --- | --- |
+| **[The Elder Scrolls III: Morrowind Czech](https://github.com/michalzobec/TES3-Morrowind-cesky)** | Czech translation for game The Elder Scrolls III: Morrowind. |
+| **[The Elder Scrolls IV: Oblivion Czech](https://github.com/michalzobec/TES4-Oblivion-cesky)** | Czech translation for game The Elder Scrolls IV: Oblivion. |
+| **[Get System Report](https://github.com/michalzobec/Get-SystemReport)** | PowerShell skript pro sběr diagnostických informací o Windows a pro jednoduchý monitoring stavu serverů. |
+| **[PowerShell](https://github.com/michalzobec/PowerShell)** | Sbírka mých PowerShell skriptů. |
+| **[Microsoft Azure](https://github.com/michalzobec/microsoft-azure)** | Sbírka mých skriptů pro Microsoft Azure. |
 
 ## Odkazy / Links
 
