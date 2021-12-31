@@ -46,8 +46,13 @@ Here are some of my projects. If you want, you can look at [all repositories on 
 
 ## Odkazy / Links
 
-[O mě / About Me](https://about.me/michalzobec)
+[O mě / About Me](https://zob.ec/mylinktree)
 
-[Můj profil na Linkedin / My LinkedIn profile](https://www.linkedin.com/in/michalzobec/)
+[Můj profil na Linkedin / My LinkedIn profile](https://zob.ec/mylinkedin)
 
 ![My State](https://github-readme-stats.vercel.app/api?username=michalzobec)
+
+## My last blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
