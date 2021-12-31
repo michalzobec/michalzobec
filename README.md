@@ -51,23 +51,25 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+## GitHub total stats
 
-## Stats 1
+Total stats on GitHub including private repositories.
 
-![MichalZobec's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalzobec&count_private=true)
+![MichalZobec's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalzobec&count_private=true&show_icons=true)
 
-## Stats 2
 
-[![MichalZobec's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalzobec)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub stats (Public only)
 
-## Stats 3
+Stats on GitHub, only public repositories.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalzobec)](https://github.com/anuraghazra/github-readme-stats)
+![My State](https://github-readme-stats.vercel.app/api?username=michalzobec&show_icons=true)
+
+## GitHub Language stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalzobec&langs_count=10&layout=compact)]
 
 ## Odkazy / Links
 
 [O mě / About Me](https://zob.ec/mylinktree)
 
 [Můj profil na Linkedin / My LinkedIn profile](https://zob.ec/mylinkedin)
-
-![My State](https://github-readme-stats.vercel.app/api?username=michalzobec)
