@@ -44,6 +44,23 @@ Here are some of my projects. If you want, you can look at [all repositories on 
 | **[PowerShell](https://github.com/michalzobec/PowerShell)** | Sbírka mých PowerShell skriptů. |
 | **[Microsoft Azure](https://github.com/michalzobec/microsoft-azure)** | Sbírka mých skriptů pro Microsoft Azure. |
 
+## Poslední příspěvky na blogu / Last blog posts
+
+Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+## Stats 1
+
+![MichalZobec's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalzobec&count_private=true)
+
+## Stats 2
+
+[![MichalZobec's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalzobec)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Odkazy / Links
 
 [O mě / About Me](https://zob.ec/mylinktree)
@@ -51,10 +68,3 @@ Here are some of my projects. If you want, you can look at [all repositories on 
 [Můj profil na Linkedin / My LinkedIn profile](https://zob.ec/mylinkedin)
 
 ![My State](https://github-readme-stats.vercel.app/api?username=michalzobec)
-
-## Poslední příspěvky na blogu / Last blog posts
-
-Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
