@@ -44,13 +44,6 @@ Here are some of my projects. If you want, you can look at [all repositories on 
 | **[PowerShell](https://github.com/michalzobec/PowerShell)** | Sbírka mých PowerShell skriptů. |
 | **[Microsoft Azure](https://github.com/michalzobec/microsoft-azure)** | Sbírka mých skriptů pro Microsoft Azure. |
 
-## Poslední příspěvky na blogu / Last blog posts
-
-Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## GitHub total stats
 
 Total stats on GitHub including private repositories.
@@ -67,6 +60,13 @@ Stats on GitHub, only public repositories.
 ## GitHub Language stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalzobec&langs_count=10&layout=compact)]
+
+## Poslední příspěvky na blogu / Last blog posts
+
+Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
 
