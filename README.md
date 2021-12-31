@@ -52,12 +52,9 @@ Here are some of my projects. If you want, you can look at [all repositories on 
 
 ![My State](https://github-readme-stats.vercel.app/api?username=michalzobec)
 
-## My last blog posts
+## Poslední příspěvky na blogu / Last blog posts
+
+Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 10: Jak vyvolat dialog Programy a funkce &lpar;Programs and Features&rpar;](https://www.michalzobec.cz/windows-10-jak-vyvolat-dialog-programy-a-funkce-programs-and-features-8490)
-- [From Castle to Castle | Red Bull Racing vyrazil na Road Trip přes Česko a Slovensko](https://www.michalzobec.cz/from-castle-to-castle-red-bull-racing-vyrazil-na-road-trip-pres-cesko-a-slovensko-8477)
-- [Windows 11: Microsoft zjednodušil a rozšířil dobu podpory pro nové verze Windows 11](https://www.michalzobec.cz/windows-11-microsoft-zjednodusil-a-rozsiril-dobu-podpory-pro-nove-verze-windows-11-8472)
-- [Jaké produkty Microsoftu končí v roce 2022?](https://www.michalzobec.cz/jake-produkty-microsoftu-konci-v-roce-2022-8463)
-- [Microsoft: Seznam produktů s datem ukončení jejich podpory &lpar;Aktualizace 18.12.2021&rpar;](https://www.michalzobec.cz/konec-podpory-pro-produkty-spolecnosti-microsoft-5844)
 <!-- BLOG-POST-LIST:END -->
