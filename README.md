@@ -60,4 +60,9 @@ Here are some of my projects. If you want, you can look at [all repositories on 
 - [Windows 11: Microsoft zjednodušil a rozšířil dobu podpory pro nové verze Windows 11](https://www.michalzobec.cz/windows-11-microsoft-zjednodusil-a-rozsiril-dobu-podpory-pro-nove-verze-windows-11-8472)
 - [Jaké produkty Microsoftu končí v roce 2022?](https://www.michalzobec.cz/jake-produkty-microsoftu-konci-v-roce-2022-8463)
 - [Microsoft: Seznam produktů s datem ukončení jejich podpory &lpar;Aktualizace 18.12.2021&rpar;](https://www.michalzobec.cz/konec-podpory-pro-produkty-spolecnosti-microsoft-5844)
+- [Jaké produkty Microsoftu končí v roce 2021? &lpar;Aktualizace 18.12.2021&rpar;](https://www.michalzobec.cz/jake-produkty-microsoftu-konci-v-roce-2021-aktualizace-14-2-2021-7764)
+- [Microsoft Teams Exploratory zkušební verze &lpar;trial&rpar; byla 16.12.2021 ukončena](https://www.michalzobec.cz/microsoft-teams-exploratory-zkusebni-verze-trial-byla-16-12-2021-ukoncena-8435)
+- [Azure: Jednodušší vymazávání strojů Azure VM](https://www.michalzobec.cz/azure-jednodussi-vymazavani-stroju-azure-vm-8455)
+- [Čím nahradit zkušební verzi &lpar;trial&rpar; Microsoft Teams Exploratory ve školách](https://www.michalzobec.cz/cim-nahradit-zkusebni-verzi-trial-microsoft-teams-exploratory-ve-skolach-8437)
+- [Čím nahradit zkušební verzi &lpar;trial&rpar; Microsoft Teams Exploratory ve firmách](https://www.michalzobec.cz/cim-nahradit-zkusebni-verzi-trial-microsoft-teams-exploratory-ve-firmach-8438)
 <!-- BLOG-POST-LIST:END -->
