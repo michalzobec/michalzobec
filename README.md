@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Jak otestovat výkon počítače &lpar;benchmark&rpar;](https://www.michalzobec.cz/jak-otestovat-vykon-pocitace-benchmark-8433)
 - [Microsoft 365: Jak se vyznat ve všech předplatných &lpar;Microsoft 365 Licensing Diagrams&rpar;](https://www.michalzobec.cz/microsoft-365-jak-se-vyznat-ve-vsech-predplatnych-microsoft-365-licensing-diagrams-8522)
 - [Microsoft 365: Jak připojit OneDrive jako síťový disk](https://www.michalzobec.cz/microsoft-365-jak-pripojit-onedrive-jako-sitovy-disk-8520)
 - [Windows 11/Windows 10: Jak aktualizovat šablony pro správu systému &lpar;Administrative Templates ADMX&rpar;](https://www.michalzobec.cz/windows-11-windows-10-jak-aktualizovat-sablony-pro-spravu-systemu-administrative-templates-admx-8507)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Daniel Vávra: Proč nejsou Kingdom Come: Deliverance černoši? Ve středověkých Čechách žádní černoši nebyli. Tečka.](https://www.michalzobec.cz/daniel-vavra-proc-nejsou-kingdom-come-deliverance-cernosi-ve-stredovekych-cechach-zadni-cernosi-nebyli-tecka-8496)
 - [Windows 10: Jak vyvolat dialog Programy a funkce &lpar;Programs and Features&rpar;](https://www.michalzobec.cz/windows-10-jak-vyvolat-dialog-programy-a-funkce-programs-and-features-8490)
 - [From Castle to Castle | Red Bull Racing vyrazil na Road Trip přes Česko a Slovensko](https://www.michalzobec.cz/from-castle-to-castle-red-bull-racing-vyrazil-na-road-trip-pres-cesko-a-slovensko-8477)
-- [Windows 11: Microsoft zjednodušil a rozšířil dobu podpory pro nové verze Windows 11](https://www.michalzobec.cz/windows-11-microsoft-zjednodusil-a-rozsiril-dobu-podpory-pro-nove-verze-windows-11-8472)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
