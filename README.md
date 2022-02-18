@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11/Windows 10: Jak aktualizovat šablony pro správu &lpar;Administrative Templates ADMX&rpar; a vytvořit centrální úložiště &lpar;Central Store&rpar; pro šablony](https://www.michalzobec.cz/windows-11-windows-10-jak-aktualizovat-sablony-pro-spravu-administrative-templates-admx-a-vytvorit-centralni-uloziste-central-store-pro-sablony-8511)
 - [Také Google ukončí podporu pro Basic Authentication &lpar;Základní ověření&rpar;](https://www.michalzobec.cz/take-google-ukonci-podporu-pro-basic-authentication-zakladni-overeni-8530)
 - [Jak otestovat výkon počítače &lpar;benchmark&rpar;](https://www.michalzobec.cz/jak-otestovat-vykon-pocitace-benchmark-8433)
 - [Microsoft 365: Jak se vyznat ve všech předplatných &lpar;Microsoft 365 Licensing Diagrams&rpar;](https://www.michalzobec.cz/microsoft-365-jak-se-vyznat-ve-vsech-predplatnych-microsoft-365-licensing-diagrams-8522)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Windows 11/Windows 10: Šablony pro správu systému &lpar;Administrative Templates ADMX&rpar; ke stažení](https://www.michalzobec.cz/windows-11-windows-10-sablony-pro-spravu-systemu-administrative-templates-admx-ke-stazeni-8508)
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 27.1.2022&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 - [Daniel Vávra: Proč nejsou Kingdom Come: Deliverance černoši? Ve středověkých Čechách žádní černoši nebyli. Tečka.](https://www.michalzobec.cz/daniel-vavra-proc-nejsou-kingdom-come-deliverance-cernosi-ve-stredovekych-cechach-zadni-cernosi-nebyli-tecka-8496)
-- [Windows 10: Jak vyvolat dialog Programy a funkce &lpar;Programs and Features&rpar;](https://www.michalzobec.cz/windows-10-jak-vyvolat-dialog-programy-a-funkce-programs-and-features-8490)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
