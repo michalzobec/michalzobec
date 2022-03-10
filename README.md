@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [HBO Max: HBO Max startuje v úterý, 8. března 2022](https://www.michalzobec.cz/hbo-max-hbo-max-startuje-v-utery-8-brezna-2022-8538)
 - [Windows 11/Windows 10: Jak aktualizovat šablony pro správu &lpar;Administrative Templates ADMX&rpar; a vytvořit centrální úložiště &lpar;Central Store&rpar; pro šablony](https://www.michalzobec.cz/windows-11-windows-10-jak-aktualizovat-sablony-pro-spravu-administrative-templates-admx-a-vytvorit-centralni-uloziste-central-store-pro-sablony-8511)
 - [Také Google ukončí podporu pro Basic Authentication &lpar;Základní ověření&rpar;](https://www.michalzobec.cz/take-google-ukonci-podporu-pro-basic-authentication-zakladni-overeni-8530)
 - [Jak otestovat výkon počítače &lpar;benchmark&rpar;](https://www.michalzobec.cz/jak-otestovat-vykon-pocitace-benchmark-8433)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Licencování: Co je to komerční prostředí?](https://www.michalzobec.cz/licencovani-co-je-to-komercni-prostredi-8122)
 - [Windows 11/Windows 10: Šablony pro správu systému &lpar;Administrative Templates ADMX&rpar; ke stažení](https://www.michalzobec.cz/windows-11-windows-10-sablony-pro-spravu-systemu-administrative-templates-admx-ke-stazeni-8508)
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 27.1.2022&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
-- [Daniel Vávra: Proč nejsou Kingdom Come: Deliverance černoši? Ve středověkých Čechách žádní černoši nebyli. Tečka.](https://www.michalzobec.cz/daniel-vavra-proc-nejsou-kingdom-come-deliverance-cernosi-ve-stredovekych-cechach-zadni-cernosi-nebyli-tecka-8496)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
