@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft 365: Defender for Business je již dostupný &lpar;RTW&rpar;](https://www.michalzobec.cz/microsoft-365-defender-for-business-je-jiz-dostupny-rtw-8548)
 - [HBO Max: HBO Max startuje v úterý, 8. března 2022](https://www.michalzobec.cz/hbo-max-hbo-max-startuje-v-utery-8-brezna-2022-8538)
 - [Windows 11/Windows 10: Jak aktualizovat šablony pro správu &lpar;Administrative Templates ADMX&rpar; a vytvořit centrální úložiště &lpar;Central Store&rpar; pro šablony](https://www.michalzobec.cz/windows-11-windows-10-jak-aktualizovat-sablony-pro-spravu-administrative-templates-admx-a-vytvorit-centralni-uloziste-central-store-pro-sablony-8511)
 - [Také Google ukončí podporu pro Basic Authentication &lpar;Základní ověření&rpar;](https://www.michalzobec.cz/take-google-ukonci-podporu-pro-basic-authentication-zakladni-overeni-8530)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Windows 11/Windows 10: Jak aktualizovat šablony pro správu systému &lpar;Administrative Templates ADMX&rpar;](https://www.michalzobec.cz/windows-11-windows-10-jak-aktualizovat-sablony-pro-spravu-systemu-administrative-templates-admx-8507)
 - [Licencování: Co je to komerční prostředí?](https://www.michalzobec.cz/licencovani-co-je-to-komercni-prostredi-8122)
 - [Windows 11/Windows 10: Šablony pro správu systému &lpar;Administrative Templates ADMX&rpar; ke stažení](https://www.michalzobec.cz/windows-11-windows-10-sablony-pro-spravu-systemu-administrative-templates-admx-ke-stazeni-8508)
-- [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 27.1.2022&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
