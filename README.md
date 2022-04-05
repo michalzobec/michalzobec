@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Pozvánka na online přednášku – KeePass: Základy, pokročilé využití a KeePass Enterprise &lpar;čtvrtek, 14.4.2022&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-keepass-zaklady-pokrocile-vyuziti-a-keepass-enterprise-ctvrtek-14-4-2022-8571)
 - [Facebook: Jak umožnit sledování mého profilu &lpar;návod krok za krokem&rpar;](https://www.michalzobec.cz/facebook-jak-umoznit-sledovani-meho-profilu-navod-krok-za-krokem-8563)
 - [Azure SQL Database: Jak vypnout, či pozastavit databázi](https://www.michalzobec.cz/azure-sql-database-jak-vypnout-ci-pozastavit-databazi-8555)
 - [Microsoft 365/Office 365/Azure: Seznam emailových adres Microsoftu](https://www.michalzobec.cz/microsoft-365-office-365-azure-seznam-emailovych-adres-microsoftu-8556)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Také Google ukončí podporu pro Basic Authentication &lpar;Základní ověření&rpar;](https://www.michalzobec.cz/take-google-ukonci-podporu-pro-basic-authentication-zakladni-overeni-8530)
 - [Jak otestovat výkon počítače &lpar;benchmark&rpar;](https://www.michalzobec.cz/jak-otestovat-vykon-pocitace-benchmark-8433)
 - [Microsoft 365: Jak se vyznat ve všech předplatných &lpar;Microsoft 365 Licensing Diagrams&rpar;](https://www.michalzobec.cz/microsoft-365-jak-se-vyznat-ve-vsech-predplatnych-microsoft-365-licensing-diagrams-8522)
-- [Microsoft 365: Jak připojit OneDrive jako síťový disk](https://www.michalzobec.cz/microsoft-365-jak-pripojit-onedrive-jako-sitovy-disk-8520)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
