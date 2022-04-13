@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [SharePoint Online/Microsoft 365/Office 365: Jak přejmenovat doménu pro SharePoint Online](https://www.michalzobec.cz/sharepoint-online-microsoft-365-office-365-jak-prejmenovat-domenu-pro-sharepoint-online-8586)
 - [Pozvánka na online přednášku – KeePass: Základy, pokročilé využití a KeePass Enterprise &lpar;čtvrtek, 14.4.2022&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-keepass-zaklady-pokrocile-vyuziti-a-keepass-enterprise-ctvrtek-14-4-2022-8571)
 - [Facebook: Jak umožnit sledování mého profilu &lpar;návod krok za krokem&rpar;](https://www.michalzobec.cz/facebook-jak-umoznit-sledovani-meho-profilu-navod-krok-za-krokem-8563)
 - [Azure SQL Database: Jak vypnout, či pozastavit databázi](https://www.michalzobec.cz/azure-sql-database-jak-vypnout-ci-pozastavit-databazi-8555)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Windows 11/Windows 10: Jak aktualizovat šablony pro správu &lpar;Administrative Templates ADMX&rpar; a vytvořit centrální úložiště &lpar;Central Store&rpar; pro šablony](https://www.michalzobec.cz/windows-11-windows-10-jak-aktualizovat-sablony-pro-spravu-administrative-templates-admx-a-vytvorit-centralni-uloziste-central-store-pro-sablony-8511)
 - [Také Google ukončí podporu pro Basic Authentication &lpar;Základní ověření&rpar;](https://www.michalzobec.cz/take-google-ukonci-podporu-pro-basic-authentication-zakladni-overeni-8530)
 - [Jak otestovat výkon počítače &lpar;benchmark&rpar;](https://www.michalzobec.cz/jak-otestovat-vykon-pocitace-benchmark-8433)
-- [Microsoft 365: Jak se vyznat ve všech předplatných &lpar;Microsoft 365 Licensing Diagrams&rpar;](https://www.michalzobec.cz/microsoft-365-jak-se-vyznat-ve-vsech-predplatnych-microsoft-365-licensing-diagrams-8522)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
