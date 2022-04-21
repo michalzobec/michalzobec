@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Pozvánka na online přednášku – KeePass: Využití ve firmách a KeePass Enterprise &lpar;čtvrtek, 26.5.2022&rpar; [předběžný termín]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-keepass-vyuziti-ve-firmach-a-keepass-enterprise-8599)
 - [Záznam z přednášky – KeePass: Základy, pokročilé využití a KeePass Enterprise &lpar;čtvrtek, 14.4.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-keepass-zaklady-pokrocile-vyuziti-a-keepass-enterprise-ctvrtek-14-4-2022-8593)
 - [SharePoint Online/Microsoft 365/Office 365: Jak přejmenovat doménu pro SharePoint Online](https://www.michalzobec.cz/sharepoint-online-microsoft-365-office-365-jak-prejmenovat-domenu-pro-sharepoint-online-8586)
 - [Pozvánka na online přednášku – KeePass: Základy, pokročilé využití a KeePass Enterprise &lpar;čtvrtek, 14.4.2022&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-keepass-zaklady-pokrocile-vyuziti-a-keepass-enterprise-ctvrtek-14-4-2022-8571)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Microsoft 365: Defender for Business je již dostupný &lpar;RTW&rpar;](https://www.michalzobec.cz/microsoft-365-defender-for-business-je-jiz-dostupny-rtw-8548)
 - [HBO Max: HBO Max startuje v úterý, 8. března 2022](https://www.michalzobec.cz/hbo-max-hbo-max-startuje-v-utery-8-brezna-2022-8538)
 - [Windows 11/Windows 10: Jak aktualizovat šablony pro správu &lpar;Administrative Templates ADMX&rpar; a vytvořit centrální úložiště &lpar;Central Store&rpar; pro šablony](https://www.michalzobec.cz/windows-11-windows-10-jak-aktualizovat-sablony-pro-spravu-administrative-templates-admx-a-vytvorit-centralni-uloziste-central-store-pro-sablony-8511)
-- [Také Google ukončí podporu pro Basic Authentication &lpar;Základní ověření&rpar;](https://www.michalzobec.cz/take-google-ukonci-podporu-pro-basic-authentication-zakladni-overeni-8530)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
