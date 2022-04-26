@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Northrop Grumman B-21 Raider nový revoluční nástupce B-2? &lpar;aktualizováno 24.4.2022&rpar;](https://www.michalzobec.cz/northrop-grumman-b-21-raider-novy-revolucni-nastupce-b-2-5390)
 - [Registrace na přednášky](https://www.michalzobec.cz/registrace-na-prednasky-8605)
 - [Pozvánka na online přednášku – KeePass: Využití ve firmách a KeePass Enterprise &lpar;čtvrtek, 26.5.2022&rpar; [předběžný termín]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-keepass-vyuziti-ve-firmach-a-keepass-enterprise-8599)
 - [Záznam z přednášky – KeePass: Základy, pokročilé využití a KeePass Enterprise &lpar;čtvrtek, 14.4.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-keepass-zaklady-pokrocile-vyuziti-a-keepass-enterprise-ctvrtek-14-4-2022-8593)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Azure SQL Database: Jak vypnout, či pozastavit databázi](https://www.michalzobec.cz/azure-sql-database-jak-vypnout-ci-pozastavit-databazi-8555)
 - [Microsoft 365/Office 365/Azure: Seznam emailových adres Microsoftu](https://www.michalzobec.cz/microsoft-365-office-365-azure-seznam-emailovych-adres-microsoftu-8556)
 - [Microsoft 365: Defender for Business je již dostupný &lpar;RTW&rpar;](https://www.michalzobec.cz/microsoft-365-defender-for-business-je-jiz-dostupny-rtw-8548)
-- [HBO Max: HBO Max startuje v úterý, 8. března 2022](https://www.michalzobec.cz/hbo-max-hbo-max-startuje-v-utery-8-brezna-2022-8538)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
