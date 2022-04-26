@@ -68,7 +68,7 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 <!-- BLOG-POST-LIST:START -->
 - [Northrop Grumman B-21 Raider nový revoluční nástupce B-2? &lpar;aktualizováno 24.4.2022&rpar;](https://www.michalzobec.cz/northrop-grumman-b-21-raider-novy-revolucni-nastupce-b-2-5390)
 - [Registrace na přednášky](https://www.michalzobec.cz/registrace-na-prednasky-8605)
-- [Pozvánka na online přednášku – KeePass: Využití ve firmách a KeePass Enterprise &lpar;čtvrtek, 26.5.2022&rpar; [předběžný termín]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-keepass-vyuziti-ve-firmach-a-keepass-enterprise-8599)
+- [Pozvánka na online přednášku – KeePass: Využití ve firmách a KeePass Enterprise &lpar;čtvrtek, 16.6.2022&rpar; [předběžný termín]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-keepass-vyuziti-ve-firmach-a-keepass-enterprise-8599)
 - [Záznam z přednášky – KeePass: Základy, pokročilé využití a KeePass Enterprise &lpar;čtvrtek, 14.4.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-keepass-zaklady-pokrocile-vyuziti-a-keepass-enterprise-ctvrtek-14-4-2022-8593)
 - [SharePoint Online/Microsoft 365/Office 365: Jak přejmenovat doménu pro SharePoint Online](https://www.michalzobec.cz/sharepoint-online-microsoft-365-office-365-jak-prejmenovat-domenu-pro-sharepoint-online-8586)
 - [Pozvánka na online přednášku – KeePass: Základy, pokročilé využití a KeePass Enterprise &lpar;čtvrtek, 14.4.2022&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-keepass-zaklady-pokrocile-vyuziti-a-keepass-enterprise-ctvrtek-14-4-2022-8571)
