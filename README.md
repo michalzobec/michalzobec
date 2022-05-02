@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices &lpar;čtvrtek, 14.7.2022&rpar; [předběžný termín]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-ctvrtek-14-7-2022-predbezny-termin-8618)
 - [Facebook: Co mám dělat pokud byl můj účet, nebo účet přítele napaden/unesen?](https://www.michalzobec.cz/facebook-co-mam-delat-pokud-byl-muj-ucet-nebo-ucet-pritele-napaden-unesen-8612)
 - [Northrop Grumman B-21 Raider nový revoluční nástupce B-2? &lpar;aktualizováno 24.4.2022&rpar;](https://www.michalzobec.cz/northrop-grumman-b-21-raider-novy-revolucni-nastupce-b-2-5390)
 - [Registrace na přednášky](https://www.michalzobec.cz/registrace-na-prednasky-8605)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Pozvánka na online přednášku – KeePass: Základy, pokročilé využití a KeePass Enterprise &lpar;čtvrtek, 14.4.2022&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-keepass-zaklady-pokrocile-vyuziti-a-keepass-enterprise-ctvrtek-14-4-2022-8571)
 - [Facebook: Jak umožnit sledování mého profilu &lpar;návod krok za krokem&rpar;](https://www.michalzobec.cz/facebook-jak-umoznit-sledovani-meho-profilu-navod-krok-za-krokem-8563)
 - [Azure SQL Database: Jak vypnout, či pozastavit databázi](https://www.michalzobec.cz/azure-sql-database-jak-vypnout-ci-pozastavit-databazi-8555)
-- [Microsoft 365/Office 365/Azure: Seznam emailových adres Microsoftu](https://www.michalzobec.cz/microsoft-365-office-365-azure-seznam-emailovych-adres-microsoftu-8556)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
