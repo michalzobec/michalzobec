@@ -66,11 +66,11 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
-- [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices &lpar;čtvrtek, 14.7.2022&rpar; [předběžný termín]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-ctvrtek-14-7-2022-predbezny-termin-8618)
+- [Pozvánka na online přednášku – KeePass: Využití ve firmách a KeePass Enterprise &lpar;čtvrtek, 7.7.2022&rpar; [předběžný termín]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-keepass-vyuziti-ve-firmach-a-keepass-enterprise-8599)
+- [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices &lpar;čtvrtek, 4.8.2022&rpar; [předběžný termín]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-ctvrtek-14-7-2022-predbezny-termin-8618)
 - [Facebook: Co mám dělat pokud byl můj účet, nebo účet přítele napaden/unesen?](https://www.michalzobec.cz/facebook-co-mam-delat-pokud-byl-muj-ucet-nebo-ucet-pritele-napaden-unesen-8612)
 - [Northrop Grumman B-21 Raider nový revoluční nástupce B-2? &lpar;aktualizováno 24.4.2022&rpar;](https://www.michalzobec.cz/northrop-grumman-b-21-raider-novy-revolucni-nastupce-b-2-5390)
 - [Registrace na přednášky](https://www.michalzobec.cz/registrace-na-prednasky-8605)
-- [Pozvánka na online přednášku – KeePass: Využití ve firmách a KeePass Enterprise &lpar;čtvrtek, 16.6.2022&rpar; [předběžný termín]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-keepass-vyuziti-ve-firmach-a-keepass-enterprise-8599)
 - [Záznam z přednášky – KeePass: Základy, pokročilé využití a KeePass Enterprise &lpar;čtvrtek, 14.4.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-keepass-zaklady-pokrocile-vyuziti-a-keepass-enterprise-ctvrtek-14-4-2022-8593)
 - [SharePoint Online/Microsoft 365/Office 365: Jak přejmenovat doménu pro SharePoint Online](https://www.michalzobec.cz/sharepoint-online-microsoft-365-office-365-jak-prejmenovat-domenu-pro-sharepoint-online-8586)
 - [Pozvánka na online přednášku – KeePass: Základy, pokročilé využití a KeePass Enterprise &lpar;čtvrtek, 14.4.2022&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-keepass-zaklady-pokrocile-vyuziti-a-keepass-enterprise-ctvrtek-14-4-2022-8571)
