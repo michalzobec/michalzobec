@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 24.6.2022&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 - [Pozvánka na online přednášku – KeePass: Využití ve firmách a KeePass Enterprise &lpar;čtvrtek, 7.7.2022&rpar; [předběžný termín]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-keepass-vyuziti-ve-firmach-a-keepass-enterprise-8599)
 - [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices &lpar;čtvrtek, 4.8.2022&rpar; [předběžný termín]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-ctvrtek-14-7-2022-predbezny-termin-8618)
 - [Facebook: Co mám dělat pokud byl můj účet, nebo účet přítele napaden/unesen?](https://www.michalzobec.cz/facebook-co-mam-delat-pokud-byl-muj-ucet-nebo-ucet-pritele-napaden-unesen-8612)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [SharePoint Online/Microsoft 365/Office 365: Jak přejmenovat doménu pro SharePoint Online](https://www.michalzobec.cz/sharepoint-online-microsoft-365-office-365-jak-prejmenovat-domenu-pro-sharepoint-online-8586)
 - [Pozvánka na online přednášku – KeePass: Základy, pokročilé využití a KeePass Enterprise &lpar;čtvrtek, 14.4.2022&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-keepass-zaklady-pokrocile-vyuziti-a-keepass-enterprise-ctvrtek-14-4-2022-8571)
 - [Facebook: Jak umožnit sledování mého profilu &lpar;návod krok za krokem&rpar;](https://www.michalzobec.cz/facebook-jak-umoznit-sledovani-meho-profilu-navod-krok-za-krokem-8563)
-- [Azure SQL Database: Jak vypnout, či pozastavit databázi](https://www.michalzobec.cz/azure-sql-database-jak-vypnout-ci-pozastavit-databazi-8555)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
