@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [T-Mobile bude v říjnu zdražovat o 10,7%](https://www.michalzobec.cz/t-mobile-bude-v-rijnu-zdrazovat-o-107-8670)
 - [Jak čistit nádobí od skvrn od čaje &lpar;Aktualizace 12.8.2022&rpar;](https://www.michalzobec.cz/jak-cistit-nadobi-od-skvrn-od-caje-8269)
 - [Microsoft 365: Microsoft ukončí podporu pro Basic Authentication &lpar;Základní ověření&rpar; &lpar;aktualizováno 4.8.2022&rpar;](https://www.michalzobec.cz/microsoft-365-microsoft-ukonci-podporu-pro-basic-authentication-zakladni-overeni-8374)
 - [Microsoft 365: Basic Authentication &lpar;Základní ověření&rpar; a Legacy Authentication &lpar;aktualizace 4.8.2022&rpar;](https://www.michalzobec.cz/microsoft-365-basic-authentication-zakladni-overeni-a-legacy-authentication-8372)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices &lpar;čtvrtek, 25.8.2022&rpar; [předběžný termín]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-ctvrtek-14-7-2022-predbezny-termin-8618)
 - [Facebook: Co mám dělat pokud byl můj účet, nebo účet přítele napaden/unesen?](https://www.michalzobec.cz/facebook-co-mam-delat-pokud-byl-muj-ucet-nebo-ucet-pritele-napaden-unesen-8612)
 - [Northrop Grumman B-21 Raider nový revoluční nástupce B-2? &lpar;aktualizováno 24.4.2022&rpar;](https://www.michalzobec.cz/northrop-grumman-b-21-raider-novy-revolucni-nastupce-b-2-5390)
-- [Informace o nových přednáškách](https://www.michalzobec.cz/registrace-na-prednasky-8605)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
