@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices &lpar;čtvrtek, 25.8.2022&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-ctvrtek-14-7-2022-predbezny-termin-8618)
 - [T-Mobile bude v říjnu zdražovat o 10,7%](https://www.michalzobec.cz/t-mobile-bude-v-rijnu-zdrazovat-o-107-8670)
 - [Jak čistit nádobí od skvrn od čaje &lpar;Aktualizace 12.8.2022&rpar;](https://www.michalzobec.cz/jak-cistit-nadobi-od-skvrn-od-caje-8269)
 - [Microsoft 365: Microsoft ukončí podporu pro Basic Authentication &lpar;Základní ověření&rpar; &lpar;aktualizováno 4.8.2022&rpar;](https://www.michalzobec.cz/microsoft-365-microsoft-ukonci-podporu-pro-basic-authentication-zakladni-overeni-8374)
@@ -73,7 +74,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 3.8.2022&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 - [Pozvánka na online přednášku – Podepisování dokumentů digitálním podpisem v praxi &lpar;čtvrtek, 29.9.2022&rpar; [předběžný termín]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-podepisovani-dokumentu-digitalnim-podpisem-v-praxi-8639)
 - [Pozvánka na online přednášku – KeePass: Využití ve firmách a KeePass Enterprise &lpar;čtvrtek, 28.7.2022&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-keepass-vyuziti-ve-firmach-a-keepass-enterprise-8599)
-- [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices &lpar;čtvrtek, 25.8.2022&rpar; [předběžný termín]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-ctvrtek-14-7-2022-predbezny-termin-8618)
 - [Facebook: Co mám dělat pokud byl můj účet, nebo účet přítele napaden/unesen?](https://www.michalzobec.cz/facebook-co-mam-delat-pokud-byl-muj-ucet-nebo-ucet-pritele-napaden-unesen-8612)
 - [Northrop Grumman B-21 Raider nový revoluční nástupce B-2? &lpar;aktualizováno 24.4.2022&rpar;](https://www.michalzobec.cz/northrop-grumman-b-21-raider-novy-revolucni-nastupce-b-2-5390)
 <!-- BLOG-POST-LIST:END -->
