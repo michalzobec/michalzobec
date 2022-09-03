@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Záznamy z přednášek &lpar;přehled&rpar;](https://www.michalzobec.cz/zaznamy-z-prednasek-prehled-8695)
 - [Záznam z přednášky – Microsoft 365 &amp; Azure Best Practices &lpar;čtvrtek, 25.8.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-microsoft-365-azure-best-practices-ctvrtek-25-8-2022-8685)
 - [Informace o nových přednáškách &lpar;mail newsletter&rpar;](https://www.michalzobec.cz/registrace-na-prednasky-8605)
 - [Záznam z přednášky – KeePass: Využití ve firmách a KeePass Enterprise &lpar;čtvrtek, 28.7.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-keepass-vyuziti-ve-firmach-a-keepass-enterprise-ctvrtek-28-7-2022-8679)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Microsoft 365: Microsoft ukončí podporu pro Basic Authentication &lpar;Základní ověření&rpar; &lpar;aktualizováno 4.8.2022&rpar;](https://www.michalzobec.cz/microsoft-365-microsoft-ukonci-podporu-pro-basic-authentication-zakladni-overeni-8374)
 - [Microsoft 365: Basic Authentication &lpar;Základní ověření&rpar; a Legacy Authentication &lpar;aktualizace 4.8.2022&rpar;](https://www.michalzobec.cz/microsoft-365-basic-authentication-zakladni-overeni-a-legacy-authentication-8372)
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 3.8.2022&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
-- [Facebook: Co mám dělat pokud byl můj účet, nebo účet přítele napaden/unesen?](https://www.michalzobec.cz/facebook-co-mam-delat-pokud-byl-muj-ucet-nebo-ucet-pritele-napaden-unesen-8612)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
