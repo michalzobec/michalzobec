@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices &lpar;čtvrtek, 29.9.2022&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-ctvrtek-29-9-2022-8700)
 - [Záznamy z přednášek &lpar;přehled&rpar;](https://www.michalzobec.cz/zaznamy-z-prednasek-prehled-8695)
 - [Záznam z přednášky – Microsoft 365 &amp; Azure Best Practices &lpar;čtvrtek, 25.8.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-microsoft-365-azure-best-practices-ctvrtek-25-8-2022-8685)
 - [Informace o nových přednáškách &lpar;mail newsletter&rpar;](https://www.michalzobec.cz/registrace-na-prednasky-8605)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Jak čistit nádobí od skvrn od čaje &lpar;Aktualizace 12.8.2022&rpar;](https://www.michalzobec.cz/jak-cistit-nadobi-od-skvrn-od-caje-8269)
 - [Microsoft 365: Microsoft ukončí podporu pro Basic Authentication &lpar;Základní ověření&rpar; &lpar;aktualizováno 4.8.2022&rpar;](https://www.michalzobec.cz/microsoft-365-microsoft-ukonci-podporu-pro-basic-authentication-zakladni-overeni-8374)
 - [Microsoft 365: Basic Authentication &lpar;Základní ověření&rpar; a Legacy Authentication &lpar;aktualizace 4.8.2022&rpar;](https://www.michalzobec.cz/microsoft-365-basic-authentication-zakladni-overeni-a-legacy-authentication-8372)
-- [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 3.8.2022&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
