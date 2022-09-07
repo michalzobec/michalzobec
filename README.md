@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Přednášky dnes a v roce 2023](https://www.michalzobec.cz/prednasky-dnes-a-v-roce-2023-8708)
 - [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices &lpar;čtvrtek, 29.9.2022&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-ctvrtek-29-9-2022-8700)
 - [Záznamy z přednášek &lpar;přehled&rpar;](https://www.michalzobec.cz/zaznamy-z-prednasek-prehled-8695)
 - [Záznam z přednášky – Microsoft 365 &amp; Azure Best Practices &lpar;čtvrtek, 25.8.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-microsoft-365-azure-best-practices-ctvrtek-25-8-2022-8685)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [T-Mobile bude v říjnu zdražovat o 10,7%](https://www.michalzobec.cz/t-mobile-bude-v-rijnu-zdrazovat-o-107-8670)
 - [Jak čistit nádobí od skvrn od čaje &lpar;Aktualizace 12.8.2022&rpar;](https://www.michalzobec.cz/jak-cistit-nadobi-od-skvrn-od-caje-8269)
 - [Microsoft 365: Microsoft ukončí podporu pro Basic Authentication &lpar;Základní ověření&rpar; &lpar;aktualizováno 4.8.2022&rpar;](https://www.michalzobec.cz/microsoft-365-microsoft-ukonci-podporu-pro-basic-authentication-zakladni-overeni-8374)
-- [Microsoft 365: Basic Authentication &lpar;Základní ověření&rpar; a Legacy Authentication &lpar;aktualizace 4.8.2022&rpar;](https://www.michalzobec.cz/microsoft-365-basic-authentication-zakladni-overeni-a-legacy-authentication-8372)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
