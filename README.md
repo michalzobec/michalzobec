@@ -66,12 +66,12 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Záznam z přednášky – Microsoft 365 &amp; Azure Best Practices 2 &lpar;čtvrtek, 29.9.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-microsoft-365-azure-best-practices-ctvrtek-29-9-2022-8744)
 - [Jiný pohled na záruku pro Software a možnosti reklamace](https://www.michalzobec.cz/jiny-pohled-na-zaruku-pro-software-a-moznosti-reklamace-8739)
 - [Významné jubileum mého webu michalzobec.cz – 1011 publikovaných článků](https://www.michalzobec.cz/vyznamne-jubileum-meho-webu-michalzobec-cz-1011-publikovanych-clanku-8734)
 - [Microsoft 365: Microsoft ukončí v říjnu 2022 podporu pro Basic Authentication &lpar;Základní ověření&rpar;](https://www.michalzobec.cz/microsoft-365-microsoft-ukonci-v-rijnu-2022-podporu-pro-basic-authentication-zakladni-overeni-8725)
 - [Microsoft 365: Microsoft ukončí podporu pro Basic Authentication &lpar;Základní ověření&rpar; &lpar;aktualizováno 28.9.2022&rpar;](https://www.michalzobec.cz/microsoft-365-microsoft-ukonci-podporu-pro-basic-authentication-zakladni-overeni-8374)
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 24.9.2022&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
-- [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices &lpar;čtvrtek, 29.9.2022&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-ctvrtek-29-9-2022-8700)
 - [Microsoft 365: Power Automate a práce s datem a časem](https://www.michalzobec.cz/microsoft-365-power-automate-a-prace-s-datumem-a-casem-8715)
 - [Přednášky dnes a v roce 2023](https://www.michalzobec.cz/prednasky-dnes-a-v-roce-2023-8708)
 - [Záznamy z přednášek &lpar;přehled&rpar;](https://www.michalzobec.cz/zaznamy-z-prednasek-prehled-8695)
