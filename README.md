@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Outlook: Snad dokonalá šablona out-of-office &lpar;automatická odpověď &lpar;mimo kancelář&rpar;&rpar;?](https://www.michalzobec.cz/outlook-snad-dokonala-sablona-out-of-office-automaticka-odpoved-mimo-kancelar-8759)
 - [Kde mne můžete potkat – komunita IT technologií kde se pohybuji](https://www.michalzobec.cz/kde-mne-muzete-potkat-komunita-it-technologii-kde-se-pohybuji-8748)
 - [Záznam z přednášky – Microsoft 365 &amp; Azure Best Practices 2 &lpar;čtvrtek, 29.9.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-microsoft-365-azure-best-practices-ctvrtek-29-9-2022-8744)
 - [Jiný pohled na záruku pro Software a možnosti reklamace](https://www.michalzobec.cz/jiny-pohled-na-zaruku-pro-software-a-moznosti-reklamace-8739)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 24.9.2022&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 - [Microsoft 365: Power Automate a práce s datem a časem](https://www.michalzobec.cz/microsoft-365-power-automate-a-prace-s-datumem-a-casem-8715)
 - [Přednášky dnes a v roce 2023](https://www.michalzobec.cz/prednasky-dnes-a-v-roce-2023-8708)
-- [Záznamy z přednášek &lpar;přehled&rpar;](https://www.michalzobec.cz/zaznamy-z-prednasek-prehled-8695)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
