@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Záznam z přednášky – Podepisování dokumentů digitálním podpisem v praxi &lpar;čtvrtek, 27.10.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-podepisovani-dokumentu-digitalnim-podpisem-v-praxi-ctvrtek-27-10-2022-8774)
 - [Apple: Historie podporovaných zařízení iPhone](https://www.michalzobec.cz/apple-historie-podporovanych-zarizeni-iphone-8769)
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 25.10.2022&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 - [Outlook: Snad dokonalá šablona out-of-office &lpar;automatická odpověď &lpar;mimo kancelář&rpar;&rpar;?](https://www.michalzobec.cz/outlook-snad-dokonala-sablona-out-of-office-automaticka-odpoved-mimo-kancelar-8759)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Významné jubileum mého webu michalzobec.cz – 1011 publikovaných článků](https://www.michalzobec.cz/vyznamne-jubileum-meho-webu-michalzobec-cz-1011-publikovanych-clanku-8734)
 - [Microsoft 365: Microsoft ukončí v říjnu 2022 podporu pro Basic Authentication &lpar;Základní ověření&rpar;](https://www.michalzobec.cz/microsoft-365-microsoft-ukonci-v-rijnu-2022-podporu-pro-basic-authentication-zakladni-overeni-8725)
 - [Microsoft 365: Microsoft ukončí podporu pro Basic Authentication &lpar;Základní ověření&rpar; &lpar;aktualizováno 28.9.2022&rpar;](https://www.michalzobec.cz/microsoft-365-microsoft-ukonci-podporu-pro-basic-authentication-zakladni-overeni-8374)
-- [Microsoft 365: Power Automate a práce s datem a časem](https://www.michalzobec.cz/microsoft-365-power-automate-a-prace-s-datumem-a-casem-8715)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
