@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Dostupnost přednášek pro členy a veřejnost](https://www.michalzobec.cz/dostupnost-prednasek-pro-cleny-a-verejnost-8801)
 - [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices 3 &lpar;čtvrtek, 24.11.2022&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-3-ctvrtek-24-11-2022-8785)
 - [Záznam z přednášky – Podepisování dokumentů digitálním podpisem v praxi &lpar;čtvrtek, 27.10.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-podepisovani-dokumentu-digitalnim-podpisem-v-praxi-ctvrtek-27-10-2022-8774)
 - [Apple: Historie podporovaných zařízení iPhone](https://www.michalzobec.cz/apple-historie-podporovanych-zarizeni-iphone-8769)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Záznam z přednášky – Microsoft 365 &amp; Azure Best Practices 2 &lpar;čtvrtek, 29.9.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-microsoft-365-azure-best-practices-ctvrtek-29-9-2022-8744)
 - [Jiný pohled na záruku pro Software a možnosti reklamace](https://www.michalzobec.cz/jiny-pohled-na-zaruku-pro-software-a-moznosti-reklamace-8739)
 - [Významné jubileum mého webu michalzobec.cz – 1011 publikovaných článků](https://www.michalzobec.cz/vyznamne-jubileum-meho-webu-michalzobec-cz-1011-publikovanych-clanku-8734)
-- [Microsoft 365: Microsoft ukončí v říjnu 2022 podporu pro Basic Authentication &lpar;Základní ověření&rpar;](https://www.michalzobec.cz/microsoft-365-microsoft-ukonci-v-rijnu-2022-podporu-pro-basic-authentication-zakladni-overeni-8725)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
