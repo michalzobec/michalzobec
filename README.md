@@ -66,10 +66,10 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices 3 &lpar;čtvrtek, 1.12.2022&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-3-ctvrtek-24-11-2022-8785)
 - [Artemis 1: sledování letu lodi Orion po 50 letech k měsíci](https://www.michalzobec.cz/artemis-1-sledovani-letu-lodi-orion-po-50-letech-k-mesici-8817)
 - [Windows 10: Jak provést upgrade z Windows 10 Home na Pro s použitím OEM produktového klíče a bez reinstalace Windows &lpar;návod krok za krokem&rpar;](https://www.michalzobec.cz/windows-10-jak-provest-upgrade-z-windows-10-home-na-pro-s-pouzitim-oem-produktoveho-klice-a-bez-reinstalace-windows-navod-krok-za-krokem-8807)
 - [Dostupnost přednášek pro členy a veřejnost](https://www.michalzobec.cz/dostupnost-prednasek-pro-cleny-a-verejnost-8801)
-- [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices 3 &lpar;čtvrtek, 24.11.2022&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-3-ctvrtek-24-11-2022-8785)
 - [Záznam z přednášky – Podepisování dokumentů digitálním podpisem v praxi &lpar;čtvrtek, 27.10.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-podepisovani-dokumentu-digitalnim-podpisem-v-praxi-ctvrtek-27-10-2022-8774)
 - [Apple: Historie podporovaných zařízení iPhone](https://www.michalzobec.cz/apple-historie-podporovanych-zarizeni-iphone-8769)
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 25.10.2022&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
