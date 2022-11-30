@@ -66,16 +66,16 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
-- [HBO Max: HBO Max startuje v úterý, 8. března 2022](https://www.michalzobec.cz/hbo-max-hbo-max-startuje-v-utery-8-brezna-2022-8538)
-- [Windows 11/Windows 10: Jak aktualizovat šablony pro správu &lpar;Administrative Templates ADMX&rpar; a vytvořit centrální úložiště &lpar;Central Store&rpar; pro šablony](https://www.michalzobec.cz/windows-11-windows-10-jak-aktualizovat-sablony-pro-spravu-administrative-templates-admx-a-vytvorit-centralni-uloziste-central-store-pro-sablony-8511)
-- [Také Google ukončí podporu pro Basic Authentication &lpar;Základní ověření&rpar;](https://www.michalzobec.cz/take-google-ukonci-podporu-pro-basic-authentication-zakladni-overeni-8530)
-- [Jak otestovat výkon počítače &lpar;benchmark&rpar;](https://www.michalzobec.cz/jak-otestovat-vykon-pocitace-benchmark-8433)
-- [Microsoft 365: Jak se vyznat ve všech předplatných &lpar;Microsoft 365 Licensing Diagrams&rpar;](https://www.michalzobec.cz/microsoft-365-jak-se-vyznat-ve-vsech-predplatnych-microsoft-365-licensing-diagrams-8522)
-- [Microsoft 365: Jak připojit OneDrive jako síťový disk](https://www.michalzobec.cz/microsoft-365-jak-pripojit-onedrive-jako-sitovy-disk-8520)
-- [Windows 11/Windows 10: Jak aktualizovat šablony pro správu systému &lpar;Administrative Templates ADMX&rpar;](https://www.michalzobec.cz/windows-11-windows-10-jak-aktualizovat-sablony-pro-spravu-systemu-administrative-templates-admx-8507)
-- [Licencování: Co je to komerční prostředí?](https://www.michalzobec.cz/licencovani-co-je-to-komercni-prostredi-8122)
-- [Windows 11/Windows 10: Šablony pro správu systému &lpar;Administrative Templates ADMX&rpar; ke stažení](https://www.michalzobec.cz/windows-11-windows-10-sablony-pro-spravu-systemu-administrative-templates-admx-ke-stazeni-8508)
-- [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 27.1.2022&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
+- [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices 3 &lpar;čtvrtek, 1.12.2022&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-3-ctvrtek-24-11-2022-8785)
+- [Artemis 1: sledování letu lodi Orion po 50 letech k měsíci](https://www.michalzobec.cz/artemis-1-sledovani-letu-lodi-orion-po-50-letech-k-mesici-8817)
+- [Windows 10: Jak provést upgrade z Windows 10 Home na Pro s použitím OEM produktového klíče a bez reinstalace Windows &lpar;návod krok za krokem&rpar;](https://www.michalzobec.cz/windows-10-jak-provest-upgrade-z-windows-10-home-na-pro-s-pouzitim-oem-produktoveho-klice-a-bez-reinstalace-windows-navod-krok-za-krokem-8807)
+- [Dostupnost přednášek pro členy a veřejnost](https://www.michalzobec.cz/dostupnost-prednasek-pro-cleny-a-verejnost-8801)
+- [Záznam z přednášky – Podepisování dokumentů digitálním podpisem v praxi &lpar;čtvrtek, 27.10.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-podepisovani-dokumentu-digitalnim-podpisem-v-praxi-ctvrtek-27-10-2022-8774)
+- [Apple: Historie podporovaných zařízení iPhone](https://www.michalzobec.cz/apple-historie-podporovanych-zarizeni-iphone-8769)
+- [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 25.10.2022&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
+- [Outlook: Snad dokonalá šablona out-of-office &lpar;automatická odpověď &lpar;mimo kancelář&rpar;&rpar;?](https://www.michalzobec.cz/outlook-snad-dokonala-sablona-out-of-office-automaticka-odpoved-mimo-kancelar-8759)
+- [Kde mne můžete potkat – komunita IT technologií kde se pohybuji](https://www.michalzobec.cz/kde-mne-muzete-potkat-komunita-it-technologii-kde-se-pohybuji-8748)
+- [Záznam z přednášky – Microsoft 365 &amp; Azure Best Practices 2 &lpar;čtvrtek, 29.9.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-microsoft-365-azure-best-practices-ctvrtek-29-9-2022-8744)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
