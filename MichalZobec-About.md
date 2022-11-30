@@ -17,7 +17,7 @@ Vyvíjím aplikace v PowerShell, nebo C#. Vyvíjím aplikace (desktopové aplika
 
 Občas přeložím nějakou aplikaci, nebo hru z angličtiny do češtiny. Vytvořil jsem následující překlady: Microsoft Baseline Security Analyzer, The Elder Scrolls III: Morrowind (a datadisky), The Elder Scrolls IV: Oblivion (a datadisky), Far Manager (pouze nápověda), Far Manager pluginy, Inno Setup, Wordpress pluginy.
 
-[Vaše pomoc :heart: (sponzorství)](https://github.com/sponsors/michalzobec) mi pomůže se více zaměřit z komerčních projektů na komunitní projekty.
+[Vaše pomoc :heart: (sponzorství)](https://www.patreon.com/michalzobec) mi pomůže se více zaměřit z komerčních projektů na komunitní projekty.
 
 ## Vybrané projekty
 
@@ -50,7 +50,7 @@ I write applications in PowerShell and C#. I developing applications (desktop ap
 
 Sometimes I translate applications or games from English to Czech. I worked on following translations: Microsoft Baseline Security Analyzer, The Elder Scrolls III: Morrowind (and datadisks), The Elder Scrolls IV: Oblivion (and datadisks), Far Manager (help only), Far Manager PlugIns, Inno Setup, Wordpress PlugIns.
 
-[Your help :heart: (sponsorship)](https://github.com/sponsors/michalzobec) helps me more focusing from commercial projects to community projects.
+[Your help :heart: (sponsorship)](https://www.patreon.com/michalzobec) helps me more focusing from commercial projects to community projects.
 
 ## Selected projects
 
