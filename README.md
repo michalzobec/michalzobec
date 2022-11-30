@@ -8,7 +8,7 @@ Jmenuji se **Michal Zobec**. Bydlím v Praze, v České republice.
 
 Pracuji jako kontraktor na pozicích Senior IT Infrastructure Specialist, Senior IT Consultant, IT Architect, či IT Project Manager. Mám více než 20 let praxi v oboru ICT. [Více podrobností](MichalZobec-About.md).
 
-[Vaše pomoc :heart: (sponzorství)](https://github.com/sponsors/michalzobec) mi pomůže se více zaměřit z komerčních projektů na komunitní projekty.
+[Vaše pomoc :heart: (sponzorství)](https://www.patreon.com/michalzobec) mi pomůže se více zaměřit z komerčních projektů na komunitní projekty.
 
 ## Vybrané projekty
 
@@ -30,7 +30,7 @@ My name is **Michal Zobec**. I am live at Prague, Czech Republic.
 
 I working as Senior IT Infrastructure Specialist, Senior IT Consultant, IT Architect and IT Project Manager with 20+ years experience. [More details](MichalZobec-About.md#english).
 
-[Your help :heart: (sponsorship)](https://github.com/sponsors/michalzobec) helps me more focusing from commercial projects to community projects.
+[Your help :heart: (sponsorship)](https://www.patreon.com/michalzobec) helps me more focusing from commercial projects to community projects.
 
 ## Selected projects
 
