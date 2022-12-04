@@ -66,7 +66,6 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
-- [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices 3 &lpar;čtvrtek, 1.12.2022&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-3-ctvrtek-24-11-2022-8785)
 - [Artemis 1: sledování letu lodi Orion po 50 letech k měsíci](https://www.michalzobec.cz/artemis-1-sledovani-letu-lodi-orion-po-50-letech-k-mesici-8817)
 - [Windows 10: Jak provést upgrade z Windows 10 Home na Pro s použitím OEM produktového klíče a bez reinstalace Windows &lpar;návod krok za krokem&rpar;](https://www.michalzobec.cz/windows-10-jak-provest-upgrade-z-windows-10-home-na-pro-s-pouzitim-oem-produktoveho-klice-a-bez-reinstalace-windows-navod-krok-za-krokem-8807)
 - [Dostupnost přednášek pro členy a veřejnost](https://www.michalzobec.cz/dostupnost-prednasek-pro-cleny-a-verejnost-8801)
@@ -76,6 +75,7 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Outlook: Snad dokonalá šablona out-of-office &lpar;automatická odpověď &lpar;mimo kancelář&rpar;&rpar;?](https://www.michalzobec.cz/outlook-snad-dokonala-sablona-out-of-office-automaticka-odpoved-mimo-kancelar-8759)
 - [Kde mne můžete potkat – komunita IT technologií kde se pohybuji](https://www.michalzobec.cz/kde-mne-muzete-potkat-komunita-it-technologii-kde-se-pohybuji-8748)
 - [Záznam z přednášky – Microsoft 365 &amp; Azure Best Practices 2 &lpar;čtvrtek, 29.9.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-microsoft-365-azure-best-practices-ctvrtek-29-9-2022-8744)
+- [Jiný pohled na záruku pro Software a možnosti reklamace](https://www.michalzobec.cz/jiny-pohled-na-zaruku-pro-software-a-moznosti-reklamace-8739)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
