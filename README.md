@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL Server Express je zdarma, ale …](https://www.michalzobec.cz/sql-server-express-je-zdarma-ale-4121)
 - [Co je to „double opt-in“ a proč musím klikat na ověřovací odkaz?](https://www.michalzobec.cz/co-je-to-double-opt-in-a-proc-musim-klikat-na-overovaci-odkaz-8844)
 - [Microsoft Office: Různé verze instalačních médií pro různé distribuční kanály a zákazníky](https://www.michalzobec.cz/microsoft-office-ruzne-verze-instalacnich-medii-pro-ruzne-distribucni-kanaly-a-zakazniky-8829)
 - [Artemis 1: sledování letu lodi Orion po 50 letech k měsíci](https://www.michalzobec.cz/artemis-1-sledovani-letu-lodi-orion-po-50-letech-k-mesici-8817)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Apple: Historie podporovaných zařízení iPhone](https://www.michalzobec.cz/apple-historie-podporovanych-zarizeni-iphone-8769)
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 25.10.2022&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 - [Outlook: Snad dokonalá šablona out-of-office &lpar;automatická odpověď &lpar;mimo kancelář&rpar;&rpar;?](https://www.michalzobec.cz/outlook-snad-dokonala-sablona-out-of-office-automaticka-odpoved-mimo-kancelar-8759)
-- [Kde mne můžete potkat – komunita IT technologií kde se pohybuji](https://www.michalzobec.cz/kde-mne-muzete-potkat-komunita-it-technologii-kde-se-pohybuji-8748)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
