@@ -66,6 +66,8 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Licencování: Microsoft Client Access License &lpar;CAL&rpar;](https://www.michalzobec.cz/licencovani-microsoft-client-access-license-cal-8128)
+- [Microsoft 365: Doplněk FindTime](https://www.michalzobec.cz/microsoft-365-doplnek-findtime-8365)
 - [SQL Server Express je zdarma, ale …](https://www.michalzobec.cz/sql-server-express-je-zdarma-ale-4121)
 - [Co je to „double opt-in“ a proč musím klikat na ověřovací odkaz?](https://www.michalzobec.cz/co-je-to-double-opt-in-a-proc-musim-klikat-na-overovaci-odkaz-8844)
 - [Microsoft Office: Různé verze instalačních médií pro různé distribuční kanály a zákazníky](https://www.michalzobec.cz/microsoft-office-ruzne-verze-instalacnich-medii-pro-ruzne-distribucni-kanaly-a-zakazniky-8829)
@@ -74,8 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Dostupnost přednášek pro členy a veřejnost](https://www.michalzobec.cz/dostupnost-prednasek-pro-cleny-a-verejnost-8801)
 - [Záznam z přednášky – Podepisování dokumentů digitálním podpisem v praxi &lpar;čtvrtek, 27.10.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-podepisovani-dokumentu-digitalnim-podpisem-v-praxi-ctvrtek-27-10-2022-8774)
 - [Apple: Historie podporovaných zařízení iPhone](https://www.michalzobec.cz/apple-historie-podporovanych-zarizeni-iphone-8769)
-- [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 25.10.2022&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
-- [Outlook: Snad dokonalá šablona out-of-office &lpar;automatická odpověď &lpar;mimo kancelář&rpar;&rpar;?](https://www.michalzobec.cz/outlook-snad-dokonala-sablona-out-of-office-automaticka-odpoved-mimo-kancelar-8759)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
