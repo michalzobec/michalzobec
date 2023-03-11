@@ -66,6 +66,8 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 10: Jak reinstalovat Windows bez instalačních médií / Reset do továrního nastavení – s pomocí příkazové řádky](https://www.michalzobec.cz/windows-10-jak-reinstalovat-windows-bez-instalacnich-medii-reset-do-tovarniho-nastaveni-s-pomoci-prikazove-radky-8867)
+- [Tenable Nessus – bezpečnostní síťový skener](https://www.michalzobec.cz/tenable-nessus-bezpecnostni-sitovy-skener-8861)
 - [Licencování: Microsoft Client Access License &lpar;CAL&rpar;](https://www.michalzobec.cz/licencovani-microsoft-client-access-license-cal-8128)
 - [Microsoft 365: Doplněk FindTime](https://www.michalzobec.cz/microsoft-365-doplnek-findtime-8365)
 - [SQL Server Express je zdarma, ale …](https://www.michalzobec.cz/sql-server-express-je-zdarma-ale-4121)
@@ -74,8 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Artemis 1: sledování letu lodi Orion po 50 letech k měsíci](https://www.michalzobec.cz/artemis-1-sledovani-letu-lodi-orion-po-50-letech-k-mesici-8817)
 - [Windows 10: Jak provést upgrade z Windows 10 Home na Pro s použitím OEM produktového klíče a bez reinstalace Windows &lpar;návod krok za krokem&rpar;](https://www.michalzobec.cz/windows-10-jak-provest-upgrade-z-windows-10-home-na-pro-s-pouzitim-oem-produktoveho-klice-a-bez-reinstalace-windows-navod-krok-za-krokem-8807)
 - [Dostupnost přednášek pro členy a veřejnost](https://www.michalzobec.cz/dostupnost-prednasek-pro-cleny-a-verejnost-8801)
-- [Záznam z přednášky – Podepisování dokumentů digitálním podpisem v praxi &lpar;čtvrtek, 27.10.2022&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-podepisovani-dokumentu-digitalnim-podpisem-v-praxi-ctvrtek-27-10-2022-8774)
-- [Apple: Historie podporovaných zařízení iPhone](https://www.michalzobec.cz/apple-historie-podporovanych-zarizeni-iphone-8769)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
