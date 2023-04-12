@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft 365: Microsoft zavádí nový způsob ověření v aplikaci Authenticator](https://www.michalzobec.cz/microsoft-365-microsoft-zavadi-novy-zpusob-overeni-v-aplikaci-authenticator-8929)
 - [TES 3 Morrowind Czech: Aktuální stav češtiny pro originální distribuci na CD/DVD &lpar;Non-Steam&rpar;](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-pro-originalni-distribuci-na-cd-dvd-non-steam-8897)
 - [TES 3 Morrowind Czech: Aktuální stav češtiny pro Bethesda.net](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-pro-bethesda-net-8906)
 - [Datové schránky: Časté otázky a odpovědi &lpar;FAQ&rpar;](https://www.michalzobec.cz/datove-schranky-caste-otazky-a-odpovedi-faq-8886)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [TES 3 Morrowind Czech: Aktuální stav češtiny pro Steam &lpar;aktualizováno 30.04.2021&rpar;](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-4624)
 - [Microsoft 365: Authentikátory třetích stran vs Microsoft Authenticator](https://www.michalzobec.cz/microsoft-365-authentikatory-tretich-stran-vs-microsoft-authenticator-8873)
 - [Windows 10: Jak reinstalovat Windows bez instalačních médií / Reset do továrního nastavení – s pomocí příkazové řádky](https://www.michalzobec.cz/windows-10-jak-reinstalovat-windows-bez-instalacnich-medii-reset-do-tovarniho-nastaveni-s-pomoci-prikazove-radky-8867)
-- [Tenable Nessus – bezpečnostní síťový skener](https://www.michalzobec.cz/tenable-nessus-bezpecnostni-sitovy-skener-8861)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
