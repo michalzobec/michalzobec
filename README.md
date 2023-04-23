@@ -66,6 +66,8 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Web Pages: GitHub ignoruje složku .well-known](https://www.michalzobec.cz/github-web-pages-github-ignoruje-slozku-well-known-8944)
+- [Plán přednášek pro rok 2023](https://www.michalzobec.cz/plan-prednasek-pro-rok-2023-8938)
 - [Microsoft 365: Microsoft zavádí nový způsob ověření v aplikaci Authenticator](https://www.michalzobec.cz/microsoft-365-microsoft-zavadi-novy-zpusob-overeni-v-aplikaci-authenticator-8929)
 - [TES 3 Morrowind Czech: Aktuální stav češtiny pro originální distribuci na CD/DVD &lpar;Non-Steam&rpar;](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-pro-originalni-distribuci-na-cd-dvd-non-steam-8897)
 - [TES 3 Morrowind Czech: Aktuální stav češtiny pro Bethesda.net](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-pro-bethesda-net-8906)
@@ -74,8 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [TES 3 Morrowind Czech: Hlasování: Čeština pro Morrowind pro GOG.com nebo Bethesda.net? &lpar;Aktualizace 11.4.2023&rpar;](https://www.michalzobec.cz/tes-3-morrowind-czech-preferovane-online-digitalni-distribucni-platformy-hlasovani-8041)
 - [Microsoft 365: Zrušené aplikace či služby](https://www.michalzobec.cz/microsoft-365-zrusene-aplikace-ci-sluzby-8883)
 - [TES 3 Morrowind Czech: Aktuální stav češtiny pro Steam &lpar;aktualizováno 30.04.2021&rpar;](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-4624)
-- [Microsoft 365: Authentikátory třetích stran vs Microsoft Authenticator](https://www.michalzobec.cz/microsoft-365-authentikatory-tretich-stran-vs-microsoft-authenticator-8873)
-- [Windows 10: Jak reinstalovat Windows bez instalačních médií / Reset do továrního nastavení – s pomocí příkazové řádky](https://www.michalzobec.cz/windows-10-jak-reinstalovat-windows-bez-instalacnich-medii-reset-do-tovarniho-nastaveni-s-pomoci-prikazove-radky-8867)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
