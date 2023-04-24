@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell: Tipy pro využití PowerShellu v praxi](https://www.michalzobec.cz/powershell-tipy-pro-vyuziti-powershellu-v-praxi-8952)
 - [GitHub Web Pages: GitHub ignoruje složku .well-known](https://www.michalzobec.cz/github-web-pages-github-ignoruje-slozku-well-known-8944)
 - [Plán přednášek pro rok 2023](https://www.michalzobec.cz/plan-prednasek-pro-rok-2023-8938)
 - [Microsoft 365: Microsoft zavádí nový způsob ověření v aplikaci Authenticator](https://www.michalzobec.cz/microsoft-365-microsoft-zavadi-novy-zpusob-overeni-v-aplikaci-authenticator-8929)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [TES 3 Morrowind Czech: Aktuální stav češtiny pro GOG.com](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-pro-gog-com-8895)
 - [TES 3 Morrowind Czech: Hlasování: Čeština pro Morrowind pro GOG.com nebo Bethesda.net? &lpar;Aktualizace 11.4.2023&rpar;](https://www.michalzobec.cz/tes-3-morrowind-czech-preferovane-online-digitalni-distribucni-platformy-hlasovani-8041)
 - [Microsoft 365: Zrušené aplikace či služby](https://www.michalzobec.cz/microsoft-365-zrusene-aplikace-ci-sluzby-8883)
-- [TES 3 Morrowind Czech: Aktuální stav češtiny pro Steam &lpar;aktualizováno 30.04.2021&rpar;](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-4624)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
