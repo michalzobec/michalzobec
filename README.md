@@ -66,7 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
-- [PowerShell: Tipy pro využití PowerShellu v praxi](https://www.michalzobec.cz/powershell-tipy-pro-vyuziti-powershellu-v-praxi-8952)
+- [PowerShell: Tipy pro využití PowerShellu v praxi &lpar;Aktualizace 1.5.2023&rpar;](https://www.michalzobec.cz/powershell-tipy-pro-vyuziti-powershellu-v-praxi-8952)
 - [GitHub Web Pages: GitHub ignoruje složku .well-known](https://www.michalzobec.cz/github-web-pages-github-ignoruje-slozku-well-known-8944)
 - [Plán přednášek pro rok 2023](https://www.michalzobec.cz/plan-prednasek-pro-rok-2023-8938)
 - [Microsoft 365: Microsoft zavádí nový způsob ověření v aplikaci Authenticator](https://www.michalzobec.cz/microsoft-365-microsoft-zavadi-novy-zpusob-overeni-v-aplikaci-authenticator-8929)
