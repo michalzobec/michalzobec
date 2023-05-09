@@ -71,9 +71,9 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Plán přednášek pro rok 2023](https://www.michalzobec.cz/plan-prednasek-pro-rok-2023-8938)
 - [Microsoft 365: Microsoft zavádí nový způsob ověření v aplikaci Authenticator](https://www.michalzobec.cz/microsoft-365-microsoft-zavadi-novy-zpusob-overeni-v-aplikaci-authenticator-8929)
 - [TES 3 Morrowind Czech: Aktuální stav češtiny pro originální distribuci na CD/DVD &lpar;Non-Steam&rpar;](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-pro-originalni-distribuci-na-cd-dvd-non-steam-8897)
-- [TES 3 Morrowind Czech: Aktuální stav češtiny pro Bethesda.net](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-pro-bethesda-net-8906)
+- [TES 3 Morrowind Czech: Aktuální stav češtiny pro Bethesda](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-pro-bethesda-net-8906)
 - [Datové schránky: Časté otázky a odpovědi &lpar;FAQ&rpar;](https://www.michalzobec.cz/datove-schranky-caste-otazky-a-odpovedi-faq-8886)
-- [TES 3 Morrowind Czech: Aktuální stav češtiny pro GOG.com](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-pro-gog-com-8895)
+- [TES 3 Morrowind Czech: Aktuální stav češtiny pro GOG](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-pro-gog-com-8895)
 - [TES 3 Morrowind Czech: Hlasování: Čeština pro Morrowind pro GOG.com nebo Bethesda.net? &lpar;Aktualizace 11.4.2023&rpar;](https://www.michalzobec.cz/tes-3-morrowind-czech-preferovane-online-digitalni-distribucni-platformy-hlasovani-8041)
 - [Microsoft 365: Zrušené aplikace či služby](https://www.michalzobec.cz/microsoft-365-zrusene-aplikace-ci-sluzby-8883)
 <!-- BLOG-POST-LIST:END -->
