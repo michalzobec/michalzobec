@@ -66,6 +66,8 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Pozvánka na online přednášku – Základy licencování 1 &lpar;čtvrtek, 25.5.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-zaklady-licencovani-1-ctvrtek-25-5-2023-8990)
+- [Oracle Java: Kolik stojí Oracle Java dnes?](https://www.michalzobec.cz/oracle-java-kolik-stoji-oracle-java-dnes-8988)
 - [PowerShell: Tipy pro využití PowerShellu v praxi &lpar;Aktualizace 1.5.2023&rpar;](https://www.michalzobec.cz/powershell-tipy-pro-vyuziti-powershellu-v-praxi-8952)
 - [GitHub Web Pages: GitHub ignoruje složku .well-known](https://www.michalzobec.cz/github-web-pages-github-ignoruje-slozku-well-known-8944)
 - [Plán přednášek pro rok 2023](https://www.michalzobec.cz/plan-prednasek-pro-rok-2023-8938)
@@ -74,8 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [TES 3 Morrowind Czech: Aktuální stav češtiny pro Bethesda](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-pro-bethesda-net-8906)
 - [Datové schránky: Časté otázky a odpovědi &lpar;FAQ&rpar;](https://www.michalzobec.cz/datove-schranky-caste-otazky-a-odpovedi-faq-8886)
 - [TES 3 Morrowind Czech: Aktuální stav češtiny pro GOG](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-pro-gog-com-8895)
-- [TES 3 Morrowind Czech: Hlasování: Čeština pro Morrowind pro GOG.com nebo Bethesda.net? &lpar;Aktualizace 11.4.2023&rpar;](https://www.michalzobec.cz/tes-3-morrowind-czech-preferovane-online-digitalni-distribucni-platformy-hlasovani-8041)
-- [Microsoft 365: Zrušené aplikace či služby](https://www.michalzobec.cz/microsoft-365-zrusene-aplikace-ci-sluzby-8883)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
