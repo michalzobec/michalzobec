@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 28.5.2023&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 - [Pozvánka na online přednášku – Základy licencování 1 &lpar;čtvrtek, 25.5.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-zaklady-licencovani-1-ctvrtek-25-5-2023-8990)
 - [Oracle Java: Kolik stojí Oracle Java dnes?](https://www.michalzobec.cz/oracle-java-kolik-stoji-oracle-java-dnes-8988)
 - [PowerShell: Tipy pro využití PowerShellu v praxi &lpar;Aktualizace 1.5.2023&rpar;](https://www.michalzobec.cz/powershell-tipy-pro-vyuziti-powershellu-v-praxi-8952)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [TES 3 Morrowind Czech: Aktuální stav češtiny pro originální distribuci na CD/DVD &lpar;Non-Steam&rpar;](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-pro-originalni-distribuci-na-cd-dvd-non-steam-8897)
 - [TES 3 Morrowind Czech: Aktuální stav češtiny pro Bethesda](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-pro-bethesda-net-8906)
 - [Datové schránky: Časté otázky a odpovědi &lpar;FAQ&rpar;](https://www.michalzobec.cz/datove-schranky-caste-otazky-a-odpovedi-faq-8886)
-- [TES 3 Morrowind Czech: Aktuální stav češtiny pro GOG](https://www.michalzobec.cz/tes-3-morrowind-czech-aktualni-stav-cestiny-pro-gog-com-8895)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
