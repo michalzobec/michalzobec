@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Záznam z přednášky – Základy licencování 1 &lpar;čtvrtek, 25.5.2023&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-zaklady-licencovani-1-ctvrtek-25-5-2023-9046)
 - [Microsoft Visual FoxPro: Ukončení podpory](https://www.michalzobec.cz/microsoft-visual-foxpro-ukonceni-podpory-9043)
 - [Microsoft: Seznam produktů s datem ukončení jejich podpory &lpar;Aktualizace 1.6.2023&rpar;](https://www.michalzobec.cz/konec-podpory-pro-produkty-spolecnosti-microsoft-5844)
 - [Jaké produkty Microsoftu končí v roce 2023?](https://www.michalzobec.cz/jake-produkty-microsoftu-konci-v-roce-2023-9010)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Pozvánka na online přednášku – Základy licencování 1 &lpar;čtvrtek, 26.10.2023&rpar; [OPAKOVÁNÍ]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-zaklady-licencovani-1-ctvrtek-25-5-2023-8990)
 - [Oracle Java: Kolik stojí Oracle Java dnes?](https://www.michalzobec.cz/oracle-java-kolik-stoji-oracle-java-dnes-8988)
 - [PowerShell: Tipy pro využití PowerShellu v praxi &lpar;Aktualizace 1.5.2023&rpar;](https://www.michalzobec.cz/powershell-tipy-pro-vyuziti-powershellu-v-praxi-8952)
-- [GitHub Web Pages: GitHub ignoruje složku .well-known](https://www.michalzobec.cz/github-web-pages-github-ignoruje-slozku-well-known-8944)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
