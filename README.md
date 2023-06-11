@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 10: Jaké funkce a součásti Microsoft zruší? &lpar;Aktualizace 11.6.2023&rpar;](https://www.michalzobec.cz/windows-10-jake-funkce-a-soucasti-microsoft-zrusi-7187)
 - [Microsoft: Seznam nástrojů pro vývoj a jejich součástí s datem ukončení jejich podpory &lpar;Aktualizace 10.6.2023&rpar;](https://www.michalzobec.cz/microsoft-seznam-nastroju-pro-vyvoj-a-jejich-soucasti-s-datem-ukonceni-jejich-podpory-9051)
 - [Microsoft: Seznam produktů s datem ukončení jejich podpory &lpar;Aktualizace 10.6.2023&rpar;](https://www.michalzobec.cz/konec-podpory-pro-produkty-spolecnosti-microsoft-5844)
 - [Záznam z přednášky – Základy licencování 1 &lpar;čtvrtek, 25.5.2023&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-zaklady-licencovani-1-ctvrtek-25-5-2023-9046)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 28.5.2023&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 - [Záznamy z přednášek &lpar;přehled&rpar;](https://www.michalzobec.cz/zaznamy-z-prednasek-prehled-8695)
 - [Pozvánka na online přednášku – Základy licencování 1 &lpar;čtvrtek, 26.10.2023&rpar; [OPAKOVÁNÍ]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-zaklady-licencovani-1-ctvrtek-25-5-2023-8990)
-- [Oracle Java: Kolik stojí Oracle Java dnes?](https://www.michalzobec.cz/oracle-java-kolik-stoji-oracle-java-dnes-8988)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
