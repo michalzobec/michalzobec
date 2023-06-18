@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Můj seznam mobilů](https://www.michalzobec.cz/muj-seznam-mobilu-9030)
 - [Windows 10: Jaké funkce a součásti Microsoft zruší? &lpar;Aktualizace 11.6.2023&rpar;](https://www.michalzobec.cz/windows-10-jake-funkce-a-soucasti-microsoft-zrusi-7187)
 - [Microsoft: Seznam nástrojů pro vývoj a jejich součástí s datem ukončení jejich podpory &lpar;Aktualizace 10.6.2023&rpar;](https://www.michalzobec.cz/microsoft-seznam-nastroju-pro-vyvoj-a-jejich-soucasti-s-datem-ukonceni-jejich-podpory-9051)
 - [Microsoft: Seznam produktů s datem ukončení jejich podpory &lpar;Aktualizace 10.6.2023&rpar;](https://www.michalzobec.cz/konec-podpory-pro-produkty-spolecnosti-microsoft-5844)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Microsoft: Seznam součástí Windows &lpar;Windows Components&rpar; s datem ukončení jejich podpory &lpar;Aktualizace 28.5.2023&rpar;](https://www.michalzobec.cz/microsoft-seznam-soucasti-windows-windows-components-s-datem-ukonceni-jejich-podpory-9012)
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 28.5.2023&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 - [Záznamy z přednášek &lpar;přehled&rpar;](https://www.michalzobec.cz/zaznamy-z-prednasek-prehled-8695)
-- [Pozvánka na online přednášku – Základy licencování 1 &lpar;čtvrtek, 26.10.2023&rpar; [OPAKOVÁNÍ]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-zaklady-licencovani-1-ctvrtek-25-5-2023-8990)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
