@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe: Aktivace starých nepodporovaných produktů &lpar;například Autodesk AutoCAD LT 2014&rpar;](https://www.michalzobec.cz/adobe-aktivace-starych-nepodporovanych-produktu-napriklad-autodesk-autocad-lt-2014-9075)
 - [Můj seznam mobilů](https://www.michalzobec.cz/muj-seznam-mobilu-9030)
 - [Windows 10: Jaké funkce a součásti Microsoft zruší? &lpar;Aktualizace 11.6.2023&rpar;](https://www.michalzobec.cz/windows-10-jake-funkce-a-soucasti-microsoft-zrusi-7187)
 - [Microsoft: Seznam nástrojů pro vývoj a jejich součástí s datem ukončení jejich podpory &lpar;Aktualizace 10.6.2023&rpar;](https://www.michalzobec.cz/microsoft-seznam-nastroju-pro-vyvoj-a-jejich-soucasti-s-datem-ukonceni-jejich-podpory-9051)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Jaké produkty Microsoftu končí v roce 2023?](https://www.michalzobec.cz/jake-produkty-microsoftu-konci-v-roce-2023-9010)
 - [Microsoft: Seznam součástí Windows &lpar;Windows Components&rpar; s datem ukončení jejich podpory &lpar;Aktualizace 28.5.2023&rpar;](https://www.michalzobec.cz/microsoft-seznam-soucasti-windows-windows-components-s-datem-ukonceni-jejich-podpory-9012)
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 28.5.2023&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
-- [Záznamy z přednášek &lpar;přehled&rpar;](https://www.michalzobec.cz/zaznamy-z-prednasek-prehled-8695)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
