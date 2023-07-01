@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Pozvánka na online přednášku – Základy licencování 1 &lpar;čtvrtek, 26.10.2023&rpar; [OPAKOVÁNÍ]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-zaklady-licencovani-1-ctvrtek-25-5-2023-8990)
 - [Výsledek hlasování o obsahu přednášky na čtvrtek, 29.6.2023](https://www.michalzobec.cz/vysledek-hlasovani-o-obsahu-prednasky-na-ctvrtek-29-6-2023-9097)
 - [Pozvánka na online přednášku – Různé nástroje a služby &lpar;čtvrtek, 29.6.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-ruzne-okruhy-temat-hlasovani-ctvrtek-29-6-2023-9080)
 - [Adobe: Aktivace starých nepodporovaných produktů &lpar;například Autodesk AutoCAD LT 2014&rpar;](https://www.michalzobec.cz/adobe-aktivace-starych-nepodporovanych-produktu-napriklad-autodesk-autocad-lt-2014-9075)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Microsoft: Seznam produktů s datem ukončení jejich podpory &lpar;Aktualizace 10.6.2023&rpar;](https://www.michalzobec.cz/konec-podpory-pro-produkty-spolecnosti-microsoft-5844)
 - [Záznam z přednášky – Základy licencování 1 &lpar;čtvrtek, 25.5.2023&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-zaklady-licencovani-1-ctvrtek-25-5-2023-9046)
 - [Microsoft Visual FoxPro: Ukončení podpory](https://www.michalzobec.cz/microsoft-visual-foxpro-ukonceni-podpory-9043)
-- [Jaké produkty Microsoftu končí v roce 2023?](https://www.michalzobec.cz/jake-produkty-microsoftu-konci-v-roce-2023-9010)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
