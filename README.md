@@ -66,10 +66,10 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
-- [Pozvánka na online přednášku – Základy licencování 1 &lpar;čtvrtek, 26.10.2023&rpar; [OPAKOVÁNÍ]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-zaklady-licencovani-1-ctvrtek-25-5-2023-8990)
+- [Microsoft 365: Microsoft blokuje zapnutí příchozích Exchange Connectorů &lpar;Inbound connector&rpar; pro nové tenanty vzniklé v roce 2023](https://www.michalzobec.cz/microsoft-365-microsoft-blokuje-zapnuti-prichozich-exchange-connectoru-inbound-connector-pro-nove-tenanty-vznikle-v-roce-2023-9086)
+- [Můj seznam počítačů](https://www.michalzobec.cz/muj-seznam-pocitacu-9029)
+- [Autodesk: Aktivace starých nepodporovaných produktů &lpar;například Autodesk AutoCAD LT 2014&rpar; &lpar;Aktualizace 3.7.2023&rpar;](https://www.michalzobec.cz/autodesk-aktivace-starych-nepodporovanych-produktu-napriklad-autodesk-autocad-lt-2014-9075)
 - [Výsledek hlasování o obsahu přednášky na čtvrtek, 29.6.2023](https://www.michalzobec.cz/vysledek-hlasovani-o-obsahu-prednasky-na-ctvrtek-29-6-2023-9097)
-- [Pozvánka na online přednášku – Různé nástroje a služby &lpar;čtvrtek, 29.6.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-ruzne-okruhy-temat-hlasovani-ctvrtek-29-6-2023-9080)
-- [Adobe: Aktivace starých nepodporovaných produktů &lpar;například Autodesk AutoCAD LT 2014&rpar;](https://www.michalzobec.cz/adobe-aktivace-starych-nepodporovanych-produktu-napriklad-autodesk-autocad-lt-2014-9075)
 - [Můj seznam mobilů](https://www.michalzobec.cz/muj-seznam-mobilu-9030)
 - [Windows 10: Jaké funkce a součásti Microsoft zruší? &lpar;Aktualizace 11.6.2023&rpar;](https://www.michalzobec.cz/windows-10-jake-funkce-a-soucasti-microsoft-zrusi-7187)
 - [Microsoft: Seznam nástrojů pro vývoj a jejich součástí s datem ukončení jejich podpory &lpar;Aktualizace 10.6.2023&rpar;](https://www.michalzobec.cz/microsoft-seznam-nastroju-pro-vyvoj-a-jejich-soucasti-s-datem-ukonceni-jejich-podpory-9051)
