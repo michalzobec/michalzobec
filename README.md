@@ -66,6 +66,9 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices 4 &lpar;čtvrtek, 28.9.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-4-ctvrtek-28-9-2023-9118)
+- [Pozvánka na online přednášku – Deployment aplikací a tvorba balíčků 1 &lpar;čtvrtek, 31.8.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-deployment-aplikaci-a-tvorba-balicku-1-ctvrtek-31-8-2023-9117)
+- [Pozvánka na online přednášku – Různé nástroje a služby 2 &lpar;čtvrtek, 27.7.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-ruzne-nastroje-a-sluzby-2-ctvrtek-27-7-2023-9116)
 - [Microsoft 365: Microsoft blokuje zapnutí příchozích Exchange Connectorů &lpar;Inbound connector&rpar; pro nové tenanty vzniklé v roce 2023](https://www.michalzobec.cz/microsoft-365-microsoft-blokuje-zapnuti-prichozich-exchange-connectoru-inbound-connector-pro-nove-tenanty-vznikle-v-roce-2023-9086)
 - [Můj seznam počítačů](https://www.michalzobec.cz/muj-seznam-pocitacu-9029)
 - [Autodesk: Aktivace starých nepodporovaných produktů &lpar;například Autodesk AutoCAD LT 2014&rpar; &lpar;Aktualizace 3.7.2023&rpar;](https://www.michalzobec.cz/autodesk-aktivace-starych-nepodporovanych-produktu-napriklad-autodesk-autocad-lt-2014-9075)
@@ -73,9 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Můj seznam mobilů](https://www.michalzobec.cz/muj-seznam-mobilu-9030)
 - [Windows 10: Jaké funkce a součásti Microsoft zruší? &lpar;Aktualizace 11.6.2023&rpar;](https://www.michalzobec.cz/windows-10-jake-funkce-a-soucasti-microsoft-zrusi-7187)
 - [Microsoft: Seznam nástrojů pro vývoj a jejich součástí s datem ukončení jejich podpory &lpar;Aktualizace 10.6.2023&rpar;](https://www.michalzobec.cz/microsoft-seznam-nastroju-pro-vyvoj-a-jejich-soucasti-s-datem-ukonceni-jejich-podpory-9051)
-- [Microsoft: Seznam produktů s datem ukončení jejich podpory &lpar;Aktualizace 10.6.2023&rpar;](https://www.michalzobec.cz/konec-podpory-pro-produkty-spolecnosti-microsoft-5844)
-- [Záznam z přednášky – Základy licencování 1 &lpar;čtvrtek, 25.5.2023&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-zaklady-licencovani-1-ctvrtek-25-5-2023-9046)
-- [Microsoft Visual FoxPro: Ukončení podpory](https://www.michalzobec.cz/microsoft-visual-foxpro-ukonceni-podpory-9043)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
