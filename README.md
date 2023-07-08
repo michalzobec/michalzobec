@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Záznam z přednášky – Různé nástroje a služby 1 &lpar;čtvrtek, 29.6.2023&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-ruzne-nastroje-a-sluzby-1-ctvrtek-29-6-2023-9126)
 - [Pozvánka na online přednášku – Základy licencování 1 &lpar;čtvrtek, 26.10.2023&rpar; [OPAKOVÁNÍ]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-zaklady-licencovani-1-ctvrtek-26-10-2023-opakovani-8990)
 - [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices 4 &lpar;čtvrtek, 28.9.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-4-ctvrtek-28-9-2023-9118)
 - [Pozvánka na online přednášku – Deployment aplikací a tvorba balíčků 1 &lpar;čtvrtek, 31.8.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-deployment-aplikaci-a-tvorba-balicku-1-ctvrtek-31-8-2023-9117)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Autodesk: Aktivace starých nepodporovaných produktů &lpar;například Autodesk AutoCAD LT 2014&rpar; &lpar;Aktualizace 3.7.2023&rpar;](https://www.michalzobec.cz/autodesk-aktivace-starych-nepodporovanych-produktu-napriklad-autodesk-autocad-lt-2014-9075)
 - [Výsledek hlasování o obsahu přednášky na čtvrtek, 29.6.2023](https://www.michalzobec.cz/vysledek-hlasovani-o-obsahu-prednasky-na-ctvrtek-29-6-2023-9097)
 - [Můj seznam mobilů](https://www.michalzobec.cz/muj-seznam-mobilu-9030)
-- [Windows 10: Jaké funkce a součásti Microsoft zruší? &lpar;Aktualizace 11.6.2023&rpar;](https://www.michalzobec.cz/windows-10-jake-funkce-a-soucasti-microsoft-zrusi-7187)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
