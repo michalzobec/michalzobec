@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Čínský mini raketoplán CSSHQ](https://www.michalzobec.cz/cinsky-mini-raketoplan-csshq-9165)
 - [Office: Jakou verzi Office mohu provozovat na Windows Server?](https://www.michalzobec.cz/office-jakou-verzi-office-mohu-provozovat-na-windows-server-9138)
 - [Záznam z přednášky – Různé nástroje a služby 1 &lpar;čtvrtek, 29.6.2023&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-ruzne-nastroje-a-sluzby-1-ctvrtek-29-6-2023-9126)
 - [Pozvánka na online přednášku – Základy licencování 1 &lpar;čtvrtek, 26.10.2023&rpar; [OPAKOVÁNÍ]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-zaklady-licencovani-1-ctvrtek-26-10-2023-opakovani-8990)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Microsoft 365: Microsoft blokuje zapnutí příchozích Exchange Connectorů &lpar;Inbound connector&rpar; pro nové tenanty vzniklé v roce 2023](https://www.michalzobec.cz/microsoft-365-microsoft-blokuje-zapnuti-prichozich-exchange-connectoru-inbound-connector-pro-nove-tenanty-vznikle-v-roce-2023-9086)
 - [Můj seznam počítačů](https://www.michalzobec.cz/muj-seznam-pocitacu-9029)
 - [Autodesk: Aktivace starých nepodporovaných produktů &lpar;například Autodesk AutoCAD LT 2014&rpar; &lpar;Aktualizace 3.7.2023&rpar;](https://www.michalzobec.cz/autodesk-aktivace-starych-nepodporovanych-produktu-napriklad-autodesk-autocad-lt-2014-9075)
-- [Výsledek hlasování o obsahu přednášky na čtvrtek, 29.6.2023](https://www.michalzobec.cz/vysledek-hlasovani-o-obsahu-prednasky-na-ctvrtek-29-6-2023-9097)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
