@@ -66,13 +66,13 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Zajímavá místa, která byste mohli navštívit v Praze](https://www.michalzobec.cz/zajimava-mista-ktera-byste-mohli-navstivit-v-praze-9179)
 - [Čínský znovupoužitelný mini raketoplán Božský drak &lpar;CSSHQ/Shenlong&rpar;](https://www.michalzobec.cz/cinsky-mini-raketoplan-csshq-9165)
 - [Office: Jakou verzi Office mohu provozovat na Windows Server?](https://www.michalzobec.cz/office-jakou-verzi-office-mohu-provozovat-na-windows-server-9138)
 - [Záznam z přednášky – Různé nástroje a služby 1 &lpar;čtvrtek, 29.6.2023&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-ruzne-nastroje-a-sluzby-1-ctvrtek-29-6-2023-9126)
 - [Pozvánka na online přednášku – Základy licencování 1 &lpar;čtvrtek, 26.10.2023&rpar; [OPAKOVÁNÍ]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-zaklady-licencovani-1-ctvrtek-26-10-2023-opakovani-8990)
 - [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices 4 &lpar;čtvrtek, 28.9.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-4-ctvrtek-28-9-2023-9118)
 - [Pozvánka na online přednášku – Deployment aplikací a tvorba balíčků 1 &lpar;čtvrtek, 31.8.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-deployment-aplikaci-a-tvorba-balicku-1-ctvrtek-31-8-2023-9117)
-- [Pozvánka na online přednášku – Různé nástroje a služby 2 &lpar;čtvrtek, 27.7.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-ruzne-nastroje-a-sluzby-2-ctvrtek-27-7-2023-9116)
 - [Microsoft 365: Microsoft blokuje zapnutí příchozích Exchange Connectorů &lpar;Inbound connector&rpar; pro nové tenanty vzniklé v roce 2023](https://www.michalzobec.cz/microsoft-365-microsoft-blokuje-zapnuti-prichozich-exchange-connectoru-inbound-connector-pro-nove-tenanty-vznikle-v-roce-2023-9086)
 - [Můj seznam počítačů](https://www.michalzobec.cz/muj-seznam-pocitacu-9029)
 - [Autodesk: Aktivace starých nepodporovaných produktů &lpar;například Autodesk AutoCAD LT 2014&rpar; &lpar;Aktualizace 3.7.2023&rpar;](https://www.michalzobec.cz/autodesk-aktivace-starych-nepodporovanych-produktu-napriklad-autodesk-autocad-lt-2014-9075)
