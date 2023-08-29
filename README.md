@@ -67,7 +67,7 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 
 <!-- BLOG-POST-LIST:START -->
 - [Plán přednášek pro rok 2023](https://www.michalzobec.cz/plan-prednasek-pro-rok-2023-8938)
-- [Pozvánka na online přednášku – Základy licencování 1 &lpar;čtvrtek, 28.9.2023&rpar; [OPAKOVÁNÍ]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-zaklady-licencovani-1-ctvrtek-26-10-2023-opakovani-8990)
+- [Pozvánka na online přednášku – Základy licencování 1 &lpar;středa, 27.9.2023&rpar; [OPAKOVÁNÍ]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-zaklady-licencovani-1-ctvrtek-26-10-2023-opakovani-8990)
 - [Microsoft Forms – stručný úvod](https://www.michalzobec.cz/microsoft-forms-strucny-uvod-9211)
 - [Michal ZOBEC: Volba obsahu přednášky čtvrtek, 31.8.2023](https://www.michalzobec.cz/michal-zobec-volba-obsahu-prednasky-ctvrtek-31-8-2023-9209)
 - [Microsoft Bookings – stručný úvod](https://www.michalzobec.cz/microsoft-bookings-strucny-uvod-9205)
