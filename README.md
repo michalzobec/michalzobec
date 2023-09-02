@@ -66,16 +66,16 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
-- [Plán přednášek pro rok 2023](https://www.michalzobec.cz/plan-prednasek-pro-rok-2023-8938)
 - [Pozvánka na online přednášku – Základy licencování 1 &lpar;středa, 27.9.2023&rpar; [OPAKOVÁNÍ]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-zaklady-licencovani-1-ctvrtek-26-10-2023-opakovani-8990)
+- [Plán přednášek pro rok 2023](https://www.michalzobec.cz/plan-prednasek-pro-rok-2023-8938)
 - [Microsoft Forms – stručný úvod](https://www.michalzobec.cz/microsoft-forms-strucny-uvod-9211)
 - [Michal ZOBEC: Volba obsahu přednášky čtvrtek, 31.8.2023](https://www.michalzobec.cz/michal-zobec-volba-obsahu-prednasky-ctvrtek-31-8-2023-9209)
 - [Microsoft Bookings – stručný úvod](https://www.michalzobec.cz/microsoft-bookings-strucny-uvod-9205)
 - [Záznam z přednášky – Různé nástroje a služby 2 &lpar;čtvrtek, 27.7.2023&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-ruzne-nastroje-a-sluzby-2-ctvrtek-27-7-2023-9187)
-- [Pozvánka na online přednášku – Deployment aplikací a tvorba balíčků 1 &lpar;čtvrtek, 31.8.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-deployment-aplikaci-a-tvorba-balicku-1-ctvrtek-31-8-2023-9117)
 - [Zajímavá místa, která byste mohli navštívit v Praze](https://www.michalzobec.cz/zajimava-mista-ktera-byste-mohli-navstivit-v-praze-9179)
 - [Čínský znovupoužitelný mini raketoplán Božský drak &lpar;CSSHQ/Shenlong&rpar;](https://www.michalzobec.cz/cinsky-mini-raketoplan-csshq-9165)
 - [Office: Jakou verzi Office mohu provozovat na Windows Server?](https://www.michalzobec.cz/office-jakou-verzi-office-mohu-provozovat-na-windows-server-9138)
+- [Záznam z přednášky – Různé nástroje a služby 1 &lpar;čtvrtek, 29.6.2023&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-ruzne-nastroje-a-sluzby-1-ctvrtek-29-6-2023-9126)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
