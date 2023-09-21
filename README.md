@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Definice velikosti podniku](https://www.michalzobec.cz/definice-velikosti-podniku-9266)
 - [Licencování: Nákup použitého software](https://www.michalzobec.cz/licencovani-nakup-pouziteho-software-9260)
 - [Apple: Aktivně zneužívaná závažná zranitelnost iOS, iPadOS, macOS a watchOS BLASTPASS](https://www.michalzobec.cz/apple-aktivne-zneuzivana-zavazna-zranitelnost-ios-ipados-macos-a-watchos-blastpass-9254)
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 9.9.2023&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Plán přednášek pro rok 2023](https://www.michalzobec.cz/plan-prednasek-pro-rok-2023-8938)
 - [Microsoft Forms – stručný úvod](https://www.michalzobec.cz/microsoft-forms-strucny-uvod-9211)
 - [Michal ZOBEC: Volba obsahu přednášky čtvrtek, 31.8.2023](https://www.michalzobec.cz/michal-zobec-volba-obsahu-prednasky-ctvrtek-31-8-2023-9209)
-- [Microsoft Bookings – stručný úvod](https://www.michalzobec.cz/microsoft-bookings-strucny-uvod-9205)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
