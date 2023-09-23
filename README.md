@@ -66,16 +66,16 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Plán přednášek pro rok 2024](https://www.michalzobec.cz/plan-prednasek-pro-rok-2024-9269)
 - [Definice velikosti podniku](https://www.michalzobec.cz/definice-velikosti-podniku-9266)
 - [Licencování: Nákup použitého software](https://www.michalzobec.cz/licencovani-nakup-pouziteho-software-9260)
 - [Apple: Aktivně zneužívaná závažná zranitelnost iOS, iPadOS, macOS a watchOS BLASTPASS](https://www.michalzobec.cz/apple-aktivne-zneuzivana-zavazna-zranitelnost-ios-ipados-macos-a-watchos-blastpass-9254)
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 9.9.2023&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 - [Záznam z přednášky – Deployment aplikací a tvorba balíčků 1 &lpar;čtvrtek, 31.8.2023&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-deployment-aplikaci-a-tvorba-balicku-1-ctvrtek-31-8-2023-9241)
 - [KeePass – Ukázka ručního a automatického přihlášení](https://www.michalzobec.cz/keepass-ukazka-rucniho-a-automatickeho-prihlaseni-9245)
-- [Pozvánka na online přednášku – Základy licencování 1 &lpar;středa, 27.9.2023&rpar; [OPAKOVÁNÍ]](https://www.michalzobec.cz/pozvanka-na-online-prednasku-zaklady-licencovani-1-ctvrtek-26-10-2023-opakovani-8990)
+- [Pozvánka na online přednášku – Základy licencování 1 &lpar;středa, 27.9.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-zaklady-licencovani-1-ctvrtek-26-10-2023-opakovani-8990)
 - [Plán přednášek pro rok 2023](https://www.michalzobec.cz/plan-prednasek-pro-rok-2023-8938)
 - [Microsoft Forms – stručný úvod](https://www.michalzobec.cz/microsoft-forms-strucny-uvod-9211)
-- [Michal ZOBEC: Volba obsahu přednášky čtvrtek, 31.8.2023](https://www.michalzobec.cz/michal-zobec-volba-obsahu-prednasky-ctvrtek-31-8-2023-9209)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
