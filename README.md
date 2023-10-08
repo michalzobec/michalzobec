@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Podnikání: Jaký je vlastně rozdíl mezi osobním účtem a podnikatelským bankovním účtem](https://www.michalzobec.cz/podnikani-jaky-je-vlastne-rozdil-mezi-osobnim-uctem-a-podnikatelskym-bankovnim-uctem-9321)
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 8.10.2023&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 - [Google: Poslední dostupné aktualizace/verze Google Android OS &lpar;Aktualizace 8.10.2023&rpar;](https://www.michalzobec.cz/google-posledni-dostupne-aktualizace-verze-google-android-os-9317)
 - [Apple: Historie podporovaných zařízení iPhone &lpar;Aktualizace 8.10.2023&rpar;](https://www.michalzobec.cz/apple-historie-podporovanych-zarizeni-iphone-8769)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Plán přednášek pro rok 2024](https://www.michalzobec.cz/plan-prednasek-pro-rok-2024-9269)
 - [Definice velikosti podniku](https://www.michalzobec.cz/definice-velikosti-podniku-9266)
 - [Licencování: Nákup použitého software](https://www.michalzobec.cz/licencovani-nakup-pouziteho-software-9260)
-- [Apple: Aktivně zneužívaná závažná zranitelnost iOS, iPadOS, macOS a watchOS BLASTPASS](https://www.michalzobec.cz/apple-aktivne-zneuzivana-zavazna-zranitelnost-ios-ipados-macos-a-watchos-blastpass-9254)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
