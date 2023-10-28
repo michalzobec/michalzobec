@@ -66,10 +66,10 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 28.10.2023&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 - [Pozvánka na online přednášku – Základy licencování 2 – nový termín &lpar;čtvrtek, 2.11.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-zaklady-licencovani-2-ctvrtek-26-10-2023-9306)
 - [Jak odebrat prohlížeč Microsoft Internet Explorer z Windows](https://www.michalzobec.cz/jak-odebrat-prohlizec-microsoft-internet-explorer-z-windows-9325)
 - [Podnikání: Jaký je vlastně rozdíl mezi osobním účtem a podnikatelským bankovním účtem](https://www.michalzobec.cz/podnikani-jaky-je-vlastne-rozdil-mezi-osobnim-uctem-a-podnikatelskym-bankovnim-uctem-9321)
-- [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 8.10.2023&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 - [Google: Poslední dostupné aktualizace/verze Google Android OS &lpar;Aktualizace 8.10.2023&rpar;](https://www.michalzobec.cz/google-posledni-dostupne-aktualizace-verze-google-android-os-9317)
 - [Apple: Historie podporovaných zařízení iPhone &lpar;Aktualizace 8.10.2023&rpar;](https://www.michalzobec.cz/apple-historie-podporovanych-zarizeni-iphone-8769)
 - [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices 4 &lpar;čtvrtek, 30.11.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-4-ctvrtek-28-9-2023-9118)
