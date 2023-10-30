@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows: Seznam ikon ve Windows](https://www.michalzobec.cz/windows-seznam-ikon-ve-windows-9346)
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 28.10.2023&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 - [Pozvánka na online přednášku – Základy licencování 2 – nový termín &lpar;čtvrtek, 2.11.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-zaklady-licencovani-2-ctvrtek-26-10-2023-9306)
 - [Jak odebrat prohlížeč Microsoft Internet Explorer z Windows](https://www.michalzobec.cz/jak-odebrat-prohlizec-microsoft-internet-explorer-z-windows-9325)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices 4 &lpar;čtvrtek, 30.11.2023&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-4-ctvrtek-28-9-2023-9118)
 - [Záznam z přednášky #10 Základy licencování 1 &lpar;středa, 27.9.2023&rpar;](https://www.michalzobec.cz/zaznam-z-prednasky-10-zaklady-licencovani-1-streda-27-9-2023-9280)
 - [Plán přednášek pro rok 2024](https://www.michalzobec.cz/plan-prednasek-pro-rok-2024-9269)
-- [Podnikání: Definice velikosti podniku](https://www.michalzobec.cz/definice-velikosti-podniku-9266)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
