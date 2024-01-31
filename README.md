@@ -68,6 +68,7 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 <!-- BLOG-POST-LIST:START -->
 - [Google a Yahoo vynucuje od února 2024 přísnější pravidla pro příjem emailů. Bude vyžadovat SPF, DKIM a DMARC](https://www.michalzobec.cz/google-a-yahoo-vynucuje-od-unora-2024-prisnejsi-pravidla-pro-prijem-emailu-bude-vyzadovat-spf-dkim-a-dmarc-9376)
 - [Plán přednášek pro rok 2024](https://www.michalzobec.cz/plan-prednasek-pro-rok-2024-9269)
+- [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices 4 &lpar;čtvrtek, 29.2.2024&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-4-ctvrtek-28-9-2023-9118)
 - [Zkušenosti se službou Alza NEO a pronájmem telefonů Apple iPhone](https://www.michalzobec.cz/zkusenosti-se-sluzbou-alza-neo-a-pronajmem-telefonu-apple-iphone-9358)
 - [NÚKIB: Bezpečnostní doporučení NÚKIB pro administrátory](https://www.michalzobec.cz/nukib-bezpecnostni-doporuceni-nukib-pro-administratory-9349)
 - [Windows: Seznam ikon ve Windows](https://www.michalzobec.cz/windows-seznam-ikon-ve-windows-9346)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Jak odebrat prohlížeč Microsoft Internet Explorer z Windows](https://www.michalzobec.cz/jak-odebrat-prohlizec-microsoft-internet-explorer-z-windows-9325)
 - [Podnikání: Jaký je vlastně rozdíl mezi osobním účtem a podnikatelským bankovním účtem](https://www.michalzobec.cz/podnikani-jaky-je-vlastne-rozdil-mezi-osobnim-uctem-a-podnikatelskym-bankovnim-uctem-9321)
 - [Google: Poslední dostupné aktualizace/verze Google Android OS &lpar;Aktualizace 8.10.2023&rpar;](https://www.michalzobec.cz/google-posledni-dostupne-aktualizace-verze-google-android-os-9317)
-- [Apple: Historie podporovaných zařízení iPhone &lpar;Aktualizace 8.10.2023&rpar;](https://www.michalzobec.cz/apple-historie-podporovanych-zarizeni-iphone-8769)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
