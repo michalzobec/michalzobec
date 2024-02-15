@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure: Jak zmenšit disk virtuálního počítače Azure VM](https://www.michalzobec.cz/azure-jak-zmensit-disk-virtualniho-pocitace-azure-vm-9393)
 - [Google a Yahoo vynucuje od února 2024 přísnější pravidla pro příjem emailů. Bude vyžadovat SPF, DKIM a DMARC &lpar;Aktualizace 1.2.2024&rpar;](https://www.michalzobec.cz/google-a-yahoo-vynucuje-od-unora-2024-prisnejsi-pravidla-pro-prijem-emailu-bude-vyzadovat-spf-dkim-a-dmarc-9376)
 - [Licencování: Nákup licencí pro Windows Server 2022](https://www.michalzobec.cz/licencovani-nakup-licenci-pro-windows-server-2022-9339)
 - [Plán přednášek pro rok 2024](https://www.michalzobec.cz/plan-prednasek-pro-rok-2024-9269)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Windows: Seznam ikon ve Windows](https://www.michalzobec.cz/windows-seznam-ikon-ve-windows-9346)
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 28.10.2023&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 - [Jak odebrat prohlížeč Microsoft Internet Explorer z Windows](https://www.michalzobec.cz/jak-odebrat-prohlizec-microsoft-internet-explorer-z-windows-9325)
-- [Podnikání: Jaký je vlastně rozdíl mezi osobním účtem a podnikatelským bankovním účtem](https://www.michalzobec.cz/podnikani-jaky-je-vlastne-rozdil-mezi-osobnim-uctem-a-podnikatelskym-bankovnim-uctem-9321)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
