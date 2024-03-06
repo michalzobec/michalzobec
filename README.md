@@ -71,11 +71,11 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Google a Yahoo vynucuje od února 2024 přísnější pravidla pro příjem emailů. Bude vyžadovat SPF, DKIM a DMARC &lpar;Aktualizace 1.2.2024&rpar;](https://www.michalzobec.cz/google-a-yahoo-vynucuje-od-unora-2024-prisnejsi-pravidla-pro-prijem-emailu-bude-vyzadovat-spf-dkim-a-dmarc-9376)
 - [Licencování: Nákup licencí pro Windows Server 2022](https://www.michalzobec.cz/licencovani-nakup-licenci-pro-windows-server-2022-9339)
 - [Plán přednášek pro rok 2024](https://www.michalzobec.cz/plan-prednasek-pro-rok-2024-9269)
-- [Pozvánka na online přednášku – Microsoft 365 &amp; Azure Best Practices 4 &lpar;čtvrtek, 29.2.2024&rpar;](https://www.michalzobec.cz/pozvanka-na-online-prednasku-microsoft-365-azure-best-practices-4-ctvrtek-28-9-2023-9118)
 - [Zkušenosti se službou Alza NEO a pronájmem telefonů Apple iPhone](https://www.michalzobec.cz/zkusenosti-se-sluzbou-alza-neo-a-pronajmem-telefonu-apple-iphone-9358)
 - [NÚKIB: Bezpečnostní doporučení NÚKIB pro administrátory](https://www.michalzobec.cz/nukib-bezpecnostni-doporuceni-nukib-pro-administratory-9349)
 - [Windows: Seznam ikon ve Windows](https://www.michalzobec.cz/windows-seznam-ikon-ve-windows-9346)
 - [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 28.10.2023&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
+- [Jak odebrat prohlížeč Microsoft Internet Explorer z Windows](https://www.michalzobec.cz/jak-odebrat-prohlizec-microsoft-internet-explorer-z-windows-9325)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
