@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft 365: Časté otázky a odpovědi](https://www.michalzobec.cz/microsoft-365-caste-otazky-a-odpovedi-9407)
 - [Zkušenosti s elektronickým podpisem &lpar;Černé ovce&rpar; &lpar;Aktualizace 10.3.2024&rpar;](https://www.michalzobec.cz/zkusenosti-s-elektronickym-podpisem-cerne-ovce-488)
 - [Vysvětlení chybových kódů pro nedoručené emaily na Gmail a Yahoo &lpar;SMTP Error Code&rpar;](https://www.michalzobec.cz/vysvetleni-chybovych-kodu-pro-nedorucene-emaily-na-gmail-a-yahoo-smtp-error-code-9396)
 - [Azure: Jak zmenšit disk virtuálního počítače Azure VM](https://www.michalzobec.cz/azure-jak-zmensit-disk-virtualniho-pocitace-azure-vm-9393)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Zkušenosti se službou Alza NEO a pronájmem telefonů Apple iPhone](https://www.michalzobec.cz/zkusenosti-se-sluzbou-alza-neo-a-pronajmem-telefonu-apple-iphone-9358)
 - [NÚKIB: Bezpečnostní doporučení NÚKIB pro administrátory](https://www.michalzobec.cz/nukib-bezpecnostni-doporuceni-nukib-pro-administratory-9349)
 - [Windows: Seznam ikon ve Windows](https://www.michalzobec.cz/windows-seznam-ikon-ve-windows-9346)
-- [Apple: Poslední dostupné aktualizace/verze software &lpar;Aktualizace 28.10.2023&rpar;](https://www.michalzobec.cz/apple-posledni-dostupne-aktualizace-verze-software-7127)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
