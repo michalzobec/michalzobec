@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Výše soudního poplatku a náklady na advokáta v případě soudního sporu](https://www.michalzobec.cz/vyse-soudniho-poplatku-a-naklady-na-advokata-v-pripade-soudniho-sporu-9417)
 - [Microsoft 365/Exchange Online: Podpora DNS-based Authentication of Named Entities &lpar;DANE&rpar; a Domain Name System Security Extensions &lpar;DNSSEC&rpar; pro příchozí SMTP konektor &lpar;Inbound&rpar;](https://www.michalzobec.cz/microsoft-365-exchange-online-podpora-dns-based-authentication-of-named-entities-dane-a-domain-name-system-security-extensions-dnssec-pro-prichozi-smtp-konektor-inbound-9411)
 - [Microsoft 365: Časté otázky a odpovědi](https://www.michalzobec.cz/microsoft-365-caste-otazky-a-odpovedi-9407)
 - [Zkušenosti s elektronickým podpisem &lpar;Černé ovce&rpar; &lpar;Aktualizace 10.3.2024&rpar;](https://www.michalzobec.cz/zkusenosti-s-elektronickym-podpisem-cerne-ovce-488)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Licencování: Nákup licencí pro Windows Server 2022](https://www.michalzobec.cz/licencovani-nakup-licenci-pro-windows-server-2022-9339)
 - [Plán přednášek pro rok 2024](https://www.michalzobec.cz/plan-prednasek-pro-rok-2024-9269)
 - [Zkušenosti se službou Alza NEO a pronájmem telefonů Apple iPhone](https://www.michalzobec.cz/zkusenosti-se-sluzbou-alza-neo-a-pronajmem-telefonu-apple-iphone-9358)
-- [NÚKIB: Bezpečnostní doporučení NÚKIB pro administrátory](https://www.michalzobec.cz/nukib-bezpecnostni-doporuceni-nukib-pro-administratory-9349)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
