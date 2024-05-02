@@ -66,6 +66,9 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft 365 Apps: Office aplikace skončí na Windows Server v říjnu 2026](https://www.michalzobec.cz/microsoft-365-apps-office-aplikace-skonci-na-windows-server-v-rijnu-2026-9432)
+- [Azure Windows VM: Změna písmena dočasného disku &lpar;Temporary Drive&rpar;](https://www.michalzobec.cz/azure-windows-vm-zmena-pismena-docasneho-disku-temporary-drive-9420)
+- [Azure VM Temporary Storage: K čemu vlastně slouží disk pro dočasná data &lpar;Temporary Drive&rpar;](https://www.michalzobec.cz/azure-vm-temporary-storage-k-cemu-vlastne-slouzi-disk-pro-docasna-data-temporary-drive-9422)
 - [Výše soudního poplatku a náklady na advokáta v případě soudního sporu](https://www.michalzobec.cz/vyse-soudniho-poplatku-a-naklady-na-advokata-v-pripade-soudniho-sporu-9417)
 - [Microsoft 365/Exchange Online: Podpora DNS-based Authentication of Named Entities &lpar;DANE&rpar; a Domain Name System Security Extensions &lpar;DNSSEC&rpar; pro příchozí SMTP konektor &lpar;Inbound&rpar;](https://www.michalzobec.cz/microsoft-365-exchange-online-podpora-dns-based-authentication-of-named-entities-dane-a-domain-name-system-security-extensions-dnssec-pro-prichozi-smtp-konektor-inbound-9411)
 - [Microsoft 365: Časté otázky a odpovědi](https://www.michalzobec.cz/microsoft-365-caste-otazky-a-odpovedi-9407)
@@ -73,9 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Vysvětlení chybových kódů pro nedoručené emaily na Gmail a Yahoo &lpar;SMTP Error Code&rpar;](https://www.michalzobec.cz/vysvetleni-chybovych-kodu-pro-nedorucene-emaily-na-gmail-a-yahoo-smtp-error-code-9396)
 - [Azure: Jak zmenšit disk virtuálního počítače Azure VM](https://www.michalzobec.cz/azure-jak-zmensit-disk-virtualniho-pocitace-azure-vm-9393)
 - [Google a Yahoo vynucuje od února 2024 přísnější pravidla pro příjem emailů. Bude vyžadovat SPF, DKIM a DMARC &lpar;Aktualizace 1.2.2024&rpar;](https://www.michalzobec.cz/google-a-yahoo-vynucuje-od-unora-2024-prisnejsi-pravidla-pro-prijem-emailu-bude-vyzadovat-spf-dkim-a-dmarc-9376)
-- [Licencování: Nákup licencí pro Windows Server 2022](https://www.michalzobec.cz/licencovani-nakup-licenci-pro-windows-server-2022-9339)
-- [Plán přednášek pro rok 2024](https://www.michalzobec.cz/plan-prednasek-pro-rok-2024-9269)
-- [Zkušenosti se službou Alza NEO a pronájmem telefonů Apple iPhone](https://www.michalzobec.cz/zkusenosti-se-sluzbou-alza-neo-a-pronajmem-telefonu-apple-iphone-9358)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
