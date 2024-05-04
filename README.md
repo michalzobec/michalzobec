@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [4. května den Star Wars &lpar;May the 4th be with you&rpar;](https://www.michalzobec.cz/4-kvetna-den-star-wars-may-the-4th-be-with-you-9436)
 - [Microsoft 365 Apps: Office aplikace skončí na Windows Server v říjnu 2026](https://www.michalzobec.cz/microsoft-365-apps-office-aplikace-skonci-na-windows-server-v-rijnu-2026-9432)
 - [Azure Windows VM: Změna písmena dočasného disku &lpar;Temporary Drive&rpar;](https://www.michalzobec.cz/azure-windows-vm-zmena-pismena-docasneho-disku-temporary-drive-9420)
 - [Azure VM Temporary Storage: K čemu vlastně slouží disk pro dočasná data &lpar;Temporary Drive&rpar;](https://www.michalzobec.cz/azure-vm-temporary-storage-k-cemu-vlastne-slouzi-disk-pro-docasna-data-temporary-drive-9422)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Zkušenosti s elektronickým podpisem &lpar;Černé ovce&rpar; &lpar;Aktualizace 10.3.2024&rpar;](https://www.michalzobec.cz/zkusenosti-s-elektronickym-podpisem-cerne-ovce-488)
 - [Vysvětlení chybových kódů pro nedoručené emaily na Gmail a Yahoo &lpar;SMTP Error Code&rpar;](https://www.michalzobec.cz/vysvetleni-chybovych-kodu-pro-nedorucene-emaily-na-gmail-a-yahoo-smtp-error-code-9396)
 - [Azure: Jak zmenšit disk virtuálního počítače Azure VM](https://www.michalzobec.cz/azure-jak-zmensit-disk-virtualniho-pocitace-azure-vm-9393)
-- [Google a Yahoo vynucuje od února 2024 přísnější pravidla pro příjem emailů. Bude vyžadovat SPF, DKIM a DMARC &lpar;Aktualizace 1.2.2024&rpar;](https://www.michalzobec.cz/google-a-yahoo-vynucuje-od-unora-2024-prisnejsi-pravidla-pro-prijem-emailu-bude-vyzadovat-spf-dkim-a-dmarc-9376)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
