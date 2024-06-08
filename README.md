@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Kde najdu film Cesta na Měsíc &lpar;1902&rpar; Marie Georges Jean Méliès](https://www.michalzobec.cz/kde-najdu-film-cesta-na-mesic-1902-marie-georges-jean-melies-9456)
 - [Microsoft Copilot for Microsoft 365](https://www.michalzobec.cz/microsoft-copilot-for-microsoft-365-9446)
 - [4. května den Star Wars &lpar;May the 4th be with you&rpar;](https://www.michalzobec.cz/4-kvetna-den-star-wars-may-the-4th-be-with-you-9436)
 - [Microsoft 365 Apps: Office aplikace skončí na Windows Server v říjnu 2026](https://www.michalzobec.cz/microsoft-365-apps-office-aplikace-skonci-na-windows-server-v-rijnu-2026-9432)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Microsoft 365/Exchange Online: Podpora DNS-based Authentication of Named Entities &lpar;DANE&rpar; a Domain Name System Security Extensions &lpar;DNSSEC&rpar; pro příchozí SMTP konektor &lpar;Inbound&rpar;](https://www.michalzobec.cz/microsoft-365-exchange-online-podpora-dns-based-authentication-of-named-entities-dane-a-domain-name-system-security-extensions-dnssec-pro-prichozi-smtp-konektor-inbound-9411)
 - [Microsoft 365: Časté otázky a odpovědi](https://www.michalzobec.cz/microsoft-365-caste-otazky-a-odpovedi-9407)
 - [Zkušenosti s elektronickým podpisem &lpar;Černé ovce&rpar; &lpar;Aktualizace 10.3.2024&rpar;](https://www.michalzobec.cz/zkusenosti-s-elektronickym-podpisem-cerne-ovce-488)
-- [Vysvětlení chybových kódů pro nedoručené emaily na Gmail a Yahoo &lpar;SMTP Error Code&rpar;](https://www.michalzobec.cz/vysvetleni-chybovych-kodu-pro-nedorucene-emaily-na-gmail-a-yahoo-smtp-error-code-9396)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
