@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Office: Jakou verzi Office mohu provozovat na Windows Server?](https://www.michalzobec.cz/office-jakou-verzi-office-mohu-provozovat-na-windows-server-9138)
 - [Kde najdu film Cesta na Měsíc &lpar;1902&rpar; Marie Georges Jean Méliès](https://www.michalzobec.cz/kde-najdu-film-cesta-na-mesic-1902-marie-georges-jean-melies-9456)
 - [Microsoft Copilot for Microsoft 365](https://www.michalzobec.cz/microsoft-copilot-for-microsoft-365-9446)
 - [4. května den Star Wars &lpar;May the 4th be with you&rpar;](https://www.michalzobec.cz/4-kvetna-den-star-wars-may-the-4th-be-with-you-9436)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Výše soudního poplatku a náklady na advokáta v případě soudního sporu](https://www.michalzobec.cz/vyse-soudniho-poplatku-a-naklady-na-advokata-v-pripade-soudniho-sporu-9417)
 - [Microsoft 365/Exchange Online: Podpora DNS-based Authentication of Named Entities &lpar;DANE&rpar; a Domain Name System Security Extensions &lpar;DNSSEC&rpar; pro příchozí SMTP konektor &lpar;Inbound&rpar;](https://www.michalzobec.cz/microsoft-365-exchange-online-podpora-dns-based-authentication-of-named-entities-dane-a-domain-name-system-security-extensions-dnssec-pro-prichozi-smtp-konektor-inbound-9411)
 - [Microsoft 365: Časté otázky a odpovědi](https://www.michalzobec.cz/microsoft-365-caste-otazky-a-odpovedi-9407)
-- [Zkušenosti s elektronickým podpisem &lpar;Černé ovce&rpar; &lpar;Aktualizace 10.3.2024&rpar;](https://www.michalzobec.cz/zkusenosti-s-elektronickym-podpisem-cerne-ovce-488)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
