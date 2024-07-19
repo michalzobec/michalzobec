@@ -66,6 +66,8 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Nefukčnost Windows díky aktualizaci služby CrowdStrike](https://www.michalzobec.cz/nefukcnost-windows-diky-aktualizaci-sluzby-crowdstrike-9470)
+- [Microsoft Azure &amp; 365: Výpadek cloudových služeb Microsoft](https://www.michalzobec.cz/microsoft-azure-365-vypadek-cloudovych-sluzeb-microsoft-9469)
 - [Microsoft Office: Jakou verzi Office mohu provozovat na Windows Server?](https://www.michalzobec.cz/office-jakou-verzi-office-mohu-provozovat-na-windows-server-9138)
 - [Kde najdu film Cesta na Měsíc &lpar;1902&rpar; Marie Georges Jean Méliès](https://www.michalzobec.cz/kde-najdu-film-cesta-na-mesic-1902-marie-georges-jean-melies-9456)
 - [Microsoft Copilot for Microsoft 365](https://www.michalzobec.cz/microsoft-copilot-for-microsoft-365-9446)
@@ -74,8 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Azure Windows VM: Změna písmena dočasného disku &lpar;Temporary Drive&rpar;](https://www.michalzobec.cz/azure-windows-vm-zmena-pismena-docasneho-disku-temporary-drive-9420)
 - [Azure VM Temporary Storage: K čemu vlastně slouží disk pro dočasná data &lpar;Temporary Drive&rpar;](https://www.michalzobec.cz/azure-vm-temporary-storage-k-cemu-vlastne-slouzi-disk-pro-docasna-data-temporary-drive-9422)
 - [Výše soudního poplatku a náklady na advokáta v případě soudního sporu](https://www.michalzobec.cz/vyse-soudniho-poplatku-a-naklady-na-advokata-v-pripade-soudniho-sporu-9417)
-- [Microsoft 365/Exchange Online: Podpora DNS-based Authentication of Named Entities &lpar;DANE&rpar; a Domain Name System Security Extensions &lpar;DNSSEC&rpar; pro příchozí SMTP konektor &lpar;Inbound&rpar;](https://www.michalzobec.cz/microsoft-365-exchange-online-podpora-dns-based-authentication-of-named-entities-dane-a-domain-name-system-security-extensions-dnssec-pro-prichozi-smtp-konektor-inbound-9411)
-- [Microsoft 365: Časté otázky a odpovědi](https://www.michalzobec.cz/microsoft-365-caste-otazky-a-odpovedi-9407)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
