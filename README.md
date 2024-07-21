@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Co znamená Endpoint Detection and Response/Extended Detection and Response &lpar;EDR/XDR&rpar;](https://www.michalzobec.cz/co-znamena-endpoint-detection-and-response-extended-detection-and-response-edr-xdr-9486)
 - [Nefukčnost Windows díky aktualizaci služby CrowdStrike](https://www.michalzobec.cz/nefukcnost-windows-diky-aktualizaci-sluzby-crowdstrike-9470)
 - [Microsoft Azure &amp; 365: Výpadek cloudových služeb Microsoft](https://www.michalzobec.cz/microsoft-azure-365-vypadek-cloudovych-sluzeb-microsoft-9469)
 - [Microsoft Office: Jakou verzi Office mohu provozovat na Windows Server?](https://www.michalzobec.cz/office-jakou-verzi-office-mohu-provozovat-na-windows-server-9138)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Microsoft 365 Apps: Office aplikace skončí na Windows Server v říjnu 2026](https://www.michalzobec.cz/microsoft-365-apps-office-aplikace-skonci-na-windows-server-v-rijnu-2026-9432)
 - [Azure Windows VM: Změna písmena dočasného disku &lpar;Temporary Drive&rpar;](https://www.michalzobec.cz/azure-windows-vm-zmena-pismena-docasneho-disku-temporary-drive-9420)
 - [Azure VM Temporary Storage: K čemu vlastně slouží disk pro dočasná data &lpar;Temporary Drive&rpar;](https://www.michalzobec.cz/azure-vm-temporary-storage-k-cemu-vlastne-slouzi-disk-pro-docasna-data-temporary-drive-9422)
-- [Výše soudního poplatku a náklady na advokáta v případě soudního sporu](https://www.michalzobec.cz/vyse-soudniho-poplatku-a-naklady-na-advokata-v-pripade-soudniho-sporu-9417)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
