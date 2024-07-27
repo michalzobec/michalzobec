@@ -66,10 +66,10 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Office: Jakou verzi Office mohu provozovat na Windows Server? &lpar;Aktualizace 27.7.2024&rpar;](https://www.michalzobec.cz/office-jakou-verzi-office-mohu-provozovat-na-windows-server-9138)
 - [Co znamená Endpoint Detection and Response/Extended Detection and Response &lpar;EDR/XDR&rpar;](https://www.michalzobec.cz/co-znamena-endpoint-detection-and-response-extended-detection-and-response-edr-xdr-9486)
 - [Nefukčnost Windows díky aktualizaci služby CrowdStrike](https://www.michalzobec.cz/nefukcnost-windows-diky-aktualizaci-sluzby-crowdstrike-9470)
 - [Microsoft Azure &amp; 365: Výpadek cloudových služeb Microsoft](https://www.michalzobec.cz/microsoft-azure-365-vypadek-cloudovych-sluzeb-microsoft-9469)
-- [Microsoft Office: Jakou verzi Office mohu provozovat na Windows Server?](https://www.michalzobec.cz/office-jakou-verzi-office-mohu-provozovat-na-windows-server-9138)
 - [Kde najdu film Cesta na Měsíc &lpar;1902&rpar; Marie Georges Jean Méliès](https://www.michalzobec.cz/kde-najdu-film-cesta-na-mesic-1902-marie-georges-jean-melies-9456)
 - [Microsoft Copilot for Microsoft 365](https://www.michalzobec.cz/microsoft-copilot-for-microsoft-365-9446)
 - [4. května den Star Wars &lpar;May the 4th be with you&rpar;](https://www.michalzobec.cz/4-kvetna-den-star-wars-may-the-4th-be-with-you-9436)
