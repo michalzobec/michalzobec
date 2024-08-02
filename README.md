@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Licencování: Microsoft SQL Server Data Tools &lpar;SSDT&rpar; for Visual Studio je zdarma i pro velké společnosti &lpar;korporace&rpar;](https://www.michalzobec.cz/licencovani-microsoft-sql-server-data-tools-ssdt-for-visual-studio-je-zdarma-i-pro-velke-spolecnosti-korporace-9363)
 - [Nové termíny přednášek a nový koncept](https://www.michalzobec.cz/nove-terminy-prednasek-a-novy-koncept-9494)
 - [Let’s Encrypt: Certify The Web jako náhrada za ACMESharp](https://www.michalzobec.cz/lets-encrypt-certify-the-web-jako-nahrada-za-acmesharp-9483)
 - [Microsoft Office: Jakou verzi Office mohu provozovat na Windows Server? &lpar;Aktualizace 27.7.2024&rpar;](https://www.michalzobec.cz/office-jakou-verzi-office-mohu-provozovat-na-windows-server-9138)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Kde najdu film Cesta na Měsíc &lpar;1902&rpar; Marie Georges Jean Méliès](https://www.michalzobec.cz/kde-najdu-film-cesta-na-mesic-1902-marie-georges-jean-melies-9456)
 - [Microsoft Copilot for Microsoft 365](https://www.michalzobec.cz/microsoft-copilot-for-microsoft-365-9446)
 - [4. května den Star Wars &lpar;May the 4th be with you&rpar;](https://www.michalzobec.cz/4-kvetna-den-star-wars-may-the-4th-be-with-you-9436)
-- [Microsoft 365 Apps: Office aplikace skončí na Windows Server v říjnu 2026](https://www.michalzobec.cz/microsoft-365-apps-office-aplikace-skonci-na-windows-server-v-rijnu-2026-9432)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
