@@ -67,7 +67,7 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 
 <!-- BLOG-POST-LIST:START -->
 - [Licencování: Microsoft SQL Server Data Tools &lpar;SSDT&rpar; for Visual Studio je zdarma i pro velké společnosti &lpar;korporace&rpar;](https://www.michalzobec.cz/licencovani-microsoft-sql-server-data-tools-ssdt-for-visual-studio-je-zdarma-i-pro-velke-spolecnosti-korporace-9363)
-- [Nové termíny přednášek a nový koncept](https://www.michalzobec.cz/nove-terminy-prednasek-a-novy-koncept-9494)
+- [Nové termíny přednášek a jejich nový koncept](https://www.michalzobec.cz/nove-terminy-prednasek-a-novy-koncept-9494)
 - [Let’s Encrypt: Certify The Web jako náhrada za ACMESharp](https://www.michalzobec.cz/lets-encrypt-certify-the-web-jako-nahrada-za-acmesharp-9483)
 - [Microsoft Office: Jakou verzi Office mohu provozovat na Windows Server? &lpar;Aktualizace 27.7.2024&rpar;](https://www.michalzobec.cz/office-jakou-verzi-office-mohu-provozovat-na-windows-server-9138)
 - [Co znamená Endpoint Detection and Response/Extended Detection and Response &lpar;EDR/XDR&rpar;](https://www.michalzobec.cz/co-znamena-endpoint-detection-and-response-extended-detection-and-response-edr-xdr-9486)
