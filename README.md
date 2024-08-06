@@ -66,6 +66,9 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Nástroj Microsoft MBR2GPT – konverze partition z typu BIOS/MBR &lpar;Master Boot Record&rpar; do UEFI/GPT &lpar;GUID Partition Table&rpar; bez ztráty dat](https://www.michalzobec.cz/nastroj-microsoft-mbr2gpt-konverze-partition-z-typu-bios-mbr-master-boot-record-do-uefi-gpt-guid-partition-table-bez-ztraty-dat-9511)
+- [Microsoft Visual Studio Tools 2010 for Office Runtime – vyjímka potvrzující pravidlo](https://www.michalzobec.cz/microsoft-visual-studio-tools-2010-for-office-runtime-vyjimka-potvrzujici-pravidlo-9501)
+- [Microsoft zkracuje podporu pro Office 2021 LTSC &lpar;Long Term Servicing Channel&rpar; na 5 let](https://www.michalzobec.cz/microsoft-zkracuje-podporu-pro-office-2021-ltsc-long-term-servicing-channel-na-5-let-9504)
 - [Licencování: Microsoft SQL Server Data Tools &lpar;SSDT&rpar; for Visual Studio je zdarma i pro velké společnosti &lpar;korporace&rpar;](https://www.michalzobec.cz/licencovani-microsoft-sql-server-data-tools-ssdt-for-visual-studio-je-zdarma-i-pro-velke-spolecnosti-korporace-9363)
 - [Nové termíny přednášek a jejich nový koncept](https://www.michalzobec.cz/nove-terminy-prednasek-a-novy-koncept-9494)
 - [Let’s Encrypt: Certify The Web jako náhrada za ACMESharp](https://www.michalzobec.cz/lets-encrypt-certify-the-web-jako-nahrada-za-acmesharp-9483)
@@ -73,9 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Co znamená Endpoint Detection and Response/Extended Detection and Response &lpar;EDR/XDR&rpar;](https://www.michalzobec.cz/co-znamena-endpoint-detection-and-response-extended-detection-and-response-edr-xdr-9486)
 - [Nefukčnost Windows díky aktualizaci služby CrowdStrike](https://www.michalzobec.cz/nefukcnost-windows-diky-aktualizaci-sluzby-crowdstrike-9470)
 - [Microsoft Azure &amp; 365: Výpadek cloudových služeb Microsoft](https://www.michalzobec.cz/microsoft-azure-365-vypadek-cloudovych-sluzeb-microsoft-9469)
-- [Kde najdu film Cesta na Měsíc &lpar;1902&rpar; Marie Georges Jean Méliès](https://www.michalzobec.cz/kde-najdu-film-cesta-na-mesic-1902-marie-georges-jean-melies-9456)
-- [Microsoft Copilot for Microsoft 365](https://www.michalzobec.cz/microsoft-copilot-for-microsoft-365-9446)
-- [4. května den Star Wars &lpar;May the 4th be with you&rpar;](https://www.michalzobec.cz/4-kvetna-den-star-wars-may-the-4th-be-with-you-9436)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
