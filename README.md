@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Jak pořídit levně mobilní data v zahraničí &lpar;datový roaming&rpar; mimo Evropskou Unii &lpar;EU&rpar;](https://www.michalzobec.cz/jak-poridit-levne-mobilni-data-v-zahranici-datovy-roaming-mimo-evropskou-unii-eu-9536)
 - [Bezpečnost: NÚKIB a ÚOOÚ varují před eshopovými aplikacemi](https://www.michalzobec.cz/bezpecnost-nukib-a-uoou-varuji-pred-eshopovymi-aplikacemi-9534)
 - [Právo: Návrh zákona o kybernetické bezpečnosti &lpar;NIS2&rpar;](https://www.michalzobec.cz/pravo-navrh-zakona-o-kyberneticke-bezpecnosti-nis2-9532)
 - [Nástroj Microsoft MBR2GPT – konverze partition z typu BIOS/MBR &lpar;Master Boot Record&rpar; do UEFI/GPT &lpar;GUID Partition Table&rpar; bez ztráty dat](https://www.michalzobec.cz/nastroj-microsoft-mbr2gpt-konverze-partition-z-typu-bios-mbr-master-boot-record-do-uefi-gpt-guid-partition-table-bez-ztraty-dat-9511)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Nové termíny přednášek a jejich nový koncept](https://www.michalzobec.cz/nove-terminy-prednasek-a-novy-koncept-9494)
 - [Let’s Encrypt: Certify The Web jako náhrada za ACMESharp](https://www.michalzobec.cz/lets-encrypt-certify-the-web-jako-nahrada-za-acmesharp-9483)
 - [Microsoft Office: Jakou verzi Office mohu provozovat na Windows Server? &lpar;Aktualizace 27.7.2024&rpar;](https://www.michalzobec.cz/office-jakou-verzi-office-mohu-provozovat-na-windows-server-9138)
-- [Co znamená Endpoint Detection and Response/Extended Detection and Response &lpar;EDR/XDR&rpar;](https://www.michalzobec.cz/co-znamena-endpoint-detection-and-response-extended-detection-and-response-edr-xdr-9486)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
