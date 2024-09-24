@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT: Srovnání plánů Free a Plus](https://www.michalzobec.cz/chatgpt-srovnani-planu-free-a-plus-9542)
 - [Jak pořídit levně mobilní data v zahraničí &lpar;datový roaming&rpar; mimo Evropskou Unii &lpar;EU&rpar;](https://www.michalzobec.cz/jak-poridit-levne-mobilni-data-v-zahranici-datovy-roaming-mimo-evropskou-unii-eu-9536)
 - [Bezpečnost: NÚKIB a ÚOOÚ varují před eshopovými aplikacemi](https://www.michalzobec.cz/bezpecnost-nukib-a-uoou-varuji-pred-eshopovymi-aplikacemi-9534)
 - [Právo: Návrh zákona o kybernetické bezpečnosti &lpar;NIS2&rpar;](https://www.michalzobec.cz/pravo-navrh-zakona-o-kyberneticke-bezpecnosti-nis2-9532)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Licencování: Microsoft SQL Server Data Tools &lpar;SSDT&rpar; for Visual Studio je zdarma i pro velké společnosti &lpar;korporace&rpar;](https://www.michalzobec.cz/licencovani-microsoft-sql-server-data-tools-ssdt-for-visual-studio-je-zdarma-i-pro-velke-spolecnosti-korporace-9363)
 - [Nové termíny přednášek a jejich nový koncept](https://www.michalzobec.cz/nove-terminy-prednasek-a-novy-koncept-9494)
 - [Let’s Encrypt: Certify The Web jako náhrada za ACMESharp](https://www.michalzobec.cz/lets-encrypt-certify-the-web-jako-nahrada-za-acmesharp-9483)
-- [Microsoft Office: Jakou verzi Office mohu provozovat na Windows Server? &lpar;Aktualizace 27.7.2024&rpar;](https://www.michalzobec.cz/office-jakou-verzi-office-mohu-provozovat-na-windows-server-9138)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
