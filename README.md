@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft uvedl nové partnerské licenční programy. Jaké jsou mezi nimi rozdíly a výhody?](https://www.michalzobec.cz/microsoft-uvedl-nove-partnerske-licencni-programy-jake-jsou-mezi-nimi-rozdily-a-vyhody-9554)
 - [Microsoft ruší předplatné pro partnery Microsoft Action Pack](https://www.michalzobec.cz/microsoft-rusi-predplatne-pro-partnery-microsoft-action-pack-9552)
 - [ChatGPT: Srovnání plánů Free a Plus](https://www.michalzobec.cz/chatgpt-srovnani-planu-free-a-plus-9542)
 - [Jak pořídit levně mobilní data v zahraničí &lpar;datový roaming&rpar; mimo Evropskou Unii &lpar;EU&rpar;](https://www.michalzobec.cz/jak-poridit-levne-mobilni-data-v-zahranici-datovy-roaming-mimo-evropskou-unii-eu-9536)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Microsoft Visual Studio Tools 2010 for Office Runtime – vyjímka potvrzující pravidlo](https://www.michalzobec.cz/microsoft-visual-studio-tools-2010-for-office-runtime-vyjimka-potvrzujici-pravidlo-9501)
 - [Microsoft zkracuje podporu pro Office 2021 LTSC &lpar;Long Term Servicing Channel&rpar; na 5 let](https://www.michalzobec.cz/microsoft-zkracuje-podporu-pro-office-2021-ltsc-long-term-servicing-channel-na-5-let-9504)
 - [Licencování: Microsoft SQL Server Data Tools &lpar;SSDT&rpar; for Visual Studio je zdarma i pro velké společnosti &lpar;korporace&rpar;](https://www.michalzobec.cz/licencovani-microsoft-sql-server-data-tools-ssdt-for-visual-studio-je-zdarma-i-pro-velke-spolecnosti-korporace-9363)
-- [Nové termíny přednášek a jejich nový koncept](https://www.michalzobec.cz/nove-terminy-prednasek-a-novy-koncept-9494)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
