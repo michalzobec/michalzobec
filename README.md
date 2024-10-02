@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft ruší předplatné pro partnery Microsoft Action Pack](https://www.michalzobec.cz/microsoft-rusi-predplatne-pro-partnery-microsoft-action-pack-9552)
 - [ChatGPT: Srovnání plánů Free a Plus](https://www.michalzobec.cz/chatgpt-srovnani-planu-free-a-plus-9542)
 - [Jak pořídit levně mobilní data v zahraničí &lpar;datový roaming&rpar; mimo Evropskou Unii &lpar;EU&rpar;](https://www.michalzobec.cz/jak-poridit-levne-mobilni-data-v-zahranici-datovy-roaming-mimo-evropskou-unii-eu-9536)
 - [Bezpečnost: NÚKIB a ÚOOÚ varují před eshopovými aplikacemi](https://www.michalzobec.cz/bezpecnost-nukib-a-uoou-varuji-pred-eshopovymi-aplikacemi-9534)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Microsoft zkracuje podporu pro Office 2021 LTSC &lpar;Long Term Servicing Channel&rpar; na 5 let](https://www.michalzobec.cz/microsoft-zkracuje-podporu-pro-office-2021-ltsc-long-term-servicing-channel-na-5-let-9504)
 - [Licencování: Microsoft SQL Server Data Tools &lpar;SSDT&rpar; for Visual Studio je zdarma i pro velké společnosti &lpar;korporace&rpar;](https://www.michalzobec.cz/licencovani-microsoft-sql-server-data-tools-ssdt-for-visual-studio-je-zdarma-i-pro-velke-spolecnosti-korporace-9363)
 - [Nové termíny přednášek a jejich nový koncept](https://www.michalzobec.cz/nove-terminy-prednasek-a-novy-koncept-9494)
-- [Let’s Encrypt: Certify The Web jako náhrada za ACMESharp](https://www.michalzobec.cz/lets-encrypt-certify-the-web-jako-nahrada-za-acmesharp-9483)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
