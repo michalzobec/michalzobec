@@ -66,7 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft uvedl nové partnerské licenční programy. Jaké jsou mezi nimi rozdíly a výhody?](https://www.michalzobec.cz/microsoft-uvedl-nove-partnerske-licencni-programy-jake-jsou-mezi-nimi-rozdily-a-vyhody-9554)
+- [Microsoft uvedl nové partnerské licenční programy. Jaké jsou mezi nimi rozdíly a výhody? &lpar;Aktualizace 2.10.2024&rpar;](https://www.michalzobec.cz/microsoft-uvedl-nove-partnerske-licencni-programy-jake-jsou-mezi-nimi-rozdily-a-vyhody-9554)
 - [Microsoft ruší předplatné pro partnery Microsoft Action Pack](https://www.michalzobec.cz/microsoft-rusi-predplatne-pro-partnery-microsoft-action-pack-9552)
 - [ChatGPT: Srovnání plánů Free a Plus](https://www.michalzobec.cz/chatgpt-srovnani-planu-free-a-plus-9542)
 - [Jak pořídit levně mobilní data v zahraničí &lpar;datový roaming&rpar; mimo Evropskou Unii &lpar;EU&rpar;](https://www.michalzobec.cz/jak-poridit-levne-mobilni-data-v-zahranici-datovy-roaming-mimo-evropskou-unii-eu-9536)
