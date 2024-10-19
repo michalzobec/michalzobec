@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Vznik moderních technologií díky vojenskému a kosmickému průmyslu](https://www.michalzobec.cz/vznik-modernich-technologii-diky-vojenskemu-a-kosmickemu-prumyslu-9567)
 - [Microsoft uvedl nové partnerské licenční programy. Jaké jsou mezi nimi rozdíly a výhody? &lpar;Aktualizace 2.10.2024&rpar;](https://www.michalzobec.cz/microsoft-uvedl-nove-partnerske-licencni-programy-jake-jsou-mezi-nimi-rozdily-a-vyhody-9554)
 - [Microsoft ruší předplatné pro partnery Microsoft Action Pack](https://www.michalzobec.cz/microsoft-rusi-predplatne-pro-partnery-microsoft-action-pack-9552)
 - [ChatGPT: Srovnání plánů Free a Plus](https://www.michalzobec.cz/chatgpt-srovnani-planu-free-a-plus-9542)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Nástroj Microsoft MBR2GPT – konverze partition z typu BIOS/MBR &lpar;Master Boot Record&rpar; do UEFI/GPT &lpar;GUID Partition Table&rpar; bez ztráty dat](https://www.michalzobec.cz/nastroj-microsoft-mbr2gpt-konverze-partition-z-typu-bios-mbr-master-boot-record-do-uefi-gpt-guid-partition-table-bez-ztraty-dat-9511)
 - [Microsoft Visual Studio Tools 2010 for Office Runtime – vyjímka potvrzující pravidlo](https://www.michalzobec.cz/microsoft-visual-studio-tools-2010-for-office-runtime-vyjimka-potvrzujici-pravidlo-9501)
 - [Microsoft zkracuje podporu pro Office 2021 LTSC &lpar;Long Term Servicing Channel&rpar; na 5 let](https://www.michalzobec.cz/microsoft-zkracuje-podporu-pro-office-2021-ltsc-long-term-servicing-channel-na-5-let-9504)
-- [Licencování: Microsoft SQL Server Data Tools &lpar;SSDT&rpar; for Visual Studio je zdarma i pro velké společnosti &lpar;korporace&rpar;](https://www.michalzobec.cz/licencovani-microsoft-sql-server-data-tools-ssdt-for-visual-studio-je-zdarma-i-pro-velke-spolecnosti-korporace-9363)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
