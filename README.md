@@ -66,8 +66,9 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft: Windows 11 HotPatch](https://www.michalzobec.cz/microsoft-windows-11-hotpatch-9597)
-- [Microsoft: Windows Server HotPatch](https://www.michalzobec.cz/microsoft-windows-server-hotpatch-9592)
+- [Microsoft: Licencování OnPremise produktů v režimu měsíčních plateb Pay-as-You-Go &lpar;PaYG&rpar;](https://www.michalzobec.cz/microsoft-licencovani-onpremise-produktu-v-rezimu-mesicnich-plateb-pay-as-you-go-payg-9593)
+- [Microsoft Windows 11 HotPatch](https://www.michalzobec.cz/microsoft-windows-11-hotpatch-9597)
+- [Microsoft Windows Server HotPatch](https://www.michalzobec.cz/microsoft-windows-server-hotpatch-9592)
 - [Apple: Možné omezení funkce osobní hotspot &lpar;personal hotspot&rpar; mobilním operátorem](https://www.michalzobec.cz/apple-mozne-omezeni-funkce-osobni-hotspot-personal-hotspot-mobilnim-operatorem-9583)
 - [Microsoft Windows Server 2025 je od 1. listopadu 2024 RTM/RTW](https://www.michalzobec.cz/microsoft-windows-server-2025-je-od-1-listopadu-2024-rtm-rtw-9578)
 - [Microsoft vydal Security Baseline pro Windows Server 2025 Preview](https://www.michalzobec.cz/microsoft-vydal-security-baseline-pro-windows-server-2025-preview-9574)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Microsoft uvedl nové partnerské licenční programy. Jaké jsou mezi nimi rozdíly a výhody? &lpar;Aktualizace 2.10.2024&rpar;](https://www.michalzobec.cz/microsoft-uvedl-nove-partnerske-licencni-programy-jake-jsou-mezi-nimi-rozdily-a-vyhody-9554)
 - [Microsoft ruší předplatné pro partnery Microsoft Action Pack](https://www.michalzobec.cz/microsoft-rusi-predplatne-pro-partnery-microsoft-action-pack-9552)
 - [ChatGPT: Srovnání plánů Free a Plus](https://www.michalzobec.cz/chatgpt-srovnani-planu-free-a-plus-9542)
-- [Jak pořídit levně mobilní data v zahraničí &lpar;datový roaming&rpar; mimo Evropskou Unii &lpar;EU&rpar;](https://www.michalzobec.cz/jak-poridit-levne-mobilni-data-v-zahranici-datovy-roaming-mimo-evropskou-unii-eu-9536)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
