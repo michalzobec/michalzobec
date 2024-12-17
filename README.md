@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft přepne v lednu 2025 Outlook Classic na nový Outlook](https://www.michalzobec.cz/microsoft-prepne-v-lednu-2025-outlook-classic-na-novy-outlook-9615)
 - [Microsoft: Licencování OnPremise produktů v režimu měsíčních plateb Pay-as-You-Go &lpar;PaYG&rpar;](https://www.michalzobec.cz/microsoft-licencovani-onpremise-produktu-v-rezimu-mesicnich-plateb-pay-as-you-go-payg-9593)
 - [Microsoft Windows 11 HotPatch](https://www.michalzobec.cz/microsoft-windows-11-hotpatch-9597)
 - [Microsoft Windows Server HotPatch](https://www.michalzobec.cz/microsoft-windows-server-hotpatch-9592)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Vznik moderních technologií díky vojenskému a kosmickému průmyslu](https://www.michalzobec.cz/vznik-modernich-technologii-diky-vojenskemu-a-kosmickemu-prumyslu-9567)
 - [Microsoft uvedl nové partnerské licenční programy. Jaké jsou mezi nimi rozdíly a výhody? &lpar;Aktualizace 2.10.2024&rpar;](https://www.michalzobec.cz/microsoft-uvedl-nove-partnerske-licencni-programy-jake-jsou-mezi-nimi-rozdily-a-vyhody-9554)
 - [Microsoft ruší předplatné pro partnery Microsoft Action Pack](https://www.michalzobec.cz/microsoft-rusi-predplatne-pro-partnery-microsoft-action-pack-9552)
-- [ChatGPT: Srovnání plánů Free a Plus](https://www.michalzobec.cz/chatgpt-srovnani-planu-free-a-plus-9542)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
