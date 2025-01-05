@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Praktické rozdíly mezi Microsoft Action Pack a Microsoft Partner Success Core Benefits? Jaký software vám může chybět?](https://www.michalzobec.cz/prakticke-rozdily-mezi-microsoft-action-pack-a-microsoft-partner-success-core-benefits-jaky-software-vam-muze-chybet-9617)
 - [Microsoft přepne v lednu 2025 Outlook Classic na nový Outlook](https://www.michalzobec.cz/microsoft-prepne-v-lednu-2025-outlook-classic-na-novy-outlook-9615)
 - [Microsoft: Licencování OnPremise produktů v režimu měsíčních plateb Pay-as-You-Go &lpar;PaYG&rpar;](https://www.michalzobec.cz/microsoft-licencovani-onpremise-produktu-v-rezimu-mesicnich-plateb-pay-as-you-go-payg-9593)
 - [Microsoft Windows 11 HotPatch](https://www.michalzobec.cz/microsoft-windows-11-hotpatch-9597)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Microsoft vydal Security Baseline pro Windows Server 2025 Preview](https://www.michalzobec.cz/microsoft-vydal-security-baseline-pro-windows-server-2025-preview-9574)
 - [Vznik moderních technologií díky vojenskému a kosmickému průmyslu](https://www.michalzobec.cz/vznik-modernich-technologii-diky-vojenskemu-a-kosmickemu-prumyslu-9567)
 - [Microsoft uvedl nové partnerské licenční programy. Jaké jsou mezi nimi rozdíly a výhody? &lpar;Aktualizace 2.10.2024&rpar;](https://www.michalzobec.cz/microsoft-uvedl-nove-partnerske-licencni-programy-jake-jsou-mezi-nimi-rozdily-a-vyhody-9554)
-- [Microsoft ruší předplatné pro partnery Microsoft Action Pack](https://www.michalzobec.cz/microsoft-rusi-predplatne-pro-partnery-microsoft-action-pack-9552)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
