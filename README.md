@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft uvedl nové partnerské licenční programy. Jaké jsou mezi nimi rozdíly a výhody? &lpar;Aktualizace 12.1.2025&rpar;](https://www.michalzobec.cz/microsoft-uvedl-nove-partnerske-licencni-programy-jake-jsou-mezi-nimi-rozdily-a-vyhody-9554)
 - [Na co byste si měli dát pozor, než nakoupíte v neznámém eshopu, aneb Jak se bránit před podvodnými eshopy](https://www.michalzobec.cz/na-co-byste-si-meli-dat-pozor-nez-nakoupite-v-neznamem-eshopu-aneb-jak-se-branit-pred-podvodnymi-eshopy-9620)
 - [Praktické rozdíly mezi Microsoft Action Pack a Microsoft Partner Success Core Benefits? Jaký software vám může chybět?](https://www.michalzobec.cz/prakticke-rozdily-mezi-microsoft-action-pack-a-microsoft-partner-success-core-benefits-jaky-software-vam-muze-chybet-9617)
 - [Microsoft přepne v lednu 2025 Outlook Classic na nový Outlook](https://www.michalzobec.cz/microsoft-prepne-v-lednu-2025-outlook-classic-na-novy-outlook-9615)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Apple: Možné omezení funkce osobní hotspot &lpar;personal hotspot&rpar; mobilním operátorem](https://www.michalzobec.cz/apple-mozne-omezeni-funkce-osobni-hotspot-personal-hotspot-mobilnim-operatorem-9583)
 - [Microsoft Windows Server 2025 je od 1. listopadu 2024 RTM/RTW](https://www.michalzobec.cz/microsoft-windows-server-2025-je-od-1-listopadu-2024-rtm-rtw-9578)
 - [Microsoft vydal Security Baseline pro Windows Server 2025 Preview](https://www.michalzobec.cz/microsoft-vydal-security-baseline-pro-windows-server-2025-preview-9574)
-- [Vznik moderních technologií díky vojenskému a kosmickému průmyslu](https://www.michalzobec.cz/vznik-modernich-technologii-diky-vojenskemu-a-kosmickemu-prumyslu-9567)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
