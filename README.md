@@ -66,7 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
-- [Aktuální situace s Java Runtime Environment &lpar;JRE&rpar;](https://www.michalzobec.cz/aktualni-situace-s-java-runtime-environment-jre-9643)
+- [Aktuální situace s Oracle Java Runtime Environment &lpar;JRE&rpar;](https://www.michalzobec.cz/aktualni-situace-s-oracle-java-runtime-environment-jre-9643)
 - [Microsoft uvedl nové partnerské licenční programy. Jaké jsou mezi nimi rozdíly a výhody? &lpar;Aktualizace 12.1.2025&rpar;](https://www.michalzobec.cz/microsoft-uvedl-nove-partnerske-licencni-programy-jake-jsou-mezi-nimi-rozdily-a-vyhody-9554)
 - [Na co byste si měli dát pozor, než nakoupíte v neznámém eshopu, aneb Jak se bránit před podvodnými eshopy](https://www.michalzobec.cz/na-co-byste-si-meli-dat-pozor-nez-nakoupite-v-neznamem-eshopu-aneb-jak-se-branit-pred-podvodnymi-eshopy-9620)
 - [Praktické rozdíly mezi Microsoft Action Pack a Microsoft Partner Success Core Benefits? Jaký software vám může chybět?](https://www.michalzobec.cz/prakticke-rozdily-mezi-microsoft-action-pack-a-microsoft-partner-success-core-benefits-jaky-software-vam-muze-chybet-9617)
