@@ -66,16 +66,16 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [V jakých scénářích je &lpar;ne&rpar;vhodné nasadit Windows Enterprise LTSC &lpar;Long Term Servicing Channel&rpar;](https://www.michalzobec.cz/v-jakych-scenarich-je-nevhodne-nasadit-windows-enterprise-ltsc-long-term-servicing-channel-9662)
+- [Microsoft Windows 10 Enterprise LTSC &lpar;Long Term Servicing Channel&rpar;](https://www.michalzobec.cz/microsoft-windows-10-enterprise-ltsc-long-term-servicing-channel-9653)
+- [Microsoft Windows 11 Enterprise LTSC &lpar;Long Term Servicing Channel&rpar;](https://www.michalzobec.cz/microsoft-windows-11-enterprise-ltsc-long-term-servicing-channel-9650)
+- [Windows 10: 14. října 2025 bude ukončena podpora Windows 10](https://www.michalzobec.cz/windows-10-14-rijna-2025-bude-ukoncena-podpora-windows-10-8223)
 - [Aktuální situace s Oracle Java Runtime Environment &lpar;JRE&rpar;](https://www.michalzobec.cz/aktualni-situace-s-oracle-java-runtime-environment-jre-9643)
 - [Microsoft uvedl nové partnerské licenční programy. Jaké jsou mezi nimi rozdíly a výhody? &lpar;Aktualizace 12.1.2025&rpar;](https://www.michalzobec.cz/microsoft-uvedl-nove-partnerske-licencni-programy-jake-jsou-mezi-nimi-rozdily-a-vyhody-9554)
 - [Na co byste si měli dát pozor, než nakoupíte v neznámém eshopu, aneb Jak se bránit před podvodnými eshopy](https://www.michalzobec.cz/na-co-byste-si-meli-dat-pozor-nez-nakoupite-v-neznamem-eshopu-aneb-jak-se-branit-pred-podvodnymi-eshopy-9620)
 - [Praktické rozdíly mezi Microsoft Action Pack a Microsoft Partner Success Core Benefits? Jaký software vám může chybět?](https://www.michalzobec.cz/prakticke-rozdily-mezi-microsoft-action-pack-a-microsoft-partner-success-core-benefits-jaky-software-vam-muze-chybet-9617)
 - [Microsoft přepne v lednu 2025 Outlook Classic na nový Outlook](https://www.michalzobec.cz/microsoft-prepne-v-lednu-2025-outlook-classic-na-novy-outlook-9615)
 - [Microsoft: Licencování OnPremise produktů v režimu měsíčních plateb Pay-as-You-Go &lpar;PaYG&rpar;](https://www.michalzobec.cz/microsoft-licencovani-onpremise-produktu-v-rezimu-mesicnich-plateb-pay-as-you-go-payg-9593)
-- [Microsoft Windows 11 HotPatch](https://www.michalzobec.cz/microsoft-windows-11-hotpatch-9597)
-- [Microsoft Windows Server HotPatch](https://www.michalzobec.cz/microsoft-windows-server-hotpatch-9592)
-- [Apple: Možné omezení funkce osobní hotspot &lpar;personal hotspot&rpar; mobilním operátorem](https://www.michalzobec.cz/apple-mozne-omezeni-funkce-osobni-hotspot-personal-hotspot-mobilnim-operatorem-9583)
-- [Microsoft Windows Server 2025 je od 1. listopadu 2024 RTM/RTW](https://www.michalzobec.cz/microsoft-windows-server-2025-je-od-1-listopadu-2024-rtm-rtw-9578)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
