@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Licencování: Můžu používat svůj notebook v práci?](https://www.michalzobec.cz/licencovani-muzu-pouzivat-svuj-notebook-v-praci-9671)
 - [V jakých scénářích je &lpar;ne&rpar;vhodné nasadit Windows Enterprise LTSC &lpar;Long Term Servicing Channel&rpar;](https://www.michalzobec.cz/v-jakych-scenarich-je-nevhodne-nasadit-windows-enterprise-ltsc-long-term-servicing-channel-9662)
 - [Microsoft Windows 10 Enterprise LTSC &lpar;Long Term Servicing Channel&rpar;](https://www.michalzobec.cz/microsoft-windows-10-enterprise-ltsc-long-term-servicing-channel-9653)
 - [Microsoft Windows 11 Enterprise LTSC &lpar;Long Term Servicing Channel&rpar;](https://www.michalzobec.cz/microsoft-windows-11-enterprise-ltsc-long-term-servicing-channel-9650)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Na co byste si měli dát pozor, než nakoupíte v neznámém eshopu, aneb Jak se bránit před podvodnými eshopy](https://www.michalzobec.cz/na-co-byste-si-meli-dat-pozor-nez-nakoupite-v-neznamem-eshopu-aneb-jak-se-branit-pred-podvodnymi-eshopy-9620)
 - [Praktické rozdíly mezi Microsoft Action Pack a Microsoft Partner Success Core Benefits? Jaký software vám může chybět?](https://www.michalzobec.cz/prakticke-rozdily-mezi-microsoft-action-pack-a-microsoft-partner-success-core-benefits-jaky-software-vam-muze-chybet-9617)
 - [Microsoft přepne v lednu 2025 Outlook Classic na nový Outlook](https://www.michalzobec.cz/microsoft-prepne-v-lednu-2025-outlook-classic-na-novy-outlook-9615)
-- [Microsoft: Licencování OnPremise produktů v režimu měsíčních plateb Pay-as-You-Go &lpar;PaYG&rpar;](https://www.michalzobec.cz/microsoft-licencovani-onpremise-produktu-v-rezimu-mesicnich-plateb-pay-as-you-go-payg-9593)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
