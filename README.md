@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Licencování: Můžeme používat aplikaci zdarma &lpar;freeware&rpar; ve firmě?](https://www.michalzobec.cz/licencovani-muzeme-pouzivat-aplikaci-zdarma-freeware-ve-firme-5108)
 - [Apple Boot Camp: Jak nainstalovat Windows na počítače Apple MacBook](https://www.michalzobec.cz/apple-boot-camp-jak-nainstalovat-windows-na-pocitace-apple-macbook-9679)
 - [Datové schránky: Zpřístupnění datové schránky třetím osobám](https://www.michalzobec.cz/datove-schranky-zpristupneni-datove-schranky-tretim-osobam-9677)
 - [Kdo s kým začal válku?](https://www.michalzobec.cz/kdo-s-kym-zacal-valku-9673)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Microsoft Windows 11 Enterprise LTSC &lpar;Long Term Servicing Channel&rpar;](https://www.michalzobec.cz/microsoft-windows-11-enterprise-ltsc-long-term-servicing-channel-9650)
 - [Windows 10: 14. října 2025 bude ukončena podpora Windows 10](https://www.michalzobec.cz/windows-10-14-rijna-2025-bude-ukoncena-podpora-windows-10-8223)
 - [Aktuální situace s Oracle Java Runtime Environment &lpar;JRE&rpar;](https://www.michalzobec.cz/aktualni-situace-s-oracle-java-runtime-environment-jre-9643)
-- [Microsoft uvedl nové partnerské licenční programy. Jaké jsou mezi nimi rozdíly a výhody? &lpar;Aktualizace 12.1.2025&rpar;](https://www.michalzobec.cz/microsoft-uvedl-nove-partnerske-licencni-programy-jake-jsou-mezi-nimi-rozdily-a-vyhody-9554)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
