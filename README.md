@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 10: 14. října 2025 bude ukončena podpora Windows 10](https://www.michalzobec.cz/windows-10-14-rijna-2025-bude-ukoncena-podpora-windows-10-8223)
 - [Licencování: Můžeme používat aplikaci zdarma &lpar;freeware&rpar; ve firmě?](https://www.michalzobec.cz/licencovani-muzeme-pouzivat-aplikaci-zdarma-freeware-ve-firme-5108)
 - [Apple Boot Camp: Jak nainstalovat Windows na počítače Apple MacBook](https://www.michalzobec.cz/apple-boot-camp-jak-nainstalovat-windows-na-pocitace-apple-macbook-9679)
 - [Datové schránky: Zpřístupnění datové schránky třetím osobám](https://www.michalzobec.cz/datove-schranky-zpristupneni-datove-schranky-tretim-osobam-9677)
@@ -74,7 +75,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [V jakých scénářích je &lpar;ne&rpar;vhodné nasadit Windows Enterprise LTSC &lpar;Long Term Servicing Channel&rpar;](https://www.michalzobec.cz/v-jakych-scenarich-je-nevhodne-nasadit-windows-enterprise-ltsc-long-term-servicing-channel-9662)
 - [Microsoft Windows 10 Enterprise LTSC &lpar;Long Term Servicing Channel&rpar;](https://www.michalzobec.cz/microsoft-windows-10-enterprise-ltsc-long-term-servicing-channel-9653)
 - [Microsoft Windows 11 Enterprise LTSC &lpar;Long Term Servicing Channel&rpar;](https://www.michalzobec.cz/microsoft-windows-11-enterprise-ltsc-long-term-servicing-channel-9650)
-- [Windows 10: 14. října 2025 bude ukončena podpora Windows 10](https://www.michalzobec.cz/windows-10-14-rijna-2025-bude-ukoncena-podpora-windows-10-8223)
 - [Aktuální situace s Oracle Java Runtime Environment &lpar;JRE&rpar;](https://www.michalzobec.cz/aktualni-situace-s-oracle-java-runtime-environment-jre-9643)
 <!-- BLOG-POST-LIST:END -->
 
