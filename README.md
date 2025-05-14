@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft 365: Změna emailové adresy a jak se to projevuje v praxi z pohledu uživatele](https://www.michalzobec.cz/microsoft-365-zmena-emailove-adresy-a-jak-se-to-projevuje-v-praxi-z-pohledu-uzivatele-9702)
 - [Windows 10: Windows 10 v říjnu nekončí – Windows 10 Extended Security Updates &lpar;ESU&rpar;](https://www.michalzobec.cz/windows-10-windows-10-v-rijnu-nekonci-windows-10-extended-security-updates-esu-9695)
 - [Windows 10: 14. října 2025 bude ukončena podpora Windows 10](https://www.michalzobec.cz/windows-10-14-rijna-2025-bude-ukoncena-podpora-windows-10-8223)
 - [Licencování: Můžeme používat aplikaci zdarma &lpar;freeware&rpar; ve firmě?](https://www.michalzobec.cz/licencovani-muzeme-pouzivat-aplikaci-zdarma-freeware-ve-firme-5108)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Licencování: Můžu používat svůj notebook v práci?](https://www.michalzobec.cz/licencovani-muzu-pouzivat-svuj-notebook-v-praci-9671)
 - [V jakých scénářích je &lpar;ne&rpar;vhodné nasadit Windows Enterprise LTSC &lpar;Long Term Servicing Channel&rpar;](https://www.michalzobec.cz/v-jakych-scenarich-je-nevhodne-nasadit-windows-enterprise-ltsc-long-term-servicing-channel-9662)
 - [Microsoft Windows 10 Enterprise LTSC &lpar;Long Term Servicing Channel&rpar;](https://www.michalzobec.cz/microsoft-windows-10-enterprise-ltsc-long-term-servicing-channel-9653)
-- [Microsoft Windows 11 Enterprise LTSC &lpar;Long Term Servicing Channel&rpar;](https://www.michalzobec.cz/microsoft-windows-11-enterprise-ltsc-long-term-servicing-channel-9650)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
