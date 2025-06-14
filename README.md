@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Watch: Odepnutí, výměna a upevnění řemínků](https://www.michalzobec.cz/apple-watch-odepnuti-vymena-a-upevneni-reminku-9712)
 - [Windows 11: Rychlý pomocník &lpar;Quick Assist&rpar; – nástroj pro vzdálenou podporu uživatelů zdarma](https://www.michalzobec.cz/windows-11-rychly-pomocnik-quick-assist-nastroj-pro-vzdalenou-podporu-uzivatelu-zdarma-9706)
 - [Microsoft 365: Změna emailové adresy a jak se to projevuje v praxi z pohledu uživatele](https://www.michalzobec.cz/microsoft-365-zmena-emailove-adresy-a-jak-se-to-projevuje-v-praxi-z-pohledu-uzivatele-9702)
 - [Windows 10: Windows 10 v říjnu nekončí – Windows 10 Extended Security Updates &lpar;ESU&rpar;](https://www.michalzobec.cz/windows-10-windows-10-v-rijnu-nekonci-windows-10-extended-security-updates-esu-9695)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Datové schránky: Zpřístupnění datové schránky třetím osobám](https://www.michalzobec.cz/datove-schranky-zpristupneni-datove-schranky-tretim-osobam-9677)
 - [Kdo s kým začal válku?](https://www.michalzobec.cz/kdo-s-kym-zacal-valku-9673)
 - [Licencování: Můžu používat svůj notebook v práci?](https://www.michalzobec.cz/licencovani-muzu-pouzivat-svuj-notebook-v-praci-9671)
-- [V jakých scénářích je &lpar;ne&rpar;vhodné nasadit Windows Enterprise LTSC &lpar;Long Term Servicing Channel&rpar;](https://www.michalzobec.cz/v-jakych-scenarich-je-nevhodne-nasadit-windows-enterprise-ltsc-long-term-servicing-channel-9662)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
