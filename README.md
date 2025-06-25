@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [IT normy a regulace EU v Česku](https://www.michalzobec.cz/it-normy-a-regulace-eu-v-cesku-9714)
 - [Apple Watch: Odepnutí, výměna a upevnění řemínků](https://www.michalzobec.cz/apple-watch-odepnuti-vymena-a-upevneni-reminku-9712)
 - [Windows 11: Rychlý pomocník &lpar;Quick Assist&rpar; – nástroj pro vzdálenou podporu uživatelů zdarma](https://www.michalzobec.cz/windows-11-rychly-pomocnik-quick-assist-nastroj-pro-vzdalenou-podporu-uzivatelu-zdarma-9706)
 - [Microsoft 365: Změna emailové adresy a jak se to projevuje v praxi z pohledu uživatele](https://www.michalzobec.cz/microsoft-365-zmena-emailove-adresy-a-jak-se-to-projevuje-v-praxi-z-pohledu-uzivatele-9702)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Apple Boot Camp: Jak nainstalovat Windows na počítače Apple MacBook](https://www.michalzobec.cz/apple-boot-camp-jak-nainstalovat-windows-na-pocitace-apple-macbook-9679)
 - [Datové schránky: Zpřístupnění datové schránky třetím osobám](https://www.michalzobec.cz/datove-schranky-zpristupneni-datove-schranky-tretim-osobam-9677)
 - [Kdo s kým začal válku?](https://www.michalzobec.cz/kdo-s-kym-zacal-valku-9673)
-- [Licencování: Můžu používat svůj notebook v práci?](https://www.michalzobec.cz/licencovani-muzu-pouzivat-svuj-notebook-v-praci-9671)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
