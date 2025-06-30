@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Licencování: Texty licenčních smluv k produktům Apple &lpar;macOS, iPadOS, iOS&rpar;](https://www.michalzobec.cz/licencovani-texty-licencnich-smluv-k-produktum-apple-macos-ipados-ios-9717)
 - [IT normy a regulace EU v Česku](https://www.michalzobec.cz/it-normy-a-regulace-eu-v-cesku-9714)
 - [Apple Watch: Odepnutí, výměna a upevnění řemínků](https://www.michalzobec.cz/apple-watch-odepnuti-vymena-a-upevneni-reminku-9712)
 - [Windows 11: Rychlý pomocník &lpar;Quick Assist&rpar; – nástroj pro vzdálenou podporu uživatelů zdarma](https://www.michalzobec.cz/windows-11-rychly-pomocnik-quick-assist-nastroj-pro-vzdalenou-podporu-uzivatelu-zdarma-9706)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Licencování: Můžeme používat aplikaci zdarma &lpar;freeware&rpar; ve firmě?](https://www.michalzobec.cz/licencovani-muzeme-pouzivat-aplikaci-zdarma-freeware-ve-firme-5108)
 - [Apple Boot Camp: Jak nainstalovat Windows na počítače Apple MacBook](https://www.michalzobec.cz/apple-boot-camp-jak-nainstalovat-windows-na-pocitace-apple-macbook-9679)
 - [Datové schránky: Zpřístupnění datové schránky třetím osobám](https://www.michalzobec.cz/datove-schranky-zpristupneni-datove-schranky-tretim-osobam-9677)
-- [Kdo s kým začal válku?](https://www.michalzobec.cz/kdo-s-kym-zacal-valku-9673)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
