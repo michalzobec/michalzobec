@@ -66,6 +66,8 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Bezpečnost: Sledování aktivit zaměstnanců na počítači](https://www.michalzobec.cz/bezpecnost-sledovani-aktivit-zamestnancu-na-pocitaci-9366)
+- [Microsoft od května 2025 zpřísnil podmínky pro doručování e-mailů](https://www.michalzobec.cz/microsoft-od-kvetna-2025-zprisnil-podminky-pro-dorucovani-e-mailu-9720)
 - [Licencování: Texty licenčních smluv k produktům Apple &lpar;macOS, iPadOS, iOS&rpar;](https://www.michalzobec.cz/licencovani-texty-licencnich-smluv-k-produktum-apple-macos-ipados-ios-9717)
 - [IT normy a regulace EU v Česku](https://www.michalzobec.cz/it-normy-a-regulace-eu-v-cesku-9714)
 - [Apple Watch: Odepnutí, výměna a upevnění řemínků](https://www.michalzobec.cz/apple-watch-odepnuti-vymena-a-upevneni-reminku-9712)
@@ -74,8 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Windows 10: Windows 10 v říjnu nekončí – Windows 10 Extended Security Updates &lpar;ESU&rpar;](https://www.michalzobec.cz/windows-10-windows-10-v-rijnu-nekonci-windows-10-extended-security-updates-esu-9695)
 - [Windows 10: 14. října 2025 bude ukončena podpora Windows 10](https://www.michalzobec.cz/windows-10-14-rijna-2025-bude-ukoncena-podpora-windows-10-8223)
 - [Licencování: Můžeme používat aplikaci zdarma &lpar;freeware&rpar; ve firmě?](https://www.michalzobec.cz/licencovani-muzeme-pouzivat-aplikaci-zdarma-freeware-ve-firme-5108)
-- [Apple Boot Camp: Jak nainstalovat Windows na počítače Apple MacBook](https://www.michalzobec.cz/apple-boot-camp-jak-nainstalovat-windows-na-pocitace-apple-macbook-9679)
-- [Datové schránky: Zpřístupnění datové schránky třetím osobám](https://www.michalzobec.cz/datove-schranky-zpristupneni-datove-schranky-tretim-osobam-9677)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
