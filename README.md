@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Kdo s kým začal válku? &lpar;Aktualizace 20.7.2025&rpar;](https://www.michalzobec.cz/kdo-s-kym-zacal-valku-9673)
 - [Remote Desktop Services: Install Mode &lpar;change user&rpar; a jeho omezení](https://www.michalzobec.cz/remote-desktop-services-install-mode-change-user-a-jeho-omezeni-9732)
 - [Bezpečnost: Sledování aktivit zaměstnanců na počítači](https://www.michalzobec.cz/bezpecnost-sledovani-aktivit-zamestnancu-na-pocitaci-9366)
 - [Microsoft od května 2025 zpřísnil podmínky pro doručování e-mailů](https://www.michalzobec.cz/microsoft-od-kvetna-2025-zprisnil-podminky-pro-dorucovani-e-mailu-9720)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Windows 11: Rychlý pomocník &lpar;Quick Assist&rpar; – nástroj pro vzdálenou podporu uživatelů zdarma](https://www.michalzobec.cz/windows-11-rychly-pomocnik-quick-assist-nastroj-pro-vzdalenou-podporu-uzivatelu-zdarma-9706)
 - [Microsoft 365: Změna emailové adresy a jak se to projevuje v praxi z pohledu uživatele](https://www.michalzobec.cz/microsoft-365-zmena-emailove-adresy-a-jak-se-to-projevuje-v-praxi-z-pohledu-uzivatele-9702)
 - [Windows 10: Windows 10 v říjnu nekončí – Windows 10 Extended Security Updates &lpar;ESU&rpar;](https://www.michalzobec.cz/windows-10-windows-10-v-rijnu-nekonci-windows-10-extended-security-updates-esu-9695)
-- [Windows 10: 14. října 2025 bude ukončena podpora Windows 10](https://www.michalzobec.cz/windows-10-14-rijna-2025-bude-ukoncena-podpora-windows-10-8223)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
