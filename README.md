@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Remote Desktop Services: Jak zjistit volné místo v profilu využívající User Profile Disks &lpar;UPD&rpar; v PowerShellu](https://www.michalzobec.cz/remote-desktop-services-jak-zjistit-volne-misto-v-profilu-vyuzivajici-user-profile-disks-upd-v-powershellu-9740)
 - [Microsoft Edge &lpar;Chromium&rpar;: Rozdíly mezi Edge &lpar;regular&rpar; a Edge for Business &lpar;Aktualizace 27.7.2025&rpar;](https://www.michalzobec.cz/microsoft-edge-chromium-rozdily-mezi-edge-regular-a-edge-for-business-8413)
 - [Kdo s kým začal válku? &lpar;Aktualizace 20.7.2025&rpar;](https://www.michalzobec.cz/kdo-s-kym-zacal-valku-9673)
 - [Remote Desktop Services: Install Mode &lpar;change user&rpar; a jeho omezení](https://www.michalzobec.cz/remote-desktop-services-install-mode-change-user-a-jeho-omezeni-9732)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [IT normy a regulace EU v Česku](https://www.michalzobec.cz/it-normy-a-regulace-eu-v-cesku-9714)
 - [Apple Watch: Odepnutí, výměna a upevnění řemínků](https://www.michalzobec.cz/apple-watch-odepnuti-vymena-a-upevneni-reminku-9712)
 - [Windows 11: Rychlý pomocník &lpar;Quick Assist&rpar; – nástroj pro vzdálenou podporu uživatelů zdarma](https://www.michalzobec.cz/windows-11-rychly-pomocnik-quick-assist-nastroj-pro-vzdalenou-podporu-uzivatelu-zdarma-9706)
-- [Microsoft 365: Změna emailové adresy a jak se to projevuje v praxi z pohledu uživatele](https://www.michalzobec.cz/microsoft-365-zmena-emailove-adresy-a-jak-se-to-projevuje-v-praxi-z-pohledu-uzivatele-9702)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
