@@ -66,6 +66,9 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare: Jak opravit chybu na webu ERR_SSL_VERSION_OR_CIPHER_MISMATCH](https://www.michalzobec.cz/cloudflare-jak-opravit-chybu-na-webu-err_ssl_version_or_cipher_mismatch-9743)
+- [Cloudflare: Jak obnovit nebo vynutit nový Universal SSL certifikát v Cloudflare](https://www.michalzobec.cz/cloudflare-jak-obnovit-nebo-vynutit-novy-universal-ssl-certifikat-v-cloudflare-9748)
+- [Cloudflare: Co je služba Cloudflare a proč bych ji měl chtít používat](https://www.michalzobec.cz/cloudflare-co-je-sluzba-cloudflare-a-proc-bych-ji-mel-chtit-pouzivat-9747)
 - [Remote Desktop Services: Jak zjistit volné místo v profilu využívající User Profile Disks &lpar;UPD&rpar; v PowerShellu](https://www.michalzobec.cz/remote-desktop-services-jak-zjistit-volne-misto-v-profilu-vyuzivajici-user-profile-disks-upd-v-powershellu-9740)
 - [Microsoft Edge &lpar;Chromium&rpar;: Rozdíly mezi Edge &lpar;regular&rpar; a Edge for Business &lpar;Aktualizace 27.7.2025&rpar;](https://www.michalzobec.cz/microsoft-edge-chromium-rozdily-mezi-edge-regular-a-edge-for-business-8413)
 - [Kdo s kým začal válku? &lpar;Aktualizace 20.7.2025&rpar;](https://www.michalzobec.cz/kdo-s-kym-zacal-valku-9673)
@@ -73,9 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Bezpečnost: Sledování aktivit zaměstnanců na počítači](https://www.michalzobec.cz/bezpecnost-sledovani-aktivit-zamestnancu-na-pocitaci-9366)
 - [Microsoft od května 2025 zpřísnil podmínky pro doručování e-mailů](https://www.michalzobec.cz/microsoft-od-kvetna-2025-zprisnil-podminky-pro-dorucovani-e-mailu-9720)
 - [Licencování: Texty licenčních smluv k produktům Apple &lpar;macOS, iPadOS, iOS&rpar;](https://www.michalzobec.cz/licencovani-texty-licencnich-smluv-k-produktum-apple-macos-ipados-ios-9717)
-- [IT normy a regulace EU v Česku](https://www.michalzobec.cz/it-normy-a-regulace-eu-v-cesku-9714)
-- [Apple Watch: Odepnutí, výměna a upevnění řemínků](https://www.michalzobec.cz/apple-watch-odepnuti-vymena-a-upevneni-reminku-9712)
-- [Windows 11: Rychlý pomocník &lpar;Quick Assist&rpar; – nástroj pro vzdálenou podporu uživatelů zdarma](https://www.michalzobec.cz/windows-11-rychly-pomocnik-quick-assist-nastroj-pro-vzdalenou-podporu-uzivatelu-zdarma-9706)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
