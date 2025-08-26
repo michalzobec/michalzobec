@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Licencování: Jak získat software a licence pro neziskové organizace &lpar;nonprofits, charity&rpar; zdarma nebo se slevou](https://www.michalzobec.cz/licencovani-jak-ziskat-software-a-licence-pro-neziskove-organizace-nonprofits-charity-zdarma-nebo-se-slevou-9788)
 - [Licencování: Kdo má nárok na školní licence Microsoft a Adobe &lpar;Academic, AE, Education&rpar; &lpar;Aktualizace 25.8.2025&rpar;](https://www.michalzobec.cz/licencovani-kdo-ma-narok-na-skolni-licence-microsoft-a-adobe-academic-ae-9777)
 - [Cloudflare: Jak opravit chybu na webu ERR_SSL_VERSION_OR_CIPHER_MISMATCH](https://www.michalzobec.cz/cloudflare-jak-opravit-chybu-na-webu-err_ssl_version_or_cipher_mismatch-9743)
 - [Cloudflare: Jak obnovit nebo vynutit nový Universal SSL certifikát v Cloudflare](https://www.michalzobec.cz/cloudflare-jak-obnovit-nebo-vynutit-novy-universal-ssl-certifikat-v-cloudflare-9748)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Kdo s kým začal válku? &lpar;Aktualizace 20.7.2025&rpar;](https://www.michalzobec.cz/kdo-s-kym-zacal-valku-9673)
 - [Remote Desktop Services: Install Mode &lpar;change user&rpar; a jeho omezení](https://www.michalzobec.cz/remote-desktop-services-install-mode-change-user-a-jeho-omezeni-9732)
 - [Bezpečnost: Sledování aktivit zaměstnanců na počítači](https://www.michalzobec.cz/bezpecnost-sledovani-aktivit-zamestnancu-na-pocitaci-9366)
-- [Microsoft od května 2025 zpřísnil podmínky pro doručování e-mailů](https://www.michalzobec.cz/microsoft-od-kvetna-2025-zprisnil-podminky-pro-dorucovani-e-mailu-9720)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
