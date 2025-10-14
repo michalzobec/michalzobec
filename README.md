@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 10: Podpora Windows 10 skončila 14. října 2025](https://www.michalzobec.cz/windows-10-podpora-windows-10-skoncila-14-rijna-2025-9870)
 - [Windows 10: Jak získat zdarma službu Extended Security Updates &lpar;ESU&rpar; zdarma na rok pro obyvatele Evropského hospodářského prostoru &lpar;EEA&rpar; &lpar;návod krok za krokem&rpar;](https://www.michalzobec.cz/windows-10-jak-ziskat-zdarma-sluzbu-extended-security-updates-esu-zdarma-na-rok-pro-obyvatele-evropskeho-hospodarskeho-prostoru-eea-navod-krok-za-krokem-9857)
 - [Bezpečnost: Vlastnictví a přístupová práva v souborovém systému NTFS](https://www.michalzobec.cz/bezpecnost-vlastnictvi-a-pristupova-prava-v-souborovem-systemu-ntfs-9855)
 - [Windows 10: Microsoft nabízí službu Extended Security Updates &lpar;ESU&rpar; zdarma pro obyvatele Evropského hospodářského prostoru &lpar;EEA&rpar; na jeden rok](https://www.michalzobec.cz/windows-10-microsoft-nabizi-sluzbu-extended-security-updates-esu-zdarma-pro-obyvatele-evropskeho-hospodarskeho-prostoru-eea-na-jeden-rok-9840)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Cloudflare: Jak obnovit nebo vynutit nový Universal SSL certifikát v Cloudflare](https://www.michalzobec.cz/cloudflare-jak-obnovit-nebo-vynutit-novy-universal-ssl-certifikat-v-cloudflare-9748)
 - [Cloudflare: Co je služba Cloudflare a proč bych ji měl chtít používat](https://www.michalzobec.cz/cloudflare-co-je-sluzba-cloudflare-a-proc-bych-ji-mel-chtit-pouzivat-9747)
 - [Remote Desktop Services: Jak zjistit volné místo v profilu využívající User Profile Disks &lpar;UPD&rpar; v PowerShellu](https://www.michalzobec.cz/remote-desktop-services-jak-zjistit-volne-misto-v-profilu-vyuzivajici-user-profile-disks-upd-v-powershellu-9740)
-- [Microsoft Edge &lpar;Chromium&rpar;: Rozdíly mezi Edge &lpar;regular&rpar; a Edge for Business &lpar;Aktualizace 27.7.2025&rpar;](https://www.michalzobec.cz/microsoft-edge-chromium-rozdily-mezi-edge-regular-a-edge-for-business-8413)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
