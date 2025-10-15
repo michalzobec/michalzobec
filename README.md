@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 10: Windows 10 Extended Security Updates &lpar;ESU&rpar; &lpar;program rozšířených aktualizací zabezpečení&rpar; pro školy](https://www.michalzobec.cz/windows-10-windows-10-extended-security-updates-esu-pro-skoly-9879)
 - [Windows 10: Podpora Windows 10 skončila 14. října 2025](https://www.michalzobec.cz/windows-10-podpora-windows-10-skoncila-14-rijna-2025-9870)
 - [Windows 10: Jak získat zdarma službu Extended Security Updates &lpar;ESU&rpar; zdarma na rok pro obyvatele Evropského hospodářského prostoru &lpar;EEA&rpar; &lpar;návod krok za krokem&rpar;](https://www.michalzobec.cz/windows-10-jak-ziskat-zdarma-sluzbu-extended-security-updates-esu-zdarma-na-rok-pro-obyvatele-evropskeho-hospodarskeho-prostoru-eea-navod-krok-za-krokem-9857)
 - [Bezpečnost: Vlastnictví a přístupová práva v souborovém systému NTFS](https://www.michalzobec.cz/bezpecnost-vlastnictvi-a-pristupova-prava-v-souborovem-systemu-ntfs-9855)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Cloudflare: Jak opravit chybu na webu ERR_SSL_VERSION_OR_CIPHER_MISMATCH](https://www.michalzobec.cz/cloudflare-jak-opravit-chybu-na-webu-err_ssl_version_or_cipher_mismatch-9743)
 - [Cloudflare: Jak obnovit nebo vynutit nový Universal SSL certifikát v Cloudflare](https://www.michalzobec.cz/cloudflare-jak-obnovit-nebo-vynutit-novy-universal-ssl-certifikat-v-cloudflare-9748)
 - [Cloudflare: Co je služba Cloudflare a proč bych ji měl chtít používat](https://www.michalzobec.cz/cloudflare-co-je-sluzba-cloudflare-a-proc-bych-ji-mel-chtit-pouzivat-9747)
-- [Remote Desktop Services: Jak zjistit volné místo v profilu využívající User Profile Disks &lpar;UPD&rpar; v PowerShellu](https://www.michalzobec.cz/remote-desktop-services-jak-zjistit-volne-misto-v-profilu-vyuzivajici-user-profile-disks-upd-v-powershellu-9740)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
