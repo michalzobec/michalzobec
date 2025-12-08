@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Musí být faktura podepsaná? Častý omyl, který stále přežívá](https://www.michalzobec.cz/musi-byt-faktura-podepsana-casty-omyl-ktery-stale-preziva-9891)
 - [Windows 10: Windows 10 Extended Security Updates &lpar;ESU&rpar; &lpar;program rozšířených aktualizací zabezpečení&rpar; pro školy](https://www.michalzobec.cz/windows-10-windows-10-extended-security-updates-esu-pro-skoly-9879)
 - [Windows 10: Podpora Windows 10 skončila 14. října 2025](https://www.michalzobec.cz/windows-10-podpora-windows-10-skoncila-14-rijna-2025-9870)
 - [Windows 10: Jak získat zdarma službu Extended Security Updates &lpar;ESU&rpar; zdarma na rok pro obyvatele Evropského hospodářského prostoru &lpar;EEA&rpar; &lpar;návod krok za krokem&rpar;](https://www.michalzobec.cz/windows-10-jak-ziskat-zdarma-sluzbu-extended-security-updates-esu-zdarma-na-rok-pro-obyvatele-evropskeho-hospodarskeho-prostoru-eea-navod-krok-za-krokem-9857)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Licencování: Kdo má nárok na školní licence Microsoft a Adobe &lpar;Academic, AE, Education&rpar; &lpar;Aktualizace 25.8.2025&rpar;](https://www.michalzobec.cz/licencovani-kdo-ma-narok-na-skolni-licence-microsoft-a-adobe-academic-ae-9777)
 - [Cloudflare: Jak opravit chybu na webu ERR_SSL_VERSION_OR_CIPHER_MISMATCH](https://www.michalzobec.cz/cloudflare-jak-opravit-chybu-na-webu-err_ssl_version_or_cipher_mismatch-9743)
 - [Cloudflare: Jak obnovit nebo vynutit nový Universal SSL certifikát v Cloudflare](https://www.michalzobec.cz/cloudflare-jak-obnovit-nebo-vynutit-novy-universal-ssl-certifikat-v-cloudflare-9748)
-- [Cloudflare: Co je služba Cloudflare a proč bych ji měl chtít používat](https://www.michalzobec.cz/cloudflare-co-je-sluzba-cloudflare-a-proc-bych-ji-mel-chtit-pouzivat-9747)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
