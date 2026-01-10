@@ -66,6 +66,8 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Deployment Toolkit &lpar;MDT&rpar; – ukončena podpora](https://www.michalzobec.cz/microsoft-deployment-toolkit-mdt-ukoncena-podpora-9896)
+- [Windows Server 2025: Windows Deployment Services &lpar;WDS&rpar; – ukončena podpora moderních operačních systémů](https://www.michalzobec.cz/windows-server-2025-windows-deployment-services-wds-ukoncena-podpora-modernich-operacnich-systemu-9893)
 - [Musí být faktura podepsaná? Častý omyl, který stále přežívá](https://www.michalzobec.cz/musi-byt-faktura-podepsana-casty-omyl-ktery-stale-preziva-9891)
 - [Windows 10: Windows 10 Extended Security Updates &lpar;ESU&rpar; &lpar;program rozšířených aktualizací zabezpečení&rpar; pro školy](https://www.michalzobec.cz/windows-10-windows-10-extended-security-updates-esu-pro-skoly-9879)
 - [Windows 10: Podpora Windows 10 skončila 14. října 2025](https://www.michalzobec.cz/windows-10-podpora-windows-10-skoncila-14-rijna-2025-9870)
@@ -74,8 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Windows 10: Microsoft nabízí službu Extended Security Updates &lpar;ESU&rpar; zdarma pro obyvatele Evropského hospodářského prostoru &lpar;EEA&rpar; na jeden rok](https://www.michalzobec.cz/windows-10-microsoft-nabizi-sluzbu-extended-security-updates-esu-zdarma-pro-obyvatele-evropskeho-hospodarskeho-prostoru-eea-na-jeden-rok-9840)
 - [Licencování: Jak získat software a licence pro neziskové organizace &lpar;nonprofits, charity&rpar; zdarma nebo se slevou](https://www.michalzobec.cz/licencovani-jak-ziskat-software-a-licence-pro-neziskove-organizace-nonprofits-charity-zdarma-nebo-se-slevou-9788)
 - [Licencování: Kdo má nárok na školní licence Microsoft a Adobe &lpar;Academic, AE, Education&rpar; &lpar;Aktualizace 25.8.2025&rpar;](https://www.michalzobec.cz/licencovani-kdo-ma-narok-na-skolni-licence-microsoft-a-adobe-academic-ae-9777)
-- [Cloudflare: Jak opravit chybu na webu ERR_SSL_VERSION_OR_CIPHER_MISMATCH](https://www.michalzobec.cz/cloudflare-jak-opravit-chybu-na-webu-err_ssl_version_or_cipher_mismatch-9743)
-- [Cloudflare: Jak obnovit nebo vynutit nový Universal SSL certifikát v Cloudflare](https://www.michalzobec.cz/cloudflare-jak-obnovit-nebo-vynutit-novy-universal-ssl-certifikat-v-cloudflare-9748)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
