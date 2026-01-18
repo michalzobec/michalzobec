@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Co je to umělá inteligence a jsou velké jazykové modely &lpar;LLM&rpar; skutečně AI?](https://www.michalzobec.cz/co-je-to-umela-inteligence-a-jsou-velke-jazykove-modely-llm-skutecne-ai-9898)
 - [Microsoft Deployment Toolkit &lpar;MDT&rpar; – ukončena podpora](https://www.michalzobec.cz/microsoft-deployment-toolkit-mdt-ukoncena-podpora-9896)
 - [Windows Server 2025: Windows Deployment Services &lpar;WDS&rpar; – ukončena podpora moderních operačních systémů](https://www.michalzobec.cz/windows-server-2025-windows-deployment-services-wds-ukoncena-podpora-modernich-operacnich-systemu-9893)
 - [Musí být faktura podepsaná? Častý omyl, který stále přežívá](https://www.michalzobec.cz/musi-byt-faktura-podepsana-casty-omyl-ktery-stale-preziva-9891)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Bezpečnost: Vlastnictví a přístupová práva v souborovém systému NTFS](https://www.michalzobec.cz/bezpecnost-vlastnictvi-a-pristupova-prava-v-souborovem-systemu-ntfs-9855)
 - [Windows 10: Microsoft nabízí službu Extended Security Updates &lpar;ESU&rpar; zdarma pro obyvatele Evropského hospodářského prostoru &lpar;EEA&rpar; na jeden rok](https://www.michalzobec.cz/windows-10-microsoft-nabizi-sluzbu-extended-security-updates-esu-zdarma-pro-obyvatele-evropskeho-hospodarskeho-prostoru-eea-na-jeden-rok-9840)
 - [Licencování: Jak získat software a licence pro neziskové organizace &lpar;nonprofits, charity&rpar; zdarma nebo se slevou](https://www.michalzobec.cz/licencovani-jak-ziskat-software-a-licence-pro-neziskove-organizace-nonprofits-charity-zdarma-nebo-se-slevou-9788)
-- [Licencování: Kdo má nárok na školní licence Microsoft a Adobe &lpar;Academic, AE, Education&rpar; &lpar;Aktualizace 25.8.2025&rpar;](https://www.michalzobec.cz/licencovani-kdo-ma-narok-na-skolni-licence-microsoft-a-adobe-academic-ae-9777)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
