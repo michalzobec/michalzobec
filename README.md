@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Co je Google Gemini](https://www.michalzobec.cz/co-je-google-gemini-9901)
 - [Základy promptování: Jak psát zadání, aby vám AI skutečně rozuměla](https://www.michalzobec.cz/zaklady-promptovani-jak-psat-zadani-aby-vam-ai-skutecne-rozumela-9916)
 - [Co je OpenAI ChatGPT](https://www.michalzobec.cz/co-je-openai-chatgpt-9899)
 - [Co je to umělá inteligence a jsou velké jazykové modely &lpar;LLM&rpar; skutečně AI?](https://www.michalzobec.cz/co-je-to-umela-inteligence-a-jsou-velke-jazykove-modely-llm-skutecne-ai-9898)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Musí být faktura podepsaná? Častý omyl, který stále přežívá](https://www.michalzobec.cz/musi-byt-faktura-podepsana-casty-omyl-ktery-stale-preziva-9891)
 - [Windows 10: Windows 10 Extended Security Updates &lpar;ESU&rpar; &lpar;program rozšířených aktualizací zabezpečení&rpar; pro školy](https://www.michalzobec.cz/windows-10-windows-10-extended-security-updates-esu-pro-skoly-9879)
 - [Windows 10: Podpora Windows 10 skončila 14. října 2025](https://www.michalzobec.cz/windows-10-podpora-windows-10-skoncila-14-rijna-2025-9870)
-- [Windows 10: Jak získat zdarma službu Extended Security Updates &lpar;ESU&rpar; zdarma na rok pro obyvatele Evropského hospodářského prostoru &lpar;EEA&rpar; &lpar;návod krok za krokem&rpar;](https://www.michalzobec.cz/windows-10-jak-ziskat-zdarma-sluzbu-extended-security-updates-esu-zdarma-na-rok-pro-obyvatele-evropskeho-hospodarskeho-prostoru-eea-navod-krok-za-krokem-9857)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
