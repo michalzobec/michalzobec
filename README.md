@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Licencování: Microsoft SQL Server 2025 Express – nová pravidla pro bezplatnou edici](https://www.michalzobec.cz/licencovani-microsoft-sql-server-2025-express-nova-pravidla-pro-bezplatnou-edici-9944)
 - [KeePass: Auto-Type &lpar;automatické vyplňování&rpar; nefunguje v přihlašovacích dialozích Windows &lpar;Windows Security&rpar;](https://www.michalzobec.cz/keepass-auto-type-automaticke-vyplnovani-nefunguje-v-prihlasovacich-dialozich-windows-windows-security-9921)
 - [Co je Google Gemini](https://www.michalzobec.cz/co-je-google-gemini-9901)
 - [Základy promptování: Jak psát zadání, aby vám AI skutečně rozuměla](https://www.michalzobec.cz/zaklady-promptovani-jak-psat-zadani-aby-vam-ai-skutecne-rozumela-9916)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Microsoft Deployment Toolkit &lpar;MDT&rpar; – ukončena podpora](https://www.michalzobec.cz/microsoft-deployment-toolkit-mdt-ukoncena-podpora-9896)
 - [Windows Server 2025: Windows Deployment Services &lpar;WDS&rpar; – ukončena podpora moderních operačních systémů](https://www.michalzobec.cz/windows-server-2025-windows-deployment-services-wds-ukoncena-podpora-modernich-operacnich-systemu-9893)
 - [Musí být faktura podepsaná? Častý omyl, který stále přežívá](https://www.michalzobec.cz/musi-byt-faktura-podepsana-casty-omyl-ktery-stale-preziva-9891)
-- [Windows 10: Windows 10 Extended Security Updates &lpar;ESU&rpar; &lpar;program rozšířených aktualizací zabezpečení&rpar; pro školy](https://www.michalzobec.cz/windows-10-windows-10-extended-security-updates-esu-pro-skoly-9879)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
