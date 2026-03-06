@@ -66,7 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
-- [HTTPS certifikáty zkrátí platnost na 47 dní – Konec ruční správy se blíží](https://www.michalzobec.cz/https-certifikaty-zkrati-platnost-na-47-dni-konec-rucni-spravy-se-blizi-9947)
+- [HTTPS certifikáty zkrátí platnost na 47 dní – Konec ruční správy se blíží &lpar;Aktualizace 5.3.2026&rpar;](https://www.michalzobec.cz/https-certifikaty-zkrati-platnost-na-47-dni-konec-rucni-spravy-se-blizi-9947)
 - [Licencování: Microsoft SQL Server 2025 Express – nová pravidla pro bezplatnou edici](https://www.michalzobec.cz/licencovani-microsoft-sql-server-2025-express-nova-pravidla-pro-bezplatnou-edici-9944)
 - [KeePass: Auto-Type &lpar;automatické vyplňování&rpar; nefunguje v přihlašovacích dialozích Windows &lpar;Windows Security&rpar;](https://www.michalzobec.cz/keepass-auto-type-automaticke-vyplnovani-nefunguje-v-prihlasovacich-dialozich-windows-windows-security-9921)
 - [Co je Google Gemini](https://www.michalzobec.cz/co-je-google-gemini-9901)
