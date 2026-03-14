@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Group Policy: Jak zjistit, jaké GPO se aplikují pomocí nástroje Resultant Set of Policy &lpar;RSoP&rpar;](https://www.michalzobec.cz/group-policy-jak-zjistit-jake-gpo-se-aplikuji-pomoci-nastroje-resultant-set-of-policy-rsop-9941)
 - [HTTPS certifikáty zkrátí platnost na 47 dní – Konec ruční správy se blíží &lpar;Aktualizace 5.3.2026&rpar;](https://www.michalzobec.cz/https-certifikaty-zkrati-platnost-na-47-dni-konec-rucni-spravy-se-blizi-9947)
 - [Licencování: Microsoft SQL Server 2025 Express – nová pravidla pro bezplatnou edici](https://www.michalzobec.cz/licencovani-microsoft-sql-server-2025-express-nova-pravidla-pro-bezplatnou-edici-9944)
 - [KeePass: Auto-Type &lpar;automatické vyplňování&rpar; nefunguje v přihlašovacích dialozích Windows &lpar;Windows Security&rpar;](https://www.michalzobec.cz/keepass-auto-type-automaticke-vyplnovani-nefunguje-v-prihlasovacich-dialozich-windows-windows-security-9921)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Co je to umělá inteligence a jsou velké jazykové modely &lpar;LLM&rpar; skutečně AI?](https://www.michalzobec.cz/co-je-to-umela-inteligence-a-jsou-velke-jazykove-modely-llm-skutecne-ai-9898)
 - [ChatGPT: Srovnání plánů Free, Go, Plus a Pro &lpar;Aktualizováno 18.1.2026&rpar;](https://www.michalzobec.cz/chatgpt-srovnani-planu-free-a-plus-9542)
 - [Microsoft Deployment Toolkit &lpar;MDT&rpar; – ukončena podpora](https://www.michalzobec.cz/microsoft-deployment-toolkit-mdt-ukoncena-podpora-9896)
-- [Windows Server 2025: Windows Deployment Services &lpar;WDS&rpar; – ukončena podpora moderních operačních systémů](https://www.michalzobec.cz/windows-server-2025-windows-deployment-services-wds-ukoncena-podpora-modernich-operacnich-systemu-9893)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
