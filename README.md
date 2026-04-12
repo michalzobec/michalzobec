@@ -66,6 +66,9 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Windows App: klient pro Windows 365, Azure Virtual Desktop a vzdálenou plochu](https://www.michalzobec.cz/microsoft-windows-app-klient-pro-windows-365-azure-virtual-desktop-a-vzdalenou-plochu-10291)
+- [Azure Virtual Desktop &lpar;AVD&rpar;: výhody, využití ve firmách a srovnání s Windows 365](https://www.michalzobec.cz/azure-virtual-desktop-avd-vyhody-vyuziti-ve-firmach-a-srovnani-s-windows-365-10286)
+- [Windows 365 &lpar;Cloud PC&rpar;: výhody, využití ve firmách a srovnání s Azure Virtual Desktop](https://www.michalzobec.cz/windows-365-cloud-pc-vyhody-vyuziti-ve-firmach-a-srovnani-s-azure-virtual-desktop-10283)
 - [Group Policy: Jak zjistit, jaké GPO se aplikují pomocí nástroje Resultant Set of Policy &lpar;RSoP&rpar;](https://www.michalzobec.cz/group-policy-jak-zjistit-jake-gpo-se-aplikuji-pomoci-nastroje-resultant-set-of-policy-rsop-9941)
 - [HTTPS certifikáty zkrátí platnost na 47 dní – Konec ruční správy se blíží &lpar;Aktualizace 5.3.2026&rpar;](https://www.michalzobec.cz/https-certifikaty-zkrati-platnost-na-47-dni-konec-rucni-spravy-se-blizi-9947)
 - [Licencování: Microsoft SQL Server 2025 Express – nová pravidla pro bezplatnou edici](https://www.michalzobec.cz/licencovani-microsoft-sql-server-2025-express-nova-pravidla-pro-bezplatnou-edici-9944)
@@ -73,9 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Co je Google Gemini](https://www.michalzobec.cz/co-je-google-gemini-9901)
 - [Základy promptování: Jak psát zadání, aby vám AI skutečně rozuměla](https://www.michalzobec.cz/zaklady-promptovani-jak-psat-zadani-aby-vam-ai-skutecne-rozumela-9916)
 - [Co je OpenAI ChatGPT](https://www.michalzobec.cz/co-je-openai-chatgpt-9899)
-- [Co je to umělá inteligence a jsou velké jazykové modely &lpar;LLM&rpar; skutečně AI?](https://www.michalzobec.cz/co-je-to-umela-inteligence-a-jsou-velke-jazykove-modely-llm-skutecne-ai-9898)
-- [ChatGPT: Srovnání plánů Free, Go, Plus a Pro &lpar;Aktualizováno 18.1.2026&rpar;](https://www.michalzobec.cz/chatgpt-srovnani-planu-free-a-plus-9542)
-- [Microsoft Deployment Toolkit &lpar;MDT&rpar; – ukončena podpora](https://www.michalzobec.cz/microsoft-deployment-toolkit-mdt-ukoncena-podpora-9896)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
