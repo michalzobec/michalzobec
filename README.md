@@ -66,6 +66,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Teams: Jak přepnout otevírání odkazů z Microsoft Edge na výchozí prohlížeč](https://www.michalzobec.cz/microsoft-teams-jak-prepnout-otevirani-odkazu-z-microsoft-edge-na-vychozi-prohlizec-10338)
 - [Podnikání: Nevýhody podnikání aneb co jste nevěděli a báli jste se zeptat](https://www.michalzobec.cz/podnikani-nevyhody-podnikani-aneb-co-jste-nevedeli-a-bali-jste-se-zeptat-10315)
 - [Mobilní klíč eGovernmentu: Jak registrovat nové zařízení v aplikaci &lpar;Návod&rpar;](https://www.michalzobec.cz/mobilni-klic-egovernmentu-registrace-noveho-zarizeni-10308)
 - [Podnikání: Jak získat ověřený výpis z živnostenského rejstříku online](https://www.michalzobec.cz/podnikani-jak-ziskat-overeny-vypis-z-zivnostenskeho-rejstriku-online-10302)
@@ -75,7 +76,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Group Policy: Jak zjistit, jaké GPO se aplikují pomocí nástroje Resultant Set of Policy &lpar;RSoP&rpar;](https://www.michalzobec.cz/group-policy-jak-zjistit-jake-gpo-se-aplikuji-pomoci-nastroje-resultant-set-of-policy-rsop-9941)
 - [HTTPS certifikáty zkrátí platnost na 47 dní – Konec ruční správy se blíží &lpar;Aktualizace 5.3.2026&rpar;](https://www.michalzobec.cz/https-certifikaty-zkrati-platnost-na-47-dni-konec-rucni-spravy-se-blizi-9947)
 - [Licencování: Microsoft SQL Server 2025 Express – nová pravidla pro bezplatnou edici](https://www.michalzobec.cz/licencovani-microsoft-sql-server-2025-express-nova-pravidla-pro-bezplatnou-edici-9944)
-- [KeePass: Auto-Type &lpar;automatické vyplňování&rpar; nefunguje v přihlašovacích dialozích Windows &lpar;Windows Security&rpar;](https://www.michalzobec.cz/keepass-auto-type-automaticke-vyplnovani-nefunguje-v-prihlasovacich-dialozich-windows-windows-security-9921)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
