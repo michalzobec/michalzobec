@@ -4,9 +4,9 @@
 
 ([*For English scroll below*](#english "For English scroll below"))
 
-Jmenuji se **Michal Zobec**. Bydlím v Břeclavi, v České republice.
+Jmenuji se **Michal Zobec**. Pracuji v Praze, v České republice.
 
-Pracuji jako kontraktor na pozicích Senior IT Infrastructure Specialist, Senior IT Consultant, IT Architect, či IT Project Manager. Mám více než 20 let praxi v oboru ICT.
+Pracuji jako kontraktor na pozicích Senior IT Infrastructure Specialist, Senior IT Consultant, IT Architect, či IT Project Manager. Mám 26+ let praxi v oboru ICT.
 
 Jsem zaměřen na platformu produktů společnosti Microsoft:
 
@@ -37,9 +37,9 @@ Zde jsou některé mé projekty. Pokud chcete, můžete kouknout na [všechny re
 
 # Hello
 
-My name is **Michal Zobec**. I am live at Břeclav, Czechia.
+My name is **Michal Zobec**. I am working at Prague, Czechia.
 
-I working as Senior IT Infrastructure Specialist, Senior IT Consultant, IT Architect and IT Project Manager with 20+ years experience.
+I working as Senior IT Infrastructure Specialist, Senior IT Consultant, IT Architect and IT Project Manager with 26+ years experience.
 
 I am focused to Microsoft platform products like:
 
