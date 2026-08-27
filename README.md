@@ -62,16 +62,16 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare: Jak opravit chybu na webu ERR_SSL_VERSION_OR_CIPHER_MISMATCH](https://www.michalzobec.cz/cloudflare-jak-opravit-chybu-na-webu-err_ssl_version_or_cipher_mismatch-9743)
-- [Cloudflare: Jak obnovit nebo vynutit nový Universal SSL certifikát v Cloudflare](https://www.michalzobec.cz/cloudflare-jak-obnovit-nebo-vynutit-novy-universal-ssl-certifikat-v-cloudflare-9748)
-- [Cloudflare: Co je služba Cloudflare a proč bych ji měl chtít používat](https://www.michalzobec.cz/cloudflare-co-je-sluzba-cloudflare-a-proc-bych-ji-mel-chtit-pouzivat-9747)
-- [Remote Desktop Services: Jak zjistit volné místo v profilu využívající User Profile Disks &lpar;UPD&rpar; v PowerShellu](https://www.michalzobec.cz/remote-desktop-services-jak-zjistit-volne-misto-v-profilu-vyuzivajici-user-profile-disks-upd-v-powershellu-9740)
-- [Microsoft Edge &lpar;Chromium&rpar;: Rozdíly mezi Edge &lpar;regular&rpar; a Edge for Business &lpar;Aktualizace 27.7.2025&rpar;](https://www.michalzobec.cz/microsoft-edge-chromium-rozdily-mezi-edge-regular-a-edge-for-business-8413)
-- [Kdo s kým začal válku? &lpar;Aktualizace 20.7.2025&rpar;](https://www.michalzobec.cz/kdo-s-kym-zacal-valku-9673)
-- [Remote Desktop Services: Install Mode &lpar;change user&rpar; a jeho omezení](https://www.michalzobec.cz/remote-desktop-services-install-mode-change-user-a-jeho-omezeni-9732)
-- [Bezpečnost: Sledování aktivit zaměstnanců na počítači](https://www.michalzobec.cz/bezpecnost-sledovani-aktivit-zamestnancu-na-pocitaci-9366)
-- [Microsoft od května 2025 zpřísnil podmínky pro doručování e-mailů](https://www.michalzobec.cz/microsoft-od-kvetna-2025-zprisnil-podminky-pro-dorucovani-e-mailu-9720)
-- [Licencování: Texty licenčních smluv k produktům Apple &lpar;macOS, iPadOS, iOS&rpar;](https://www.michalzobec.cz/licencovani-texty-licencnich-smluv-k-produktum-apple-macos-ipados-ios-9717)
+- [Microsoft Teams: Jak přepnout otevírání odkazů z Microsoft Edge na výchozí prohlížeč](https://www.michalzobec.cz/microsoft-teams-jak-prepnout-otevirani-odkazu-z-microsoft-edge-na-vychozi-prohlizec-10338)
+- [Podnikání: Nevýhody podnikání aneb co jste nevěděli a báli jste se zeptat](https://www.michalzobec.cz/podnikani-nevyhody-podnikani-aneb-co-jste-nevedeli-a-bali-jste-se-zeptat-10315)
+- [Mobilní klíč eGovernmentu: Jak registrovat nové zařízení v aplikaci &lpar;Návod&rpar;](https://www.michalzobec.cz/mobilni-klic-egovernmentu-registrace-noveho-zarizeni-10308)
+- [Podnikání: Jak získat ověřený výpis z živnostenského rejstříku online](https://www.michalzobec.cz/podnikani-jak-ziskat-overeny-vypis-z-zivnostenskeho-rejstriku-online-10302)
+- [Microsoft Windows App: klient pro Windows 365, Azure Virtual Desktop a vzdálenou plochu](https://www.michalzobec.cz/microsoft-windows-app-klient-pro-windows-365-azure-virtual-desktop-a-vzdalenou-plochu-10291)
+- [Azure Virtual Desktop &lpar;AVD&rpar;: výhody, využití ve firmách a srovnání s Windows 365](https://www.michalzobec.cz/azure-virtual-desktop-avd-vyhody-vyuziti-ve-firmach-a-srovnani-s-windows-365-10286)
+- [Windows 365 &lpar;Cloud PC&rpar;: výhody, využití ve firmách a srovnání s Azure Virtual Desktop](https://www.michalzobec.cz/windows-365-cloud-pc-vyhody-vyuziti-ve-firmach-a-srovnani-s-azure-virtual-desktop-10283)
+- [Group Policy: Jak zjistit, jaké GPO se aplikují pomocí nástroje Resultant Set of Policy &lpar;RSoP&rpar;](https://www.michalzobec.cz/group-policy-jak-zjistit-jake-gpo-se-aplikuji-pomoci-nastroje-resultant-set-of-policy-rsop-9941)
+- [HTTPS certifikáty zkrátí platnost na 47 dní – Konec ruční správy se blíží &lpar;Aktualizace 5.3.2026&rpar;](https://www.michalzobec.cz/https-certifikaty-zkrati-platnost-na-47-dni-konec-rucni-spravy-se-blizi-9947)
+- [Licencování: Microsoft SQL Server 2025 Express – nová pravidla pro bezplatnou edici](https://www.michalzobec.cz/licencovani-microsoft-sql-server-2025-express-nova-pravidla-pro-bezplatnou-edici-9944)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
