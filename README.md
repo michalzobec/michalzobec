@@ -62,6 +62,8 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Jak získat informace o Group Policy a Local Group Policy aplikované na konkrétním zařízení](https://www.michalzobec.cz/jak-ziskat-informace-o-group-policy-a-local-group-policy-aplikovane-na-konkretnim-zarizeni-10348)
+- [Délka poskytované podpory pro součásti produktů &lpar;komponenty&rpar; společnosti Microsoft](https://www.michalzobec.cz/delka-poskytovane-podpory-pro-soucasti-produktu-komponenty-spolecnosti-microsoft-9508)
 - [Uživatelské moduly PowerShellu mimo OneDrive](https://www.michalzobec.cz/uzivatelske-moduly-powershellu-mimo-onedrive-10345)
 - [Microsoft Teams: Jak přepnout otevírání odkazů z Microsoft Edge na výchozí prohlížeč](https://www.michalzobec.cz/microsoft-teams-jak-prepnout-otevirani-odkazu-z-microsoft-edge-na-vychozi-prohlizec-10338)
 - [Podnikání: Nevýhody podnikání aneb co jste nevěděli a báli jste se zeptat](https://www.michalzobec.cz/podnikani-nevyhody-podnikani-aneb-co-jste-nevedeli-a-bali-jste-se-zeptat-10315)
@@ -70,8 +72,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Microsoft Windows App: klient pro Windows 365, Azure Virtual Desktop a vzdálenou plochu](https://www.michalzobec.cz/microsoft-windows-app-klient-pro-windows-365-azure-virtual-desktop-a-vzdalenou-plochu-10291)
 - [Azure Virtual Desktop &lpar;AVD&rpar;: výhody, využití ve firmách a srovnání s Windows 365](https://www.michalzobec.cz/azure-virtual-desktop-avd-vyhody-vyuziti-ve-firmach-a-srovnani-s-windows-365-10286)
 - [Windows 365 &lpar;Cloud PC&rpar;: výhody, využití ve firmách a srovnání s Azure Virtual Desktop](https://www.michalzobec.cz/windows-365-cloud-pc-vyhody-vyuziti-ve-firmach-a-srovnani-s-azure-virtual-desktop-10283)
-- [Group Policy: Jak zjistit, jaké GPO se aplikují pomocí nástroje Resultant Set of Policy &lpar;RSoP&rpar;](https://www.michalzobec.cz/group-policy-jak-zjistit-jake-gpo-se-aplikuji-pomoci-nastroje-resultant-set-of-policy-rsop-9941)
-- [HTTPS certifikáty zkrátí platnost na 47 dní – Konec ruční správy se blíží &lpar;Aktualizace 5.3.2026&rpar;](https://www.michalzobec.cz/https-certifikaty-zkrati-platnost-na-47-dni-konec-rucni-spravy-se-blizi-9947)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
