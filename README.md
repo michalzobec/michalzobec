@@ -62,6 +62,7 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft 365/Office 365: OneDrive: Zakázané typy souborů &lpar;blocked file types&rpar; na OneDrive/SharePoint](https://www.michalzobec.cz/microsoft-365-office-365-onedrive-zakazane-typy-souboru-blocked-file-types-na-onedrive-8199)
 - [Jak získat informace o Group Policy a Local Group Policy aplikované na konkrétním zařízení](https://www.michalzobec.cz/jak-ziskat-informace-o-group-policy-a-local-group-policy-aplikovane-na-konkretnim-zarizeni-10348)
 - [Délka poskytované podpory pro součásti produktů &lpar;komponenty&rpar; společnosti Microsoft](https://www.michalzobec.cz/delka-poskytovane-podpory-pro-soucasti-produktu-komponenty-spolecnosti-microsoft-9508)
 - [Uživatelské moduly PowerShellu mimo OneDrive](https://www.michalzobec.cz/uzivatelske-moduly-powershellu-mimo-onedrive-10345)
@@ -71,7 +72,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Podnikání: Jak získat ověřený výpis z živnostenského rejstříku online](https://www.michalzobec.cz/podnikani-jak-ziskat-overeny-vypis-z-zivnostenskeho-rejstriku-online-10302)
 - [Microsoft Windows App: klient pro Windows 365, Azure Virtual Desktop a vzdálenou plochu](https://www.michalzobec.cz/microsoft-windows-app-klient-pro-windows-365-azure-virtual-desktop-a-vzdalenou-plochu-10291)
 - [Azure Virtual Desktop &lpar;AVD&rpar;: výhody, využití ve firmách a srovnání s Windows 365](https://www.michalzobec.cz/azure-virtual-desktop-avd-vyhody-vyuziti-ve-firmach-a-srovnani-s-windows-365-10286)
-- [Windows 365 &lpar;Cloud PC&rpar;: výhody, využití ve firmách a srovnání s Azure Virtual Desktop](https://www.michalzobec.cz/windows-365-cloud-pc-vyhody-vyuziti-ve-firmach-a-srovnani-s-azure-virtual-desktop-10283)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
