@@ -62,6 +62,9 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Čím nahradit Oracle Java Runtime Environment](https://www.michalzobec.cz/cim-nahradit-oracle-java-runtime-environment-9648)
+- [Windows 10: Jak získat službu Extended Security Updates &lpar;ESU&rpar; zdarma na dva roky pro obyvatele Evropského hospodářského prostoru &lpar;EEA&rpar; &lpar;návod krok za krokem&rpar; &lpar;Aktualizace 19.9.2026&rpar;](https://www.michalzobec.cz/windows-10-jak-ziskat-zdarma-sluzbu-extended-security-updates-esu-zdarma-na-rok-pro-obyvatele-evropskeho-hospodarskeho-prostoru-eea-navod-krok-za-krokem-9857)
+- [Windows 10: Microsoft nabízí službu Extended Security Updates &lpar;ESU&rpar; zdarma pro obyvatele Evropského hospodářského prostoru &lpar;EEA&rpar; na dva roky &lpar;Aktualizace 19.9.2026&rpar;](https://www.michalzobec.cz/windows-10-microsoft-nabizi-sluzbu-extended-security-updates-esu-zdarma-pro-obyvatele-evropskeho-hospodarskeho-prostoru-eea-na-jeden-rok-9840)
 - [Microsoft 365/Office 365: OneDrive: Zakázané typy souborů &lpar;blocked file types&rpar; na OneDrive/SharePoint](https://www.michalzobec.cz/microsoft-365-office-365-onedrive-zakazane-typy-souboru-blocked-file-types-na-onedrive-8199)
 - [Jak získat informace o Group Policy a Local Group Policy aplikované na konkrétním zařízení](https://www.michalzobec.cz/jak-ziskat-informace-o-group-policy-a-local-group-policy-aplikovane-na-konkretnim-zarizeni-10348)
 - [Délka poskytované podpory pro součásti produktů &lpar;komponenty&rpar; společnosti Microsoft](https://www.michalzobec.cz/delka-poskytovane-podpory-pro-soucasti-produktu-komponenty-spolecnosti-microsoft-9508)
@@ -69,9 +72,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Microsoft Teams: Jak přepnout otevírání odkazů z Microsoft Edge na výchozí prohlížeč](https://www.michalzobec.cz/microsoft-teams-jak-prepnout-otevirani-odkazu-z-microsoft-edge-na-vychozi-prohlizec-10338)
 - [Podnikání: Nevýhody podnikání aneb co jste nevěděli a báli jste se zeptat](https://www.michalzobec.cz/podnikani-nevyhody-podnikani-aneb-co-jste-nevedeli-a-bali-jste-se-zeptat-10315)
 - [Mobilní klíč eGovernmentu: Jak registrovat nové zařízení v aplikaci &lpar;Návod&rpar;](https://www.michalzobec.cz/mobilni-klic-egovernmentu-registrace-noveho-zarizeni-10308)
-- [Podnikání: Jak získat ověřený výpis z živnostenského rejstříku online](https://www.michalzobec.cz/podnikani-jak-ziskat-overeny-vypis-z-zivnostenskeho-rejstriku-online-10302)
-- [Microsoft Windows App: klient pro Windows 365, Azure Virtual Desktop a vzdálenou plochu](https://www.michalzobec.cz/microsoft-windows-app-klient-pro-windows-365-azure-virtual-desktop-a-vzdalenou-plochu-10291)
-- [Azure Virtual Desktop &lpar;AVD&rpar;: výhody, využití ve firmách a srovnání s Windows 365](https://www.michalzobec.cz/azure-virtual-desktop-avd-vyhody-vyuziti-ve-firmach-a-srovnani-s-windows-365-10286)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
