@@ -62,6 +62,8 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Proč by vás měly zajímat staticky generované weby](https://www.michalzobec.cz/proc-by-vas-mely-zajimat-staticky-generovane-weby-9077)
+- [Windows 10: co jim chybí a časem začne vadit](https://www.michalzobec.cz/windows-10-co-jim-chybi-a-casem-zacne-vadit-10380)
 - [Čím nahradit Oracle Java Runtime Environment](https://www.michalzobec.cz/cim-nahradit-oracle-java-runtime-environment-9648)
 - [Windows 10: Jak získat službu Extended Security Updates &lpar;ESU&rpar; zdarma na dva roky pro obyvatele Evropského hospodářského prostoru &lpar;EEA&rpar; &lpar;návod krok za krokem&rpar; &lpar;Aktualizace 19.9.2026&rpar;](https://www.michalzobec.cz/windows-10-jak-ziskat-zdarma-sluzbu-extended-security-updates-esu-zdarma-na-rok-pro-obyvatele-evropskeho-hospodarskeho-prostoru-eea-navod-krok-za-krokem-9857)
 - [Windows 10: Microsoft nabízí službu Extended Security Updates &lpar;ESU&rpar; zdarma pro obyvatele Evropského hospodářského prostoru &lpar;EEA&rpar; na dva roky &lpar;Aktualizace 19.9.2026&rpar;](https://www.michalzobec.cz/windows-10-microsoft-nabizi-sluzbu-extended-security-updates-esu-zdarma-pro-obyvatele-evropskeho-hospodarskeho-prostoru-eea-na-jeden-rok-9840)
@@ -70,8 +72,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Délka poskytované podpory pro součásti produktů &lpar;komponenty&rpar; společnosti Microsoft](https://www.michalzobec.cz/delka-poskytovane-podpory-pro-soucasti-produktu-komponenty-spolecnosti-microsoft-9508)
 - [Uživatelské moduly PowerShellu mimo OneDrive](https://www.michalzobec.cz/uzivatelske-moduly-powershellu-mimo-onedrive-10345)
 - [Microsoft Teams: Jak přepnout otevírání odkazů z Microsoft Edge na výchozí prohlížeč](https://www.michalzobec.cz/microsoft-teams-jak-prepnout-otevirani-odkazu-z-microsoft-edge-na-vychozi-prohlizec-10338)
-- [Podnikání: Nevýhody podnikání aneb co jste nevěděli a báli jste se zeptat](https://www.michalzobec.cz/podnikani-nevyhody-podnikani-aneb-co-jste-nevedeli-a-bali-jste-se-zeptat-10315)
-- [Mobilní klíč eGovernmentu: Jak registrovat nové zařízení v aplikaci &lpar;Návod&rpar;](https://www.michalzobec.cz/mobilni-klic-egovernmentu-registrace-noveho-zarizeni-10308)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
