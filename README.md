@@ -62,6 +62,8 @@ Stats on GitHub, only public repositories.
 Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google Translator.
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows Server 2025: Výchozí produktové klíče &lpar;default product keys&rpar;](https://www.michalzobec.cz/windows-server-2025-vychozi-produktove-klice-default-product-keys-10395)
+- [Windows 11: Výchozí produktové klíče &lpar;default product keys&rpar;](https://www.michalzobec.cz/windows-11-vychozi-produktove-klice-default-product-keys-10393)
 - [Proč by vás měly zajímat staticky generované weby](https://www.michalzobec.cz/proc-by-vas-mely-zajimat-staticky-generovane-weby-9077)
 - [Windows 10: co jim chybí a časem začne vadit](https://www.michalzobec.cz/windows-10-co-jim-chybi-a-casem-zacne-vadit-10380)
 - [Čím nahradit Oracle Java Runtime Environment](https://www.michalzobec.cz/cim-nahradit-oracle-java-runtime-environment-9648)
@@ -70,8 +72,6 @@ Poslední příspěvky na blogu. / Last blog posts in Czech, you can use Google 
 - [Microsoft 365/Office 365: OneDrive: Zakázané typy souborů &lpar;blocked file types&rpar; na OneDrive/SharePoint](https://www.michalzobec.cz/microsoft-365-office-365-onedrive-zakazane-typy-souboru-blocked-file-types-na-onedrive-8199)
 - [Jak získat informace o Group Policy a Local Group Policy aplikované na konkrétním zařízení](https://www.michalzobec.cz/jak-ziskat-informace-o-group-policy-a-local-group-policy-aplikovane-na-konkretnim-zarizeni-10348)
 - [Délka poskytované podpory pro součásti produktů &lpar;komponenty&rpar; společnosti Microsoft](https://www.michalzobec.cz/delka-poskytovane-podpory-pro-soucasti-produktu-komponenty-spolecnosti-microsoft-9508)
-- [Uživatelské moduly PowerShellu mimo OneDrive](https://www.michalzobec.cz/uzivatelske-moduly-powershellu-mimo-onedrive-10345)
-- [Microsoft Teams: Jak přepnout otevírání odkazů z Microsoft Edge na výchozí prohlížeč](https://www.michalzobec.cz/microsoft-teams-jak-prepnout-otevirani-odkazu-z-microsoft-edge-na-vychozi-prohlizec-10338)
 <!-- BLOG-POST-LIST:END -->
 
 ## Odkazy / Links
